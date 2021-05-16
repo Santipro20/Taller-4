@@ -1,0 +1,63 @@
+---
+title: "Taller 4"
+author: Santiago López Rodríguez, Manuel Alejandro Noriega Lizarazo y Xara Lucia Chamorro
+  Aristizabal
+output:
+  html_document:
+    df_print: paged
+---
+
+## Librerias
+
+```{r}
+library("tidyverse")
+library("naniar")
+library("ggthemes")
+library("readxl")
+library("lubridate")
+library("dplyr")
+```
+
+## Punto 1
+
+```{r}
+IHSM <- read_delim("Datos/IHSM.csv", delim = ";")
+regresion_1 <- read_delim("Datos/Regresion_1.csv", delim = ";")
+regresion_2 <- read_delim("Datos/Regresion_2.csv", delim = ";")
+```
+
+## Punto 3
+
+```{r}
+IHSM <- left_join(IHSM, regresion_1, by = c("paises_P","ano"))
+IHSM <- left_join(IHSM, regresion_2, by = c("paises_P","ano"))
+```
+
+## Punto 4
+
+```{r}
+IHSM <- IHSM %>% 
+  mutate(across(.cols = c("paises_P","codigo"),~as.factor(.x)))
+```
+
+## Punto 5
+
+```{r}
+##  Creamos la variable IHSM 
+
+  # Consideramos la fiabilidad de las variables, con un indicador de suma 
+
+  IHSM <- IHSM %>% 
+  mutate(suma = ANS+DP+ESQ+BI+DA+AH+DR+SU)
+
+  # Alfa de Cronbach
+
+  for (i in 4:11) {
+  dato <- var(IHSM[i],na.rm = TRUE)
+  print(dato)
+  }
+    
+  varianza_variables <- 1.363118+0.4301509+0.00195831+0.02944265+0.8292454+0.8292454
+
+```
+
