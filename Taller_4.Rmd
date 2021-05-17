@@ -107,11 +107,12 @@ base_completa <- select(base_completa,-codigo)
 ### Damos valores de normalizacion
 
 ```{r}
+# Valores minimos de los sub-índices
 for (i in 3:9) {
   minimo<-min(base_completa[i])
   print(minimo)
 }
-
+# Valores maximos de los sub-índices
 for (i in 3:9) {
   maximo<-max(base_completa[i])
   print(maximo)
@@ -129,8 +130,7 @@ for (i in 3:9) {
 | DR        | 19.11546     | 9.715255     |
 
 ```{r}
-#Calculamos los sub-indices
-
+# Calculamos los sub-indices respecto a los valores minimox y maximos
 base_completa <- base_completa %>%
      mutate(ANS_a = (ANS-2.023393)/(8.96733-2.023393),
            DP_a = (DP-2.139903)/(6.602754-2.139903),
@@ -139,19 +139,25 @@ base_completa <- base_completa %>%
            DA_a = (DA-0.07390753)/(0.9439906-0.07390753),
            AH_a = (AH-1.196984)/(6.933015-1.196984),
            DR_a = (DR-9.715255)/(19.11546-9.715255))
+
+# Calaculamos el indice IHSM
 base_completa <- base_completa %>%
   mutate(IHSM = ANS_a*1/7+DP_a*1/7+ESQ_a*1/7+BI_a*1/7+DA_a*1/7+AH_a*1/7+DR_a*1/7)
 
 arrange(base_completa,desc(IHSM))
 
+# Se multiplican los resultados de IHSM por 100.
 base_completa<- base_completa %>%
     mutate(IHSM = IHSM*100)
+
+# Creamos un IHSM ajustado por region de ingreso para mejorar la capacidad del instrumento debido a sesgos en los datos de salud mental, presente por la mala recoleccion de datos de paises de ingreso bajo y medio.
 
 base_completa <- base_completa %>%
   ungroup() %>%
   group_by(IncomeGroup)%>%
   mutate(IHSM_ajustado = ((IHSM- min(IHSM))/(max(IHSM)-min(IHSM))*100))
 
+# Desarupamos y eliminamos los datos faltantes por region de ingreso
 base_completa<- tibble(base_completa)
 
 base_completa1 <- drop_na(base_completa,IncomeGroup)
@@ -162,6 +168,7 @@ class(base_completa1)
 ### Estadistica Descritiva
 
 ```{r}
+# Estadisticas descriptivas 
 resumen_paises <- base_completa1 %>%
     group_by(paises_P)%>%  
     summarize(across(.cols = c("IHSM_ajustado","GINId","IC","IDH","GPS","GPE","GPD"), list(Media=~mean(.x,na.rm = T), DesviacionEstandar=~sd(.x,na.rm = T), Maximo=~max(.x,na.rm = T), Minimo=~min(.x,na.rm = T), Mediana=~median(.x,na.rm = T)))) %>%
@@ -238,7 +245,7 @@ ggplot(data = base_completa1,
 ## Punto 7
 
 ```{r}
-
+# Correlalograma
 variables_cor <- base_completa1 %>% select(IHSM_ajustado,GINId,IC,IDH,GPS,GPE,GPD)
 
 cor(variables_cor,  use = "complete.obs")
