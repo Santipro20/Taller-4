@@ -1,0 +1,5482 @@
+ano;paises_P;IDH
+1991;Spain;0.77
+1991;Germany;0.816
+1991;United Kingdom;0.794
+1991;France;0.796
+1991;Italy;0.782
+1991;Portugal;0.727
+1991;United States;0.867
+1991;Japan;0.823
+1991;China;0.507
+1991;United Arab Emirates;0.735
+1991;Afghanistan;0.307
+1991;Albania;0.631
+1991;Armenia;0.648
+1991;Argentina;0.725
+1991;Austria;0.808
+1991;Australia;0.871
+1991;Barbados;0.733
+1991;Bangladesh;0.401
+1991;Belgium;0.817
+1991;Bulgaria;0.705
+1991;Bahrain;0.755
+1991;Burundi;0.302
+1991;Benin;0.371
+1991;Brunei;0.771
+1991;Bolivia;0.559
+1991;Brazil;0.621
+1991;Botswana;0.579
+1991;Belize;0.614
+1991;Canada;0.854
+1991;Democratic Republic of Congo;0.366
+1991;Central African Republic;0.328
+1991;Congo;0.499
+1991;Switzerland;0.842
+1991;Cote d'Ivoire;0.404
+1991;Chile;0.715
+1991;Cameroon;0.445
+1991;Colombia;0.606
+1991;Costa Rica;0.672
+1991;Cuba;0.674
+1991;Cyprus;0.738
+1991;Czechia;0.733
+1991;Denmark;0.811
+1991;Dominican Republic;0.603
+1991;Algeria;0.576
+1991;Ecuador;0.65
+1991;Estonia;0.73
+1991;Egypt;0.552
+1991;Finland;0.793
+1991;Fiji;0.669
+1991;Gabon;0.618
+1991;Ghana;0.47
+1991;Gambia;0.354
+1991;Guinea;0.287
+1991;Greece;0.77
+1991;Guatemala;0.487
+1991;Guyana;0.544
+1991;Hong Kong SAR China;0.789
+1991;Honduras;0.518
+1991;Croatia;0.672
+1991;Haiti;0.418
+1991;Hungary;0.706
+1991;Indonesia;0.529
+1991;Ireland;0.777
+1991;Israel;0.808
+1991;India;0.433
+1991;Iraq;0.512
+1991;Iran;0.583
+1991;Iceland;0.82
+1991;Jamaica;0.648
+1991;Jordan;0.636
+1991;Kenya;0.48
+1991;Kyrgyzstan;0.634
+1991;Cambodia;0.372
+1991;South Korea;0.743
+1991;Kuwait;0.665
+1991;Kazakhstan;0.684
+1991;Laos;0.41
+1991;Sri Lanka;0.634
+1991;Lesotho;0.495
+1991;Lithuania;0.734
+1991;Luxembourg;0.804
+1991;Latvia;0.706
+1991;Libya;0.734
+1991;Morocco;0.463
+1991;Moldova;0.68
+1991;Mali;0.241
+1991;Myanmar;0.349
+1991;Mongolia;0.573
+1991;Mauritania;0.402
+1991;Malta;0.757
+1991;Mauritius;0.63
+1991;Malawi;0.34
+1991;Mexico;0.66
+1991;Malaysia;0.651
+1991;Mozambique;0.231
+1991;Namibia;0.583
+1991;Niger;0.223
+1991;Nicaragua;0.506
+1991;Netherlands;0.84
+1991;Norway;0.854
+1991;Nepal;0.395
+1991;New Zealand;0.827
+1991;Panama;0.68
+1991;Peru;0.62
+1991;Papua New Guinea;0.389
+1991;Philippines;0.595
+1991;Pakistan;0.407
+1991;Poland;0.716
+1991;Paraguay;0.604
+1991;Qatar;0.747
+1991;Romania;0.694
+1991;Serbia;0.719
+1991;Russia;0.731
+1991;Rwanda;0.22
+1991;Saudi Arabia;0.705
+1991;Sudan;0.336
+1991;Sweden;0.823
+1991;Singapore;0.731
+1991;Slovenia;0.772
+1991;Slovakia;0.736
+1991;Sierra Leone;0.28
+1991;Senegal;0.377
+1991;Sao Tome and Principe;0.454
+1991;El Salvador;0.54
+1991;Syria;0.556
+1991;Eswatini;0.542
+1991;Togo;0.409
+1991;Thailand;0.586
+1991;Tajikistan;0.612
+1991;Tunisia;0.573
+1991;Tonga;0.659
+1991;Turkey;0.587
+1991;Trinidad and Tobago;0.67
+1991;Tanzania;0.369
+1991;Ukraine;0.721
+1991;Uganda;0.32
+1991;Uruguay;0.699
+1991;Venezuela;0.654
+1991;Vietnam;0.493
+1991;Samoa;0.634
+1991;Yemen;0.401
+1991;South Africa;0.634
+1991;Zambia;0.417
+1991;Zimbabwe;0.481
+1991;Azerbaijan;NA
+1991;Belarus;NA
+1991;Djibouti;NA
+1991;Maldives;NA
+1991;Angola;NA
+1991;Liberia;NA
+1991;Solomon Islands;NA
+1991;Andorra;NA
+1991;Bosnia and Herzegovina;NA
+1991;Burkina Faso;NA
+1991;Bahamas;NA
+1991;Cape Verde;NA
+1991;Dominica;NA
+1991;Ethiopia;NA
+1991;Micronesia (country);NA
+1991;Georgia;NA
+1991;Equatorial Guinea;NA
+1991;Kiribati;NA
+1991;Comoros;NA
+1991;Saint Lucia;NA
+1991;Liechtenstein;NA
+1991;Madagascar;NA
+1991;North Macedonia;NA
+1991;Oman;NA
+1991;Palau;NA
+1991;Seychelles;NA
+1991;Chad;NA
+1991;Timor;NA
+1991;Uzbekistan;NA
+1991;Saint Vincent and the Grenadines;NA
+1991;Grenada;NA
+1991;Montenegro;NA
+1991;Nigeria;NA
+1991;Palestine;NA
+1991;Suriname;NA
+1991;Antigua and Barbuda;NA
+1991;Bhutan;NA
+1991;Eritrea;NA
+1991;Guinea-Bissau;NA
+1991;St. Kitts and Nevis;NA
+1991;Lebanon;NA
+1991;Vanuatu;NA
+1991;South Sudan;NA
+1991;Turkmenistan;NA
+1991;Marshall Islands;NA
+1992;Spain;0.779
+1992;Germany;0.821
+1992;United Kingdom;0.807
+1992;France;0.804
+1992;Italy;0.788
+1992;Portugal;0.739
+1992;United States;0.867
+1992;Japan;0.826
+1992;China;0.517
+1992;United Arab Emirates;0.738
+1992;Afghanistan;0.316
+1992;Albania;0.615
+1992;Armenia;0.618
+1992;Argentina;0.73
+1992;Austria;0.813
+1992;Australia;0.873
+1992;Barbados;0.733
+1992;Bangladesh;0.41
+1992;Belgium;0.832
+1992;Bulgaria;0.705
+1992;Bahrain;0.76
+1992;Burundi;0.299
+1992;Benin;0.375
+1992;Brunei;0.777
+1992;Bolivia;0.566
+1992;Brazil;0.627
+1992;Botswana;0.577
+1992;Belize;0.621
+1992;Canada;0.857
+1992;Democratic Republic of Congo;0.361
+1992;Central African Republic;0.315
+1992;Congo;0.499
+1992;Switzerland;0.845
+1992;Cote d'Ivoire;0.405
+1992;Chile;0.722
+1992;Cameroon;0.441
+1992;Colombia;0.617
+1992;Costa Rica;0.68
+1992;Cuba;0.667
+1992;Cyprus;0.742
+1992;Czechia;0.736
+1992;Denmark;0.815
+1992;Dominican Republic;0.612
+1992;Algeria;0.582
+1992;Ecuador;0.654
+1992;Estonia;0.722
+1992;Egypt;0.559
+1992;Finland;0.801
+1992;Fiji;0.672
+1992;Gabon;0.617
+1992;Ghana;0.474
+1992;Gambia;0.358
+1992;Guinea;0.291
+1992;Greece;0.771
+1992;Guatemala;0.493
+1992;Guyana;0.559
+1992;Hong Kong SAR China;0.794
+1992;Honduras;0.523
+1992;Croatia;0.672
+1992;Haiti;0.418
+1992;Hungary;0.711
+1992;Indonesia;0.534
+1992;Ireland;0.782
+1992;Israel;0.815
+1992;India;0.44
+1992;Iraq;0.527
+1992;Iran;0.596
+1992;Iceland;0.823
+1992;Jamaica;0.655
+1992;Jordan;0.657
+1992;Kenya;0.476
+1992;Kyrgyzstan;0.625
+1992;Cambodia;0.377
+1992;South Korea;0.75
+1992;Kuwait;0.659
+1992;Kazakhstan;0.682
+1992;Laos;0.415
+1992;Sri Lanka;0.639
+1992;Lesotho;0.493
+1992;Lithuania;0.719
+1992;Luxembourg;0.809
+1992;Latvia;0.685
+1992;Libya;0.74
+1992;Morocco;0.467
+1992;Moldova;0.661
+1992;Mali;0.246
+1992;Myanmar;0.363
+1992;Mongolia;0.56
+1992;Mauritania;0.41
+1992;Malta;0.762
+1992;Mauritius;0.637
+1992;Malawi;0.348
+1992;Mexico;0.664
+1992;Malaysia;0.66
+1992;Mozambique;0.227
+1992;Namibia;0.587
+1992;Niger;0.226
+1992;Nicaragua;0.513
+1992;Netherlands;0.841
+1992;Norway;0.861
+1992;Nepal;0.402
+1992;New Zealand;0.832
+1992;Panama;0.688
+1992;Peru;0.62
+1992;Papua New Guinea;0.398
+1992;Philippines;0.598
+1992;Pakistan;0.413
+1992;Poland;0.719
+1992;Paraguay;0.608
+1992;Qatar;0.751
+1992;Romania;0.686
+1992;Serbia;0.706
+1992;Russia;0.72
+1992;Rwanda;0.202
+1992;Saudi Arabia;0.71
+1992;Sudan;0.344
+1992;Sweden;0.826
+1992;Singapore;0.742
+1992;Slovenia;0.774
+1992;Slovakia;0.735
+1992;Sierra Leone;0.278
+1992;Senegal;0.377
+1992;Sao Tome and Principe;0.457
+1992;El Salvador;0.552
+1992;Syria;0.56
+1992;Eswatini;0.539
+1992;Togo;0.4
+1992;Thailand;0.592
+1992;Tajikistan;0.592
+1992;Tunisia;0.581
+1992;Tonga;0.661
+1992;Turkey;0.594
+1992;Trinidad and Tobago;0.67
+1992;Tanzania;0.367
+1992;Ukraine;0.713
+1992;Uganda;0.313
+1992;Uruguay;0.702
+1992;Venezuela;0.66
+1992;Vietnam;0.504
+1992;Samoa;0.634
+1992;Yemen;0.404
+1992;South Africa;0.642
+1992;Zambia;0.416
+1992;Zimbabwe;0.467
+1992;Azerbaijan;NA
+1992;Belarus;NA
+1992;Djibouti;NA
+1992;Maldives;NA
+1992;Angola;NA
+1992;Liberia;NA
+1992;Solomon Islands;NA
+1992;Andorra;NA
+1992;Bosnia and Herzegovina;NA
+1992;Burkina Faso;NA
+1992;Bahamas;NA
+1992;Cape Verde;NA
+1992;Dominica;NA
+1992;Ethiopia;NA
+1992;Micronesia (country);NA
+1992;Georgia;NA
+1992;Equatorial Guinea;NA
+1992;Kiribati;NA
+1992;Comoros;NA
+1992;Saint Lucia;NA
+1992;Liechtenstein;NA
+1992;Madagascar;NA
+1992;North Macedonia;NA
+1992;Oman;NA
+1992;Palau;NA
+1992;Seychelles;NA
+1992;Chad;NA
+1992;Timor;NA
+1992;Uzbekistan;NA
+1992;Saint Vincent and the Grenadines;NA
+1992;Grenada;NA
+1992;Montenegro;NA
+1992;Nigeria;NA
+1992;Palestine;NA
+1992;Suriname;NA
+1992;Antigua and Barbuda;NA
+1992;Bhutan;NA
+1992;Eritrea;NA
+1992;Guinea-Bissau;NA
+1992;St. Kitts and Nevis;NA
+1992;Lebanon;NA
+1992;Vanuatu;NA
+1992;South Sudan;NA
+1992;Turkmenistan;NA
+1992;Marshall Islands;NA
+1993;Spain;0.789
+1993;Germany;0.831
+1993;United Kingdom;0.82
+1993;France;0.81
+1993;Italy;0.793
+1993;Portugal;0.753
+1993;United States;0.877
+1993;Japan;0.831
+1993;China;0.527
+1993;United Arab Emirates;0.745
+1993;Afghanistan;0.312
+1993;Albania;0.618
+1993;Armenia;0.617
+1993;Argentina;0.735
+1993;Austria;0.817
+1993;Australia;0.876
+1993;Barbados;0.737
+1993;Bangladesh;0.418
+1993;Belgium;0.845
+1993;Bulgaria;0.704
+1993;Bahrain;0.769
+1993;Burundi;0.299
+1993;Benin;0.382
+1993;Brunei;0.781
+1993;Bolivia;0.573
+1993;Brazil;0.635
+1993;Botswana;0.576
+1993;Belize;0.624
+1993;Canada;0.855
+1993;Democratic Republic of Congo;0.355
+1993;Central African Republic;0.315
+1993;Congo;0.493
+1993;Switzerland;0.849
+1993;Cote d'Ivoire;0.406
+1993;Chile;0.715
+1993;Cameroon;0.435
+1993;Colombia;0.624
+1993;Costa Rica;0.687
+1993;Cuba;0.66
+1993;Cyprus;0.779
+1993;Czechia;0.743
+1993;Denmark;0.822
+1993;Dominican Republic;0.619
+1993;Algeria;0.586
+1993;Ecuador;0.658
+1993;Estonia;0.715
+1993;Egypt;0.564
+1993;Finland;0.805
+1993;Fiji;0.675
+1993;Gabon;0.619
+1993;Ghana;0.478
+1993;Gambia;0.362
+1993;Guinea;0.296
+1993;Greece;0.77
+1993;Guatemala;0.499
+1993;Guyana;0.572
+1993;Hong Kong SAR China;0.802
+1993;Honduras;0.53
+1993;Croatia;0.674
+1993;Haiti;0.418
+1993;Hungary;0.724
+1993;Indonesia;0.541
+1993;Ireland;0.791
+1993;Israel;0.821
+1993;India;0.446
+1993;Iraq;0.548
+1993;Iran;0.607
+1993;Iceland;0.824
+1993;Jamaica;0.67
+1993;Jordan;0.668
+1993;Kenya;0.472
+1993;Kyrgyzstan;0.612
+1993;Cambodia;0.381
+1993;South Korea;0.76
+1993;Kuwait;0.688
+1993;Kazakhstan;0.675
+1993;Laos;0.421
+1993;Sri Lanka;0.641
+1993;Lesotho;0.487
+1993;Lithuania;0.708
+1993;Luxembourg;0.813
+1993;Latvia;0.674
+1993;Libya;0.744
+1993;Morocco;0.473
+1993;Moldova;0.66
+1993;Mali;0.253
+1993;Myanmar;0.369
+1993;Mongolia;0.546
+1993;Mauritania;0.423
+1993;Malta;0.766
+1993;Mauritius;0.643
+1993;Malawi;0.356
+1993;Mexico;0.668
+1993;Malaysia;0.667
+1993;Mozambique;0.234
+1993;Namibia;0.587
+1993;Niger;0.231
+1993;Nicaragua;0.516
+1993;Netherlands;0.846
+1993;Norway;0.869
+1993;Nepal;0.407
+1993;New Zealand;0.844
+1993;Panama;0.696
+1993;Peru;0.625
+1993;Papua New Guinea;0.411
+1993;Philippines;0.601
+1993;Pakistan;0.417
+1993;Poland;0.73
+1993;Paraguay;0.615
+1993;Qatar;0.762
+1993;Romania;0.686
+1993;Serbia;0.69
+1993;Russia;0.712
+1993;Rwanda;0.197
+1993;Saudi Arabia;0.714
+1993;Sudan;0.352
+1993;Sweden;0.846
+1993;Singapore;0.753
+1993;Slovenia;0.776
+1993;Slovakia;0.738
+1993;Sierra Leone;0.282
+1993;Senegal;0.377
+1993;Sao Tome and Principe;0.46
+1993;El Salvador;0.562
+1993;Syria;0.564
+1993;Eswatini;0.534
+1993;Togo;0.391
+1993;Thailand;0.6
+1993;Tajikistan;0.575
+1993;Tunisia;0.587
+1993;Tonga;0.665
+1993;Turkey;0.601
+1993;Trinidad and Tobago;0.672
+1993;Tanzania;0.367
+1993;Ukraine;0.703
+1993;Uganda;0.32
+1993;Uruguay;0.705
+1993;Venezuela;0.662
+1993;Vietnam;0.514
+1993;Samoa;0.639
+1993;Yemen;0.406
+1993;South Africa;0.648
+1993;Zambia;0.419
+1993;Zimbabwe;0.463
+1993;Azerbaijan;NA
+1993;Belarus;NA
+1993;Djibouti;NA
+1993;Maldives;NA
+1993;Angola;NA
+1993;Liberia;NA
+1993;Solomon Islands;NA
+1993;Andorra;NA
+1993;Bosnia and Herzegovina;NA
+1993;Burkina Faso;NA
+1993;Bahamas;NA
+1993;Cape Verde;NA
+1993;Dominica;NA
+1993;Ethiopia;NA
+1993;Micronesia (country);NA
+1993;Georgia;NA
+1993;Equatorial Guinea;NA
+1993;Kiribati;NA
+1993;Comoros;NA
+1993;Saint Lucia;NA
+1993;Liechtenstein;NA
+1993;Madagascar;NA
+1993;North Macedonia;NA
+1993;Oman;NA
+1993;Palau;NA
+1993;Seychelles;NA
+1993;Chad;NA
+1993;Timor;NA
+1993;Uzbekistan;NA
+1993;Saint Vincent and the Grenadines;NA
+1993;Grenada;NA
+1993;Montenegro;NA
+1993;Nigeria;NA
+1993;Palestine;NA
+1993;Suriname;NA
+1993;Antigua and Barbuda;NA
+1993;Bhutan;NA
+1993;Eritrea;NA
+1993;Guinea-Bissau;NA
+1993;St. Kitts and Nevis;NA
+1993;Lebanon;NA
+1993;Vanuatu;NA
+1993;South Sudan;NA
+1993;Turkmenistan;NA
+1993;Marshall Islands;NA
+1994;Spain;0.798
+1994;Germany;0.837
+1994;United Kingdom;0.833
+1994;France;0.825
+1994;Italy;0.802
+1994;Portugal;0.76
+1994;United States;0.88
+1994;Japan;0.837
+1994;China;0.534
+1994;United Arab Emirates;0.755
+1994;Afghanistan;0.307
+1994;Albania;0.624
+1994;Armenia;0.621
+1994;Argentina;0.739
+1994;Austria;0.821
+1994;Australia;0.879
+1994;Barbados;0.742
+1994;Bangladesh;0.426
+1994;Belgium;0.852
+1994;Bulgaria;0.705
+1994;Bahrain;0.772
+1994;Burundi;0.296
+1994;Benin;0.386
+1994;Brunei;0.786
+1994;Bolivia;0.581
+1994;Brazil;0.642
+1994;Botswana;0.57
+1994;Belize;0.623
+1994;Canada;0.859
+1994;Democratic Republic of Congo;0.349
+1994;Central African Republic;0.317
+1994;Congo;0.489
+1994;Switzerland;0.852
+1994;Cote d'Ivoire;0.407
+1994;Chile;0.72
+1994;Cameroon;0.433
+1994;Colombia;0.631
+1994;Costa Rica;0.692
+1994;Cuba;0.656
+1994;Cyprus;0.784
+1994;Czechia;0.752
+1994;Denmark;0.831
+1994;Dominican Republic;0.624
+1994;Algeria;0.59
+1994;Ecuador;0.663
+1994;Estonia;0.72
+1994;Egypt;0.571
+1994;Finland;0.815
+1994;Fiji;0.68
+1994;Gabon;0.622
+1994;Ghana;0.48
+1994;Gambia;0.366
+1994;Guinea;0.301
+1994;Greece;0.774
+1994;Guatemala;0.504
+1994;Guyana;0.582
+1994;Hong Kong SAR China;0.807
+1994;Honduras;0.534
+1994;Croatia;0.688
+1994;Haiti;0.415
+1994;Hungary;0.737
+1994;Indonesia;0.55
+1994;Ireland;0.798
+1994;Israel;0.827
+1994;India;0.453
+1994;Iraq;0.548
+1994;Iran;0.616
+1994;Iceland;0.829
+1994;Jamaica;0.671
+1994;Jordan;0.679
+1994;Kenya;0.469
+1994;Kyrgyzstan;0.595
+1994;Cambodia;0.385
+1994;South Korea;0.772
+1994;Kuwait;0.718
+1994;Kazakhstan;0.667
+1994;Laos;0.43
+1994;Sri Lanka;0.65
+1994;Lesotho;0.486
+1994;Lithuania;0.704
+1994;Luxembourg;0.818
+1994;Latvia;0.675
+1994;Libya;0.75
+1994;Morocco;0.484
+1994;Moldova;0.64
+1994;Mali;0.26
+1994;Myanmar;0.376
+1994;Mongolia;0.549
+1994;Mauritania;0.435
+1994;Malta;0.768
+1994;Mauritius;0.647
+1994;Malawi;0.356
+1994;Mexico;0.675
+1994;Malaysia;0.675
+1994;Mozambique;0.241
+1994;Namibia;0.587
+1994;Niger;0.235
+1994;Nicaragua;0.521
+1994;Netherlands;0.871
+1994;Norway;0.883
+1994;Nepal;0.414
+1994;New Zealand;0.853
+1994;Panama;0.699
+1994;Peru;0.636
+1994;Papua New Guinea;0.417
+1994;Philippines;0.605
+1994;Pakistan;0.421
+1994;Poland;0.739
+1994;Paraguay;0.62
+1994;Qatar;0.773
+1994;Romania;0.688
+1994;Serbia;0.694
+1994;Russia;0.703
+1994;Rwanda;0.192
+1994;Saudi Arabia;0.718
+1994;Sudan;0.358
+1994;Sweden;0.855
+1994;Singapore;0.764
+1994;Slovenia;0.783
+1994;Slovakia;0.745
+1994;Sierra Leone;0.284
+1994;Senegal;0.376
+1994;Sao Tome and Principe;0.465
+1994;El Salvador;0.571
+1994;Syria;0.572
+1994;Eswatini;0.527
+1994;Togo;0.397
+1994;Thailand;0.607
+1994;Tajikistan;0.556
+1994;Tunisia;0.598
+1994;Tonga;0.672
+1994;Turkey;0.603
+1994;Trinidad and Tobago;0.676
+1994;Tanzania;0.366
+1994;Ukraine;0.69
+1994;Uganda;0.322
+1994;Uruguay;0.711
+1994;Venezuela;0.662
+1994;Vietnam;0.525
+1994;Samoa;0.618
+1994;Yemen;0.408
+1994;South Africa;0.65
+1994;Zambia;0.414
+1994;Zimbabwe;0.46
+1994;Azerbaijan;NA
+1994;Belarus;NA
+1994;Djibouti;NA
+1994;Maldives;NA
+1994;Angola;NA
+1994;Liberia;NA
+1994;Solomon Islands;NA
+1994;Andorra;NA
+1994;Bosnia and Herzegovina;NA
+1994;Burkina Faso;NA
+1994;Bahamas;NA
+1994;Cape Verde;NA
+1994;Dominica;NA
+1994;Ethiopia;NA
+1994;Micronesia (country);NA
+1994;Georgia;NA
+1994;Equatorial Guinea;NA
+1994;Kiribati;NA
+1994;Comoros;NA
+1994;Saint Lucia;NA
+1994;Liechtenstein;NA
+1994;Madagascar;NA
+1994;North Macedonia;NA
+1994;Oman;NA
+1994;Palau;NA
+1994;Seychelles;NA
+1994;Chad;NA
+1994;Timor;NA
+1994;Uzbekistan;NA
+1994;Saint Vincent and the Grenadines;NA
+1994;Grenada;NA
+1994;Montenegro;NA
+1994;Nigeria;NA
+1994;Palestine;NA
+1994;Suriname;NA
+1994;Antigua and Barbuda;NA
+1994;Bhutan;NA
+1994;Eritrea;NA
+1994;Guinea-Bissau;NA
+1994;St. Kitts and Nevis;NA
+1994;Lebanon;NA
+1994;Vanuatu;NA
+1994;South Sudan;NA
+1994;Turkmenistan;NA
+1994;Marshall Islands;NA
+1995;Spain;0.807
+1995;Germany;0.842
+1995;United Kingdom;0.846
+1995;France;0.832
+1995;Italy;0.808
+1995;Portugal;0.767
+1995;United States;0.883
+1995;Japan;0.842
+1995;China;0.545
+1995;United Arab Emirates;0.764
+1995;Afghanistan;0.331
+1995;Albania;0.637
+1995;Armenia;0.627
+1995;Argentina;0.741
+1995;Austria;0.825
+1995;Australia;0.888
+1995;Barbados;0.747
+1995;Bangladesh;0.434
+1995;Belgium;0.859
+1995;Bulgaria;0.71
+1995;Bahrain;0.778
+1995;Burundi;0.292
+1995;Benin;0.391
+1995;Brunei;0.79
+1995;Bolivia;0.589
+1995;Brazil;0.651
+1995;Botswana;0.576
+1995;Belize;0.624
+1995;Canada;0.862
+1995;Democratic Republic of Congo;0.347
+1995;Central African Republic;0.319
+1995;Congo;0.471
+1995;Switzerland;0.856
+1995;Cote d'Ivoire;0.409
+1995;Chile;0.728
+1995;Cameroon;0.432
+1995;Colombia;0.637
+1995;Costa Rica;0.697
+1995;Cuba;0.659
+1995;Cyprus;0.788
+1995;Czechia;0.761
+1995;Denmark;0.837
+1995;Dominican Republic;0.63
+1995;Algeria;0.595
+1995;Ecuador;0.666
+1995;Estonia;0.729
+1995;Egypt;0.578
+1995;Finland;0.823
+1995;Fiji;0.686
+1995;Gabon;0.624
+1995;Ghana;0.483
+1995;Gambia;0.37
+1995;Guinea;0.306
+1995;Greece;0.776
+1995;Guatemala;0.511
+1995;Guyana;0.588
+1995;Hong Kong SAR China;0.811
+1995;Honduras;0.54
+1995;Croatia;0.703
+1995;Haiti;0.423
+1995;Hungary;0.746
+1995;Indonesia;0.56
+1995;Ireland;0.805
+1995;Israel;0.832
+1995;India;0.461
+1995;Iraq;0.539
+1995;Iran;0.627
+1995;Iceland;0.831
+1995;Jamaica;0.674
+1995;Jordan;0.693
+1995;Kenya;0.468
+1995;Kyrgyzstan;0.589
+1995;Cambodia;0.391
+1995;South Korea;0.783
+1995;Kuwait;0.748
+1995;Kazakhstan;0.664
+1995;Laos;0.432
+1995;Sri Lanka;0.654
+1995;Lesotho;0.483
+1995;Lithuania;0.71
+1995;Luxembourg;0.821
+1995;Latvia;0.68
+1995;Libya;0.754
+1995;Morocco;0.487
+1995;Moldova;0.638
+1995;Mali;0.265
+1995;Myanmar;0.38
+1995;Mongolia;0.554
+1995;Mauritania;0.442
+1995;Malta;0.772
+1995;Mauritius;0.653
+1995;Malawi;0.389
+1995;Mexico;0.677
+1995;Malaysia;0.682
+1995;Mozambique;0.248
+1995;Namibia;0.582
+1995;Niger;0.24
+1995;Nicaragua;0.531
+1995;Netherlands;0.868
+1995;Norway;0.881
+1995;Nepal;0.419
+1995;New Zealand;0.859
+1995;Panama;0.704
+1995;Peru;0.646
+1995;Papua New Guinea;0.425
+1995;Philippines;0.609
+1995;Pakistan;0.426
+1995;Poland;0.745
+1995;Paraguay;0.625
+1995;Qatar;0.782
+1995;Romania;0.694
+1995;Serbia;0.699
+1995;Russia;0.702
+1995;Rwanda;0.231
+1995;Saudi Arabia;0.722
+1995;Sudan;0.366
+1995;Sweden;0.862
+1995;Singapore;0.774
+1995;Slovenia;0.79
+1995;Slovakia;0.752
+1995;Sierra Leone;0.287
+1995;Senegal;0.378
+1995;Sao Tome and Principe;0.469
+1995;El Salvador;0.58
+1995;Syria;0.575
+1995;Eswatini;0.523
+1995;Togo;0.41
+1995;Thailand;0.614
+1995;Tajikistan;0.549
+1995;Tunisia;0.605
+1995;Tonga;0.675
+1995;Turkey;0.611
+1995;Trinidad and Tobago;0.681
+1995;Tanzania;0.367
+1995;Ukraine;0.686
+1995;Uganda;0.328
+1995;Uruguay;0.712
+1995;Venezuela;0.666
+1995;Vietnam;0.537
+1995;Samoa;0.624
+1995;Yemen;0.414
+1995;South Africa;0.653
+1995;Zambia;0.415
+1995;Zimbabwe;0.453
+1995;Azerbaijan;0.604
+1995;Belarus;0.66
+1995;Djibouti;0.351
+1995;Maldives;0.555
+1995;Angola;NA
+1995;Liberia;NA
+1995;Solomon Islands;NA
+1995;Andorra;NA
+1995;Bosnia and Herzegovina;NA
+1995;Burkina Faso;NA
+1995;Bahamas;NA
+1995;Cape Verde;NA
+1995;Dominica;NA
+1995;Ethiopia;NA
+1995;Micronesia (country);NA
+1995;Georgia;NA
+1995;Equatorial Guinea;NA
+1995;Kiribati;NA
+1995;Comoros;NA
+1995;Saint Lucia;NA
+1995;Liechtenstein;NA
+1995;Madagascar;NA
+1995;North Macedonia;NA
+1995;Oman;NA
+1995;Palau;NA
+1995;Seychelles;NA
+1995;Chad;NA
+1995;Timor;NA
+1995;Uzbekistan;NA
+1995;Saint Vincent and the Grenadines;NA
+1995;Grenada;NA
+1995;Montenegro;NA
+1995;Nigeria;NA
+1995;Palestine;NA
+1995;Suriname;NA
+1995;Antigua and Barbuda;NA
+1995;Bhutan;NA
+1995;Eritrea;NA
+1995;Guinea-Bissau;NA
+1995;St. Kitts and Nevis;NA
+1995;Lebanon;NA
+1995;Vanuatu;NA
+1995;South Sudan;NA
+1995;Turkmenistan;NA
+1995;Marshall Islands;NA
+1996;Spain;0.813
+1996;Germany;0.846
+1996;United Kingdom;0.851
+1996;France;0.837
+1996;Italy;0.814
+1996;Portugal;0.774
+1996;United States;0.884
+1996;Japan;0.847
+1996;China;0.554
+1996;United Arab Emirates;0.765
+1996;Afghanistan;0.335
+1996;Albania;0.646
+1996;Armenia;0.634
+1996;Argentina;0.748
+1996;Austria;0.829
+1996;Australia;0.89
+1996;Barbados;0.751
+1996;Bangladesh;0.443
+1996;Belgium;0.864
+1996;Bulgaria;0.718
+1996;Bahrain;0.782
+1996;Burundi;0.289
+1996;Benin;0.394
+1996;Brunei;0.793
+1996;Bolivia;0.595
+1996;Brazil;0.658
+1996;Botswana;0.575
+1996;Belize;0.624
+1996;Canada;0.864
+1996;Democratic Republic of Congo;0.351
+1996;Central African Republic;0.315
+1996;Congo;0.47
+1996;Switzerland;0.863
+1996;Cote d'Ivoire;0.412
+1996;Chile;0.735
+1996;Cameroon;0.431
+1996;Colombia;0.647
+1996;Costa Rica;0.701
+1996;Cuba;0.669
+1996;Cyprus;0.791
+1996;Czechia;0.776
+1996;Denmark;0.844
+1996;Dominican Republic;0.636
+1996;Algeria;0.602
+1996;Ecuador;0.668
+1996;Estonia;0.74
+1996;Egypt;0.585
+1996;Finland;0.83
+1996;Fiji;0.688
+1996;Gabon;0.626
+1996;Ghana;0.484
+1996;Gambia;0.377
+1996;Guinea;0.31
+1996;Greece;0.78
+1996;Guatemala;0.518
+1996;Guyana;0.598
+1996;Hong Kong SAR China;0.814
+1996;Honduras;0.545
+1996;Croatia;0.715
+1996;Haiti;0.428
+1996;Hungary;0.75
+1996;Indonesia;0.573
+1996;Ireland;0.811
+1996;Israel;0.836
+1996;India;0.468
+1996;Iraq;0.56
+1996;Iran;0.634
+1996;Iceland;0.836
+1996;Jamaica;0.677
+1996;Jordan;0.695
+1996;Kenya;0.467
+1996;Kyrgyzstan;0.594
+1996;Cambodia;0.396
+1996;South Korea;0.793
+1996;Kuwait;0.772
+1996;Kazakhstan;0.666
+1996;Laos;0.445
+1996;Sri Lanka;0.659
+1996;Lesotho;0.477
+1996;Lithuania;0.719
+1996;Luxembourg;0.83
+1996;Latvia;0.687
+1996;Libya;0.76
+1996;Morocco;0.498
+1996;Moldova;0.634
+1996;Mali;0.274
+1996;Myanmar;0.387
+1996;Mongolia;0.56
+1996;Mauritania;0.451
+1996;Malta;0.776
+1996;Mauritius;0.656
+1996;Malawi;0.376
+1996;Mexico;0.683
+1996;Malaysia;0.694
+1996;Mozambique;0.263
+1996;Namibia;0.573
+1996;Niger;0.244
+1996;Nicaragua;0.541
+1996;Netherlands;0.872
+1996;Norway;0.887
+1996;Nepal;0.428
+1996;New Zealand;0.862
+1996;Panama;0.71
+1996;Peru;0.651
+1996;Papua New Guinea;0.433
+1996;Philippines;0.617
+1996;Pakistan;0.431
+1996;Poland;0.753
+1996;Paraguay;0.632
+1996;Qatar;0.794
+1996;Romania;0.702
+1996;Serbia;0.703
+1996;Russia;0.703
+1996;Rwanda;0.263
+1996;Saudi Arabia;0.726
+1996;Sudan;0.374
+1996;Sweden;0.869
+1996;Singapore;0.783
+1996;Slovenia;0.796
+1996;Slovakia;0.756
+1996;Sierra Leone;0.282
+1996;Senegal;0.379
+1996;Sao Tome and Principe;0.475
+1996;El Salvador;0.588
+1996;Syria;0.582
+1996;Eswatini;0.515
+1996;Togo;0.418
+1996;Thailand;0.622
+1996;Tajikistan;0.535
+1996;Tunisia;0.614
+1996;Tonga;0.675
+1996;Turkey;0.62
+1996;Trinidad and Tobago;0.687
+1996;Tanzania;0.369
+1996;Ukraine;0.684
+1996;Uganda;0.344
+1996;Uruguay;0.718
+1996;Venezuela;0.668
+1996;Vietnam;0.548
+1996;Samoa;0.633
+1996;Yemen;0.421
+1996;South Africa;0.65
+1996;Zambia;0.416
+1996;Zimbabwe;0.453
+1996;Azerbaijan;0.605
+1996;Belarus;0.664
+1996;Djibouti;0.349
+1996;Maldives;0.569
+1996;Angola;NA
+1996;Liberia;NA
+1996;Solomon Islands;NA
+1996;Andorra;NA
+1996;Bosnia and Herzegovina;NA
+1996;Burkina Faso;NA
+1996;Bahamas;NA
+1996;Cape Verde;NA
+1996;Dominica;NA
+1996;Ethiopia;NA
+1996;Micronesia (country);NA
+1996;Georgia;NA
+1996;Equatorial Guinea;NA
+1996;Kiribati;NA
+1996;Comoros;NA
+1996;Saint Lucia;NA
+1996;Liechtenstein;NA
+1996;Madagascar;NA
+1996;North Macedonia;NA
+1996;Oman;NA
+1996;Palau;NA
+1996;Seychelles;NA
+1996;Chad;NA
+1996;Timor;NA
+1996;Uzbekistan;NA
+1996;Saint Vincent and the Grenadines;NA
+1996;Grenada;NA
+1996;Montenegro;NA
+1996;Nigeria;NA
+1996;Palestine;NA
+1996;Suriname;NA
+1996;Antigua and Barbuda;NA
+1996;Bhutan;NA
+1996;Eritrea;NA
+1996;Guinea-Bissau;NA
+1996;St. Kitts and Nevis;NA
+1996;Lebanon;NA
+1996;Vanuatu;NA
+1996;South Sudan;NA
+1996;Turkmenistan;NA
+1996;Marshall Islands;NA
+1997;Spain;0.817
+1997;Germany;0.851
+1997;United Kingdom;0.856
+1997;France;0.841
+1997;Italy;0.821
+1997;Portugal;0.78
+1997;United States;0.881
+1997;Japan;0.85
+1997;China;0.563
+1997;United Arab Emirates;0.766
+1997;Afghanistan;0.339
+1997;Albania;0.645
+1997;Armenia;0.645
+1997;Argentina;0.757
+1997;Austria;0.832
+1997;Australia;0.893
+1997;Barbados;0.757
+1997;Bangladesh;0.452
+1997;Belgium;0.869
+1997;Bulgaria;0.713
+1997;Bahrain;0.783
+1997;Burundi;0.29
+1997;Benin;0.399
+1997;Brunei;0.794
+1997;Bolivia;0.598
+1997;Brazil;0.665
+1997;Botswana;0.577
+1997;Belize;0.626
+1997;Canada;0.863
+1997;Democratic Republic of Congo;0.349
+1997;Central African Republic;0.318
+1997;Congo;0.474
+1997;Switzerland;0.872
+1997;Cote d'Ivoire;0.415
+1997;Chile;0.742
+1997;Cameroon;0.432
+1997;Colombia;0.655
+1997;Costa Rica;0.707
+1997;Cuba;0.673
+1997;Cyprus;0.794
+1997;Czechia;0.782
+1997;Denmark;0.85
+1997;Dominican Republic;0.643
+1997;Algeria;0.611
+1997;Ecuador;0.672
+1997;Estonia;0.754
+1997;Egypt;0.592
+1997;Finland;0.838
+1997;Fiji;0.687
+1997;Gabon;0.628
+1997;Ghana;0.486
+1997;Gambia;0.382
+1997;Guinea;0.318
+1997;Greece;0.785
+1997;Guatemala;0.526
+1997;Guyana;0.603
+1997;Hong Kong SAR China;0.819
+1997;Honduras;0.551
+1997;Croatia;0.727
+1997;Haiti;0.432
+1997;Hungary;0.751
+1997;Indonesia;0.587
+1997;Ireland;0.819
+1997;Israel;0.844
+1997;India;0.474
+1997;Iraq;0.569
+1997;Iran;0.64
+1997;Iceland;0.846
+1997;Jamaica;0.679
+1997;Jordan;0.699
+1997;Kenya;0.464
+1997;Kyrgyzstan;0.601
+1997;Cambodia;0.401
+1997;South Korea;0.805
+1997;Kuwait;0.775
+1997;Kazakhstan;0.669
+1997;Laos;0.453
+1997;Sri Lanka;0.666
+1997;Lesotho;0.472
+1997;Lithuania;0.731
+1997;Luxembourg;0.836
+1997;Latvia;0.698
+1997;Libya;0.767
+1997;Morocco;0.502
+1997;Moldova;0.637
+1997;Mali;0.285
+1997;Myanmar;0.392
+1997;Mongolia;0.567
+1997;Mauritania;0.45
+1997;Malta;0.781
+1997;Mauritius;0.661
+1997;Malawi;0.395
+1997;Mexico;0.689
+1997;Malaysia;0.704
+1997;Mozambique;0.275
+1997;Namibia;0.564
+1997;Niger;0.248
+1997;Nicaragua;0.55
+1997;Netherlands;0.872
+1997;Norway;0.893
+1997;Nepal;0.435
+1997;New Zealand;0.868
+1997;Panama;0.716
+1997;Peru;0.657
+1997;Papua New Guinea;0.435
+1997;Philippines;0.621
+1997;Pakistan;0.434
+1997;Poland;0.764
+1997;Paraguay;0.637
+1997;Qatar;0.806
+1997;Romania;0.703
+1997;Serbia;0.709
+1997;Russia;0.705
+1997;Rwanda;0.291
+1997;Saudi Arabia;0.731
+1997;Sudan;0.384
+1997;Sweden;0.88
+1997;Singapore;0.794
+1997;Slovenia;0.804
+1997;Slovakia;0.758
+1997;Sierra Leone;0.28
+1997;Senegal;0.38
+1997;Sao Tome and Principe;0.479
+1997;El Salvador;0.597
+1997;Syria;0.586
+1997;Eswatini;0.503
+1997;Togo;0.426
+1997;Thailand;0.628
+1997;Tajikistan;0.54
+1997;Tunisia;0.621
+1997;Tonga;0.675
+1997;Turkey;0.629
+1997;Trinidad and Tobago;0.695
+1997;Tanzania;0.37
+1997;Ukraine;0.686
+1997;Uganda;0.358
+1997;Uruguay;0.729
+1997;Venezuela;0.67
+1997;Vietnam;0.547
+1997;Samoa;0.635
+1997;Yemen;0.426
+1997;South Africa;0.646
+1997;Zambia;0.416
+1997;Zimbabwe;0.447
+1997;Azerbaijan;0.61
+1997;Belarus;0.67
+1997;Djibouti;0.354
+1997;Maldives;0.584
+1997;Angola;NA
+1997;Liberia;NA
+1997;Solomon Islands;NA
+1997;Andorra;NA
+1997;Bosnia and Herzegovina;NA
+1997;Burkina Faso;NA
+1997;Bahamas;NA
+1997;Cape Verde;NA
+1997;Dominica;NA
+1997;Ethiopia;NA
+1997;Micronesia (country);NA
+1997;Georgia;NA
+1997;Equatorial Guinea;NA
+1997;Kiribati;NA
+1997;Comoros;NA
+1997;Saint Lucia;NA
+1997;Liechtenstein;NA
+1997;Madagascar;NA
+1997;North Macedonia;NA
+1997;Oman;NA
+1997;Palau;NA
+1997;Seychelles;NA
+1997;Chad;NA
+1997;Timor;NA
+1997;Uzbekistan;NA
+1997;Saint Vincent and the Grenadines;NA
+1997;Grenada;NA
+1997;Montenegro;NA
+1997;Nigeria;NA
+1997;Palestine;NA
+1997;Suriname;NA
+1997;Antigua and Barbuda;NA
+1997;Bhutan;NA
+1997;Eritrea;NA
+1997;Guinea-Bissau;NA
+1997;St. Kitts and Nevis;NA
+1997;Lebanon;NA
+1997;Vanuatu;NA
+1997;South Sudan;NA
+1997;Turkmenistan;NA
+1997;Marshall Islands;NA
+1998;Spain;0.821
+1998;Germany;0.86
+1998;United Kingdom;0.862
+1998;France;0.845
+1998;Italy;0.827
+1998;Portugal;0.787
+1998;United States;0.889
+1998;Japan;0.849
+1998;China;0.571
+1998;United Arab Emirates;0.769
+1998;Afghanistan;0.344
+1998;Albania;0.655
+1998;Armenia;0.657
+1998;Argentina;0.763
+1998;Austria;0.837
+1998;Australia;0.896
+1998;Barbados;0.753
+1998;Bangladesh;0.461
+1998;Belgium;0.873
+1998;Bulgaria;0.718
+1998;Bahrain;0.787
+1998;Burundi;0.294
+1998;Benin;0.403
+1998;Brunei;0.794
+1998;Bolivia;0.61
+1998;Brazil;0.67
+1998;Botswana;0.58
+1998;Belize;0.628
+1998;Canada;0.861
+1998;Democratic Republic of Congo;0.349
+1998;Central African Republic;0.32
+1998;Congo;0.48
+1998;Switzerland;0.882
+1998;Cote d'Ivoire;0.414
+1998;Chile;0.743
+1998;Cameroon;0.434
+1998;Colombia;0.662
+1998;Costa Rica;0.713
+1998;Cuba;0.677
+1998;Cyprus;0.803
+1998;Czechia;0.783
+1998;Denmark;0.856
+1998;Dominican Republic;0.648
+1998;Algeria;0.621
+1998;Ecuador;0.675
+1998;Estonia;0.766
+1998;Egypt;0.594
+1998;Finland;0.846
+1998;Fiji;0.687
+1998;Gabon;0.63
+1998;Ghana;0.487
+1998;Gambia;0.388
+1998;Guinea;0.326
+1998;Greece;0.795
+1998;Guatemala;0.534
+1998;Guyana;0.607
+1998;Hong Kong SAR China;0.82
+1998;Honduras;0.556
+1998;Croatia;0.738
+1998;Haiti;0.435
+1998;Hungary;0.758
+1998;Indonesia;0.586
+1998;Ireland;0.851
+1998;Israel;0.852
+1998;India;0.481
+1998;Iraq;0.583
+1998;Iran;0.647
+1998;Iceland;0.855
+1998;Jamaica;0.678
+1998;Jordan;0.702
+1998;Kenya;0.463
+1998;Kyrgyzstan;0.606
+1998;Cambodia;0.406
+1998;South Korea;0.802
+1998;Kuwait;0.78
+1998;Kazakhstan;0.672
+1998;Laos;0.46
+1998;Sri Lanka;0.673
+1998;Lesotho;0.47
+1998;Lithuania;0.743
+1998;Luxembourg;0.844
+1998;Latvia;0.711
+1998;Libya;0.77
+1998;Morocco;0.509
+1998;Moldova;0.637
+1998;Mali;0.294
+1998;Myanmar;0.396
+1998;Mongolia;0.575
+1998;Mauritania;0.459
+1998;Malta;0.789
+1998;Mauritius;0.667
+1998;Malawi;0.395
+1998;Mexico;0.695
+1998;Malaysia;0.708
+1998;Mozambique;0.287
+1998;Namibia;0.557
+1998;Niger;0.255
+1998;Nicaragua;0.559
+1998;Netherlands;0.874
+1998;Norway;0.904
+1998;Nepal;0.44
+1998;New Zealand;0.87
+1998;Panama;0.724
+1998;Peru;0.667
+1998;Papua New Guinea;0.442
+1998;Philippines;0.626
+1998;Pakistan;0.438
+1998;Poland;0.774
+1998;Paraguay;0.641
+1998;Qatar;0.81
+1998;Romania;0.705
+1998;Serbia;0.713
+1998;Russia;0.705
+1998;Rwanda;0.307
+1998;Saudi Arabia;0.736
+1998;Sudan;0.39
+1998;Sweden;0.894
+1998;Singapore;0.799
+1998;Slovenia;0.813
+1998;Slovakia;0.764
+1998;Sierra Leone;0.284
+1998;Senegal;0.382
+1998;Sao Tome and Principe;0.485
+1998;El Salvador;0.606
+1998;Syria;0.588
+1998;Eswatini;0.49
+1998;Togo;0.425
+1998;Thailand;0.633
+1998;Tajikistan;0.544
+1998;Tunisia;0.632
+1998;Tonga;0.678
+1998;Turkey;0.64
+1998;Trinidad and Tobago;0.694
+1998;Tanzania;0.377
+1998;Ukraine;0.688
+1998;Uganda;0.373
+1998;Uruguay;0.737
+1998;Venezuela;0.672
+1998;Vietnam;0.567
+1998;Samoa;0.641
+1998;Yemen;0.431
+1998;South Africa;0.64
+1998;Zambia;0.416
+1998;Zimbabwe;0.442
+1998;Azerbaijan;0.619
+1998;Belarus;0.674
+1998;Djibouti;0.355
+1998;Maldives;0.597
+1998;Angola;NA
+1998;Liberia;NA
+1998;Solomon Islands;NA
+1998;Andorra;NA
+1998;Bosnia and Herzegovina;NA
+1998;Burkina Faso;NA
+1998;Bahamas;NA
+1998;Cape Verde;NA
+1998;Dominica;NA
+1998;Ethiopia;NA
+1998;Micronesia (country);NA
+1998;Georgia;NA
+1998;Equatorial Guinea;NA
+1998;Kiribati;NA
+1998;Comoros;NA
+1998;Saint Lucia;NA
+1998;Liechtenstein;NA
+1998;Madagascar;NA
+1998;North Macedonia;NA
+1998;Oman;NA
+1998;Palau;NA
+1998;Seychelles;NA
+1998;Chad;NA
+1998;Timor;NA
+1998;Uzbekistan;NA
+1998;Saint Vincent and the Grenadines;NA
+1998;Grenada;NA
+1998;Montenegro;NA
+1998;Nigeria;NA
+1998;Palestine;NA
+1998;Suriname;NA
+1998;Antigua and Barbuda;NA
+1998;Bhutan;NA
+1998;Eritrea;NA
+1998;Guinea-Bissau;NA
+1998;St. Kitts and Nevis;NA
+1998;Lebanon;NA
+1998;Vanuatu;NA
+1998;South Sudan;NA
+1998;Turkmenistan;NA
+1998;Marshall Islands;NA
+1999;Spain;0.826
+1999;Germany;0.868
+1999;United Kingdom;0.868
+1999;France;0.851
+1999;Italy;0.832
+1999;Portugal;0.786
+1999;United States;0.89
+1999;Japan;0.852
+1999;China;0.579
+1999;United Arab Emirates;0.776
+1999;Afghanistan;0.348
+1999;Albania;0.665
+1999;Armenia;0.664
+1999;Argentina;0.774
+1999;Austria;0.842
+1999;Australia;0.9
+1999;Barbados;0.76
+1999;Bangladesh;0.469
+1999;Belgium;0.875
+1999;Bulgaria;0.716
+1999;Bahrain;0.789
+1999;Burundi;0.295
+1999;Benin;0.409
+1999;Brunei;0.8
+1999;Bolivia;0.619
+1999;Brazil;0.676
+1999;Botswana;0.582
+1999;Belize;0.633
+1999;Canada;0.864
+1999;Democratic Republic of Congo;0.347
+1999;Central African Republic;0.323
+1999;Congo;0.467
+1999;Switzerland;0.889
+1999;Cote d'Ivoire;0.419
+1999;Chile;0.75
+1999;Cameroon;0.436
+1999;Colombia;0.662
+1999;Costa Rica;0.717
+1999;Cuba;0.684
+1999;Cyprus;0.802
+1999;Czechia;0.793
+1999;Denmark;0.868
+1999;Dominican Republic;0.654
+1999;Algeria;0.629
+1999;Ecuador;0.673
+1999;Estonia;0.773
+1999;Egypt;0.607
+1999;Finland;0.854
+1999;Fiji;0.692
+1999;Gabon;0.625
+1999;Ghana;0.489
+1999;Gambia;0.396
+1999;Guinea;0.333
+1999;Greece;0.797
+1999;Guatemala;0.542
+1999;Guyana;0.611
+1999;Hong Kong SAR China;0.824
+1999;Honduras;0.56
+1999;Croatia;0.747
+1999;Haiti;0.439
+1999;Hungary;0.765
+1999;Indonesia;0.594
+1999;Ireland;0.859
+1999;Israel;0.859
+1999;India;0.489
+1999;Iraq;0.591
+1999;Iran;0.652
+1999;Iceland;0.86
+1999;Jamaica;0.68
+1999;Jordan;0.706
+1999;Kenya;0.462
+1999;Kyrgyzstan;0.613
+1999;Cambodia;0.411
+1999;South Korea;0.813
+1999;Kuwait;0.781
+1999;Kazakhstan;0.676
+1999;Laos;0.467
+1999;Sri Lanka;0.681
+1999;Lesotho;0.461
+1999;Lithuania;0.751
+1999;Luxembourg;0.856
+1999;Latvia;0.723
+1999;Libya;0.775
+1999;Morocco;0.519
+1999;Moldova;0.64
+1999;Mali;0.306
+1999;Myanmar;0.404
+1999;Mongolia;0.581
+1999;Mauritania;0.464
+1999;Malta;0.793
+1999;Mauritius;0.672
+1999;Malawi;0.395
+1999;Mexico;0.699
+1999;Malaysia;0.713
+1999;Mozambique;0.301
+1999;Namibia;0.547
+1999;Niger;0.259
+1999;Nicaragua;0.568
+1999;Netherlands;0.877
+1999;Norway;0.909
+1999;Nepal;0.447
+1999;New Zealand;0.872
+1999;Panama;0.729
+1999;Peru;0.677
+1999;Papua New Guinea;0.445
+1999;Philippines;0.63
+1999;Pakistan;0.443
+1999;Poland;0.783
+1999;Paraguay;0.644
+1999;Qatar;0.814
+1999;Romania;0.711
+1999;Serbia;0.71
+1999;Russia;0.711
+1999;Rwanda;0.326
+1999;Saudi Arabia;0.738
+1999;Sudan;0.396
+1999;Sweden;0.899
+1999;Singapore;0.81
+1999;Slovenia;0.826
+1999;Slovakia;0.763
+1999;Sierra Leone;0.287
+1999;Senegal;0.385
+1999;Sao Tome and Principe;0.492
+1999;El Salvador;0.608
+1999;Syria;0.593
+1999;Eswatini;0.479
+1999;Togo;0.426
+1999;Thailand;0.643
+1999;Tajikistan;0.548
+1999;Tunisia;0.643
+1999;Tonga;0.679
+1999;Turkey;0.648
+1999;Trinidad and Tobago;0.713
+1999;Tanzania;0.383
+1999;Ukraine;0.69
+1999;Uganda;0.39
+1999;Uruguay;0.739
+1999;Venezuela;0.674
+1999;Vietnam;0.574
+1999;Samoa;0.646
+1999;Yemen;0.435
+1999;South Africa;0.635
+1999;Zambia;0.42
+1999;Zimbabwe;0.437
+1999;Azerbaijan;0.629
+1999;Belarus;0.679
+1999;Djibouti;0.359
+1999;Maldives;0.611
+1999;Angola;0.391
+1999;Liberia;0.399
+1999;Solomon Islands;0.489
+1999;Andorra;NA
+1999;Bosnia and Herzegovina;NA
+1999;Burkina Faso;NA
+1999;Bahamas;NA
+1999;Cape Verde;NA
+1999;Dominica;NA
+1999;Ethiopia;NA
+1999;Micronesia (country);NA
+1999;Georgia;NA
+1999;Equatorial Guinea;NA
+1999;Kiribati;NA
+1999;Comoros;NA
+1999;Saint Lucia;NA
+1999;Liechtenstein;NA
+1999;Madagascar;NA
+1999;North Macedonia;NA
+1999;Oman;NA
+1999;Palau;NA
+1999;Seychelles;NA
+1999;Chad;NA
+1999;Timor;NA
+1999;Uzbekistan;NA
+1999;Saint Vincent and the Grenadines;NA
+1999;Grenada;NA
+1999;Montenegro;NA
+1999;Nigeria;NA
+1999;Palestine;NA
+1999;Suriname;NA
+1999;Antigua and Barbuda;NA
+1999;Bhutan;NA
+1999;Eritrea;NA
+1999;Guinea-Bissau;NA
+1999;St. Kitts and Nevis;NA
+1999;Lebanon;NA
+1999;Vanuatu;NA
+1999;South Sudan;NA
+1999;Turkmenistan;NA
+1999;Marshall Islands;NA
+2000;Spain;0.832
+2000;Germany;0.876
+2000;United Kingdom;0.874
+2000;France;0.849
+2000;Italy;0.838
+2000;Portugal;0.792
+2000;United States;0.886
+2000;Japan;0.858
+2000;China;0.588
+2000;United Arab Emirates;0.782
+2000;Afghanistan;0.35
+2000;Albania;0.671
+2000;Armenia;0.669
+2000;Argentina;0.781
+2000;Austria;0.847
+2000;Australia;0.903
+2000;Barbados;0.771
+2000;Bangladesh;0.478
+2000;Belgium;0.88
+2000;Bulgaria;0.72
+2000;Bahrain;0.795
+2000;Burundi;0.3
+2000;Benin;0.416
+2000;Brunei;0.802
+2000;Bolivia;0.627
+2000;Brazil;0.685
+2000;Botswana;0.581
+2000;Belize;0.64
+2000;Canada;0.867
+2000;Democratic Republic of Congo;0.349
+2000;Central African Republic;0.325
+2000;Congo;0.461
+2000;Switzerland;0.898
+2000;Cote d'Ivoire;0.421
+2000;Chile;0.756
+2000;Cameroon;0.44
+2000;Colombia;0.666
+2000;Costa Rica;0.721
+2000;Cuba;0.691
+2000;Cyprus;0.804
+2000;Czechia;0.804
+2000;Denmark;0.87
+2000;Dominican Republic;0.659
+2000;Algeria;0.637
+2000;Ecuador;0.675
+2000;Estonia;0.787
+2000;Egypt;0.613
+2000;Finland;0.864
+2000;Fiji;0.695
+2000;Gabon;0.621
+2000;Ghana;0.494
+2000;Gambia;0.403
+2000;Guinea;0.34
+2000;Greece;0.804
+2000;Guatemala;0.549
+2000;Guyana;0.616
+2000;Hong Kong SAR China;0.83
+2000;Honduras;0.566
+2000;Croatia;0.757
+2000;Haiti;0.442
+2000;Hungary;0.772
+2000;Indonesia;0.603
+2000;Ireland;0.867
+2000;Israel;0.861
+2000;India;0.495
+2000;Iraq;0.595
+2000;Iran;0.658
+2000;Iceland;0.867
+2000;Jamaica;0.678
+2000;Jordan;0.711
+2000;Kenya;0.461
+2000;Kyrgyzstan;0.62
+2000;Cambodia;0.424
+2000;South Korea;0.823
+2000;Kuwait;0.781
+2000;Kazakhstan;0.685
+2000;Laos;0.471
+2000;Sri Lanka;0.691
+2000;Lesotho;0.459
+2000;Lithuania;0.762
+2000;Luxembourg;0.86
+2000;Latvia;0.735
+2000;Libya;0.78
+2000;Morocco;0.529
+2000;Moldova;0.643
+2000;Mali;0.312
+2000;Myanmar;0.414
+2000;Mongolia;0.588
+2000;Mauritania;0.464
+2000;Malta;0.795
+2000;Mauritius;0.678
+2000;Malawi;0.388
+2000;Mexico;0.708
+2000;Malaysia;0.723
+2000;Mozambique;0.307
+2000;Namibia;0.544
+2000;Niger;0.262
+2000;Nicaragua;0.577
+2000;Netherlands;0.882
+2000;Norway;0.915
+2000;Nepal;0.453
+2000;New Zealand;0.876
+2000;Panama;0.735
+2000;Peru;0.679
+2000;Papua New Guinea;0.45
+2000;Philippines;0.632
+2000;Pakistan;0.447
+2000;Poland;0.79
+2000;Paraguay;0.643
+2000;Qatar;0.816
+2000;Romania;0.716
+2000;Serbia;0.716
+2000;Russia;0.722
+2000;Rwanda;0.341
+2000;Saudi Arabia;0.743
+2000;Sudan;0.403
+2000;Sweden;0.903
+2000;Singapore;0.821
+2000;Slovenia;0.832
+2000;Slovakia;0.765
+2000;Sierra Leone;0.295
+2000;Senegal;0.39
+2000;Sao Tome and Principe;0.498
+2000;El Salvador;0.615
+2000;Syria;0.6
+2000;Eswatini;0.465
+2000;Togo;0.427
+2000;Thailand;0.652
+2000;Tajikistan;0.555
+2000;Tunisia;0.651
+2000;Tonga;0.675
+2000;Turkey;0.66
+2000;Trinidad and Tobago;0.717
+2000;Tanzania;0.39
+2000;Ukraine;0.694
+2000;Uganda;0.404
+2000;Uruguay;0.743
+2000;Venezuela;0.676
+2000;Vietnam;0.586
+2000;Samoa;0.651
+2000;Yemen;0.444
+2000;South Africa;0.631
+2000;Zambia;0.425
+2000;Zimbabwe;0.43
+2000;Azerbaijan;0.635
+2000;Belarus;0.686
+2000;Djibouti;0.36
+2000;Maldives;0.622
+2000;Angola;0.4
+2000;Liberia;0.435
+2000;Solomon Islands;0.475
+2000;Andorra;0.813
+2000;Bosnia and Herzegovina;0.679
+2000;Burkina Faso;0.293
+2000;Bahamas;0.797
+2000;Cape Verde;0.569
+2000;Dominica;0.703
+2000;Ethiopia;0.292
+2000;Micronesia (country);0.546
+2000;Georgia;0.69
+2000;Equatorial Guinea;0.525
+2000;Kiribati;0.553
+2000;Comoros;0.465
+2000;Saint Lucia;0.695
+2000;Liechtenstein;0.862
+2000;Madagascar;0.462
+2000;North Macedonia;0.677
+2000;Oman;0.693
+2000;Palau;0.744
+2000;Seychelles;0.714
+2000;Chad;0.293
+2000;Timor;0.484
+2000;Uzbekistan;0.599
+2000;Saint Vincent and the Grenadines;0.681
+2000;Grenada;NA
+2000;Montenegro;NA
+2000;Nigeria;NA
+2000;Palestine;NA
+2000;Suriname;NA
+2000;Antigua and Barbuda;NA
+2000;Bhutan;NA
+2000;Eritrea;NA
+2000;Guinea-Bissau;NA
+2000;St. Kitts and Nevis;NA
+2000;Lebanon;NA
+2000;Vanuatu;NA
+2000;South Sudan;NA
+2000;Turkmenistan;NA
+2000;Marshall Islands;NA
+2001;Spain;0.835
+2001;Germany;0.884
+2001;United Kingdom;0.878
+2001;France;0.851
+2001;Italy;0.845
+2001;Portugal;0.798
+2001;United States;0.889
+2001;Japan;0.861
+2001;China;0.596
+2001;United Arab Emirates;0.787
+2001;Afghanistan;0.353
+2001;Albania;0.678
+2001;Armenia;0.673
+2001;Argentina;0.786
+2001;Austria;0.857
+2001;Australia;0.905
+2001;Barbados;0.77
+2001;Bangladesh;0.486
+2001;Belgium;0.883
+2001;Bulgaria;0.73
+2001;Bahrain;0.796
+2001;Burundi;0.301
+2001;Benin;0.428
+2001;Brunei;0.803
+2001;Bolivia;0.63
+2001;Brazil;0.691
+2001;Botswana;0.582
+2001;Belize;0.644
+2001;Canada;0.871
+2001;Democratic Republic of Congo;0.35
+2001;Central African Republic;0.327
+2001;Congo;0.468
+2001;Switzerland;0.9
+2001;Cote d'Ivoire;0.424
+2001;Chile;0.767
+2001;Cameroon;0.456
+2001;Colombia;0.668
+2001;Costa Rica;0.725
+2001;Cuba;0.696
+2001;Cyprus;0.81
+2001;Czechia;0.814
+2001;Denmark;0.883
+2001;Dominican Republic;0.663
+2001;Algeria;0.647
+2001;Ecuador;0.68
+2001;Estonia;0.797
+2001;Egypt;0.618
+2001;Finland;0.871
+2001;Fiji;0.698
+2001;Gabon;0.624
+2001;Ghana;0.493
+2001;Gambia;0.411
+2001;Guinea;0.347
+2001;Greece;0.814
+2001;Guatemala;0.557
+2001;Guyana;0.619
+2001;Hong Kong SAR China;0.838
+2001;Honduras;0.57
+2001;Croatia;0.768
+2001;Haiti;0.444
+2001;Hungary;0.781
+2001;Indonesia;0.609
+2001;Ireland;0.873
+2001;Israel;0.865
+2001;India;0.499
+2001;Iraq;0.601
+2001;Iran;0.665
+2001;Iceland;0.872
+2001;Jamaica;0.689
+2001;Jordan;0.717
+2001;Kenya;0.465
+2001;Kyrgyzstan;0.628
+2001;Cambodia;0.438
+2001;South Korea;0.829
+2001;Kuwait;0.778
+2001;Kazakhstan;0.7
+2001;Laos;0.477
+2001;Sri Lanka;0.697
+2001;Lesotho;0.451
+2001;Lithuania;0.774
+2001;Luxembourg;0.865
+2001;Latvia;0.753
+2001;Libya;0.785
+2001;Morocco;0.541
+2001;Moldova;0.651
+2001;Mali;0.325
+2001;Myanmar;0.423
+2001;Mongolia;0.599
+2001;Mauritania;0.463
+2001;Malta;0.801
+2001;Mauritius;0.687
+2001;Malawi;0.388
+2001;Mexico;0.712
+2001;Malaysia;0.721
+2001;Mozambique;0.32
+2001;Namibia;0.543
+2001;Niger;0.268
+2001;Nicaragua;0.583
+2001;Netherlands;0.886
+2001;Norway;0.914
+2001;Nepal;0.454
+2001;New Zealand;0.88
+2001;Panama;0.738
+2001;Peru;0.687
+2001;Papua New Guinea;0.456
+2001;Philippines;0.633
+2001;Pakistan;0.454
+2001;Poland;0.796
+2001;Paraguay;0.652
+2001;Qatar;0.817
+2001;Romania;0.722
+2001;Serbia;0.723
+2001;Russia;0.728
+2001;Rwanda;0.35
+2001;Saudi Arabia;0.746
+2001;Sudan;0.409
+2001;Sweden;0.905
+2001;Singapore;0.825
+2001;Slovenia;0.843
+2001;Slovakia;0.766
+2001;Sierra Leone;0.309
+2001;Senegal;0.405
+2001;Sao Tome and Principe;0.506
+2001;El Salvador;0.62
+2001;Syria;0.607
+2001;Eswatini;0.454
+2001;Togo;0.43
+2001;Thailand;0.66
+2001;Tajikistan;0.564
+2001;Tunisia;0.659
+2001;Tonga;0.679
+2001;Turkey;0.666
+2001;Trinidad and Tobago;0.725
+2001;Tanzania;0.397
+2001;Ukraine;0.708
+2001;Uganda;0.412
+2001;Uruguay;0.747
+2001;Venezuela;0.684
+2001;Vietnam;0.594
+2001;Samoa;0.659
+2001;Yemen;0.453
+2001;South Africa;0.611
+2001;Zambia;0.432
+2001;Zimbabwe;0.431
+2001;Azerbaijan;0.643
+2001;Belarus;0.692
+2001;Djibouti;0.369
+2001;Maldives;0.626
+2001;Angola;0.41
+2001;Liberia;0.435
+2001;Solomon Islands;0.48
+2001;Andorra;0.815
+2001;Bosnia and Herzegovina;0.684
+2001;Burkina Faso;0.298
+2001;Bahamas;0.798
+2001;Cape Verde;0.573
+2001;Dominica;0.707
+2001;Ethiopia;0.306
+2001;Micronesia (country);0.553
+2001;Georgia;0.694
+2001;Equatorial Guinea;0.534
+2001;Kiribati;0.569
+2001;Comoros;0.47
+2001;Saint Lucia;0.691
+2001;Liechtenstein;0.868
+2001;Madagascar;0.468
+2001;North Macedonia;0.681
+2001;Oman;0.705
+2001;Palau;0.747
+2001;Seychelles;0.71
+2001;Chad;0.301
+2001;Timor;0.492
+2001;Uzbekistan;0.607
+2001;Saint Vincent and the Grenadines;0.686
+2001;Grenada;NA
+2001;Montenegro;NA
+2001;Nigeria;NA
+2001;Palestine;NA
+2001;Suriname;NA
+2001;Antigua and Barbuda;NA
+2001;Bhutan;NA
+2001;Eritrea;NA
+2001;Guinea-Bissau;NA
+2001;St. Kitts and Nevis;NA
+2001;Lebanon;NA
+2001;Vanuatu;NA
+2001;South Sudan;NA
+2001;Turkmenistan;NA
+2001;Marshall Islands;NA
+2002;Spain;0.837
+2002;Germany;0.89
+2002;United Kingdom;0.881
+2002;France;0.852
+2002;Italy;0.85
+2002;Portugal;0.799
+2002;United States;0.891
+2002;Japan;0.864
+2002;China;0.606
+2002;United Arab Emirates;0.792
+2002;Afghanistan;0.384
+2002;Albania;0.684
+2002;Armenia;0.682
+2002;Argentina;0.781
+2002;Austria;0.847
+2002;Australia;0.907
+2002;Barbados;0.774
+2002;Bangladesh;0.492
+2002;Belgium;0.886
+2002;Bulgaria;0.736
+2002;Bahrain;0.795
+2002;Burundi;0.311
+2002;Benin;0.438
+2002;Brunei;0.807
+2002;Bolivia;0.637
+2002;Brazil;0.699
+2002;Botswana;0.579
+2002;Belize;0.651
+2002;Canada;0.877
+2002;Democratic Republic of Congo;0.358
+2002;Central African Republic;0.328
+2002;Congo;0.471
+2002;Switzerland;0.899
+2002;Cote d'Ivoire;0.426
+2002;Chile;0.769
+2002;Cameroon;0.458
+2002;Colombia;0.671
+2002;Costa Rica;0.728
+2002;Cuba;0.698
+2002;Cyprus;0.819
+2002;Czechia;0.821
+2002;Denmark;0.89
+2002;Dominican Republic;0.668
+2002;Algeria;0.657
+2002;Ecuador;0.684
+2002;Estonia;0.805
+2002;Egypt;0.622
+2002;Finland;0.874
+2002;Fiji;0.7
+2002;Gabon;0.626
+2002;Ghana;0.499
+2002;Gambia;0.415
+2002;Guinea;0.356
+2002;Greece;0.826
+2002;Guatemala;0.563
+2002;Guyana;0.622
+2002;Hong Kong SAR China;0.845
+2002;Honduras;0.575
+2002;Croatia;0.774
+2002;Haiti;0.446
+2002;Hungary;0.788
+2002;Indonesia;0.615
+2002;Ireland;0.881
+2002;Israel;0.873
+2002;India;0.506
+2002;Iraq;0.603
+2002;Iran;0.67
+2002;Iceland;0.881
+2002;Jamaica;0.692
+2002;Jordan;0.715
+2002;Kenya;0.465
+2002;Kyrgyzstan;0.63
+2002;Cambodia;0.457
+2002;South Korea;0.837
+2002;Kuwait;0.78
+2002;Kazakhstan;0.714
+2002;Laos;0.486
+2002;Sri Lanka;0.703
+2002;Lesotho;0.446
+2002;Lithuania;0.785
+2002;Luxembourg;0.869
+2002;Latvia;0.767
+2002;Libya;0.79
+2002;Morocco;0.551
+2002;Moldova;0.663
+2002;Mali;0.334
+2002;Myanmar;0.432
+2002;Mongolia;0.608
+2002;Mauritania;0.467
+2002;Malta;0.804
+2002;Mauritius;0.692
+2002;Malawi;0.357
+2002;Mexico;0.718
+2002;Malaysia;0.723
+2002;Mozambique;0.327
+2002;Namibia;0.541
+2002;Niger;0.273
+2002;Nicaragua;0.589
+2002;Netherlands;0.885
+2002;Norway;0.917
+2002;Nepal;0.464
+2002;New Zealand;0.888
+2002;Panama;0.744
+2002;Peru;0.688
+2002;Papua New Guinea;0.462
+2002;Philippines;0.638
+2002;Pakistan;0.462
+2002;Poland;0.804
+2002;Paraguay;0.662
+2002;Qatar;0.822
+2002;Romania;0.731
+2002;Serbia;0.726
+2002;Russia;0.734
+2002;Rwanda;0.366
+2002;Saudi Arabia;0.748
+2002;Sudan;0.415
+2002;Sweden;0.908
+2002;Singapore;0.833
+2002;Slovenia;0.85
+2002;Slovakia;0.773
+2002;Sierra Leone;0.326
+2002;Senegal;0.41
+2002;Sao Tome and Principe;0.511
+2002;El Salvador;0.627
+2002;Syria;0.607
+2002;Eswatini;0.442
+2002;Togo;0.433
+2002;Thailand;0.669
+2002;Tajikistan;0.573
+2002;Tunisia;0.664
+2002;Tonga;0.684
+2002;Turkey;0.677
+2002;Trinidad and Tobago;0.726
+2002;Tanzania;0.407
+2002;Ukraine;0.717
+2002;Uganda;0.427
+2002;Uruguay;0.749
+2002;Venezuela;0.692
+2002;Vietnam;0.602
+2002;Samoa;0.659
+2002;Yemen;0.461
+2002;South Africa;0.619
+2002;Zambia;0.441
+2002;Zimbabwe;0.423
+2002;Azerbaijan;0.651
+2002;Belarus;0.699
+2002;Djibouti;0.375
+2002;Maldives;0.63
+2002;Angola;0.426
+2002;Liberia;0.437
+2002;Solomon Islands;0.486
+2002;Andorra;0.82
+2002;Bosnia and Herzegovina;0.689
+2002;Burkina Faso;0.303
+2002;Bahamas;0.8
+2002;Cape Verde;0.583
+2002;Dominica;0.707
+2002;Ethiopia;0.315
+2002;Micronesia (country);0.559
+2002;Georgia;0.699
+2002;Equatorial Guinea;0.546
+2002;Kiribati;0.569
+2002;Comoros;0.475
+2002;Saint Lucia;0.693
+2002;Liechtenstein;0.873
+2002;Madagascar;0.464
+2002;North Macedonia;0.688
+2002;Oman;0.714
+2002;Palau;0.751
+2002;Seychelles;0.711
+2002;Chad;0.307
+2002;Timor;0.503
+2002;Uzbekistan;0.614
+2002;Saint Vincent and the Grenadines;0.69
+2002;Grenada;0.721
+2002;Montenegro;NA
+2002;Nigeria;NA
+2002;Palestine;NA
+2002;Suriname;NA
+2002;Antigua and Barbuda;NA
+2002;Bhutan;NA
+2002;Eritrea;NA
+2002;Guinea-Bissau;NA
+2002;St. Kitts and Nevis;NA
+2002;Lebanon;NA
+2002;Vanuatu;NA
+2002;South Sudan;NA
+2002;Turkmenistan;NA
+2002;Marshall Islands;NA
+2003;Spain;0.84
+2003;Germany;0.896
+2003;United Kingdom;0.885
+2003;France;0.855
+2003;Italy;0.855
+2003;Portugal;0.805
+2003;United States;0.894
+2003;Japan;0.867
+2003;China;0.618
+2003;United Arab Emirates;0.798
+2003;Afghanistan;0.393
+2003;Albania;0.691
+2003;Armenia;0.691
+2003;Argentina;0.786
+2003;Austria;0.851
+2003;Australia;0.909
+2003;Barbados;0.778
+2003;Bangladesh;0.499
+2003;Belgium;0.889
+2003;Bulgaria;0.745
+2003;Bahrain;0.797
+2003;Burundi;0.319
+2003;Benin;0.445
+2003;Brunei;0.813
+2003;Bolivia;0.64
+2003;Brazil;0.695
+2003;Botswana;0.586
+2003;Belize;0.659
+2003;Canada;0.882
+2003;Democratic Republic of Congo;0.366
+2003;Central African Republic;0.328
+2003;Congo;0.471
+2003;Switzerland;0.905
+2003;Cote d'Ivoire;0.429
+2003;Chile;0.776
+2003;Cameroon;0.464
+2003;Colombia;0.67
+2003;Costa Rica;0.731
+2003;Cuba;0.708
+2003;Cyprus;0.828
+2003;Czechia;0.83
+2003;Denmark;0.901
+2003;Dominican Republic;0.669
+2003;Algeria;0.667
+2003;Ecuador;0.687
+2003;Estonia;0.813
+2003;Egypt;0.625
+2003;Finland;0.877
+2003;Fiji;0.702
+2003;Gabon;0.627
+2003;Ghana;0.5
+2003;Gambia;0.422
+2003;Guinea;0.347
+2003;Greece;0.833
+2003;Guatemala;0.567
+2003;Guyana;0.618
+2003;Hong Kong SAR China;0.854
+2003;Honduras;0.58
+2003;Croatia;0.78
+2003;Haiti;0.449
+2003;Hungary;0.797
+2003;Indonesia;0.622
+2003;Ireland;0.889
+2003;Israel;0.874
+2003;India;0.518
+2003;Iraq;0.589
+2003;Iran;0.677
+2003;Iceland;0.887
+2003;Jamaica;0.687
+2003;Jordan;0.72
+2003;Kenya;0.478
+2003;Kyrgyzstan;0.637
+2003;Cambodia;0.47
+2003;South Korea;0.844
+2003;Kuwait;0.788
+2003;Kazakhstan;0.726
+2003;Laos;0.494
+2003;Sri Lanka;0.712
+2003;Lesotho;0.444
+2003;Lithuania;0.797
+2003;Luxembourg;0.873
+2003;Latvia;0.781
+2003;Libya;0.797
+2003;Morocco;0.562
+2003;Moldova;0.673
+2003;Mali;0.347
+2003;Myanmar;0.442
+2003;Mongolia;0.621
+2003;Mauritania;0.472
+2003;Malta;0.81
+2003;Mauritius;0.701
+2003;Malawi;0.361
+2003;Mexico;0.722
+2003;Malaysia;0.73
+2003;Mozambique;0.34
+2003;Namibia;0.543
+2003;Niger;0.276
+2003;Nicaragua;0.592
+2003;Netherlands;0.89
+2003;Norway;0.923
+2003;Nepal;0.47
+2003;New Zealand;0.891
+2003;Panama;0.746
+2003;Peru;0.687
+2003;Papua New Guinea;0.47
+2003;Philippines;0.642
+2003;Pakistan;0.471
+2003;Poland;0.809
+2003;Paraguay;0.66
+2003;Qatar;0.83
+2003;Romania;0.739
+2003;Serbia;0.732
+2003;Russia;0.742
+2003;Rwanda;0.379
+2003;Saudi Arabia;0.755
+2003;Sudan;0.422
+2003;Sweden;0.913
+2003;Singapore;0.842
+2003;Slovenia;0.857
+2003;Slovakia;0.778
+2003;Sierra Leone;0.336
+2003;Senegal;0.418
+2003;Sao Tome and Principe;0.519
+2003;El Salvador;0.633
+2003;Syria;0.62
+2003;Eswatini;0.437
+2003;Togo;0.438
+2003;Thailand;0.677
+2003;Tajikistan;0.588
+2003;Tunisia;0.671
+2003;Tonga;0.693
+2003;Turkey;0.684
+2003;Trinidad and Tobago;0.74
+2003;Tanzania;0.416
+2003;Ukraine;0.725
+2003;Uganda;0.436
+2003;Uruguay;0.752
+2003;Venezuela;0.692
+2003;Vietnam;0.611
+2003;Samoa;0.665
+2003;Yemen;0.47
+2003;South Africa;0.619
+2003;Zambia;0.451
+2003;Zimbabwe;0.414
+2003;Azerbaijan;0.659
+2003;Belarus;0.707
+2003;Djibouti;0.385
+2003;Maldives;0.644
+2003;Angola;0.435
+2003;Liberia;0.417
+2003;Solomon Islands;0.492
+2003;Andorra;0.827
+2003;Bosnia and Herzegovina;0.695
+2003;Burkina Faso;0.31
+2003;Bahamas;0.799
+2003;Cape Verde;0.588
+2003;Dominica;0.712
+2003;Ethiopia;0.319
+2003;Micronesia (country);0.565
+2003;Georgia;0.708
+2003;Equatorial Guinea;0.547
+2003;Kiribati;0.574
+2003;Comoros;0.481
+2003;Saint Lucia;0.695
+2003;Liechtenstein;0.878
+2003;Madagascar;0.473
+2003;North Macedonia;0.694
+2003;Oman;0.724
+2003;Palau;0.755
+2003;Seychelles;0.714
+2003;Chad;0.305
+2003;Timor;0.504
+2003;Uzbekistan;0.619
+2003;Saint Vincent and the Grenadines;0.698
+2003;Grenada;0.729
+2003;Montenegro;0.741
+2003;Nigeria;0.45
+2003;Palestine;NA
+2003;Suriname;NA
+2003;Antigua and Barbuda;NA
+2003;Bhutan;NA
+2003;Eritrea;NA
+2003;Guinea-Bissau;NA
+2003;St. Kitts and Nevis;NA
+2003;Lebanon;NA
+2003;Vanuatu;NA
+2003;South Sudan;NA
+2003;Turkmenistan;NA
+2003;Marshall Islands;NA
+2004;Spain;0.844
+2004;Germany;0.907
+2004;United Kingdom;0.892
+2004;France;0.858
+2004;Italy;0.86
+2004;Portugal;0.809
+2004;United States;0.897
+2004;Japan;0.871
+2004;China;0.628
+2004;United Arab Emirates;0.803
+2004;Afghanistan;0.409
+2004;Albania;0.696
+2004;Armenia;0.7
+2004;Argentina;0.787
+2004;Austria;0.858
+2004;Australia;0.911
+2004;Barbados;0.782
+2004;Bangladesh;0.506
+2004;Belgium;0.893
+2004;Bulgaria;0.752
+2004;Bahrain;0.796
+2004;Burundi;0.33
+2004;Benin;0.453
+2004;Brunei;0.818
+2004;Bolivia;0.641
+2004;Brazil;0.698
+2004;Botswana;0.592
+2004;Belize;0.665
+2004;Canada;0.888
+2004;Democratic Republic of Congo;0.374
+2004;Central African Republic;0.331
+2004;Congo;0.473
+2004;Switzerland;0.909
+2004;Cote d'Ivoire;0.433
+2004;Chile;0.785
+2004;Cameroon;0.469
+2004;Colombia;0.684
+2004;Costa Rica;0.735
+2004;Cuba;0.722
+2004;Cyprus;0.831
+2004;Czechia;0.834
+2004;Denmark;0.905
+2004;Dominican Republic;0.672
+2004;Algeria;0.677
+2004;Ecuador;0.693
+2004;Estonia;0.821
+2004;Egypt;0.631
+2004;Finland;0.904
+2004;Fiji;0.709
+2004;Gabon;0.626
+2004;Ghana;0.509
+2004;Gambia;0.431
+2004;Guinea;0.372
+2004;Greece;0.843
+2004;Guatemala;0.571
+2004;Guyana;0.625
+2004;Hong Kong SAR China;0.865
+2004;Honduras;0.586
+2004;Croatia;0.786
+2004;Haiti;0.45
+2004;Hungary;0.799
+2004;Indonesia;0.628
+2004;Ireland;0.898
+2004;Israel;0.876
+2004;India;0.527
+2004;Iraq;0.615
+2004;Iran;0.678
+2004;Iceland;0.891
+2004;Jamaica;0.704
+2004;Jordan;0.726
+2004;Kenya;0.49
+2004;Kyrgyzstan;0.64
+2004;Cambodia;0.482
+2004;South Korea;0.853
+2004;Kuwait;0.789
+2004;Kazakhstan;0.737
+2004;Laos;0.503
+2004;Sri Lanka;0.719
+2004;Lesotho;0.44
+2004;Lithuania;0.805
+2004;Luxembourg;0.876
+2004;Latvia;0.795
+2004;Libya;0.798
+2004;Morocco;0.572
+2004;Moldova;0.684
+2004;Mali;0.356
+2004;Myanmar;0.452
+2004;Mongolia;0.636
+2004;Mauritania;0.482
+2004;Malta;0.819
+2004;Mauritius;0.708
+2004;Malawi;0.363
+2004;Mexico;0.731
+2004;Malaysia;0.733
+2004;Mozambique;0.349
+2004;Namibia;0.545
+2004;Niger;0.285
+2004;Nicaragua;0.597
+2004;Netherlands;0.892
+2004;Norway;0.932
+2004;Nepal;0.476
+2004;New Zealand;0.894
+2004;Panama;0.751
+2004;Peru;0.694
+2004;Papua New Guinea;0.473
+2004;Philippines;0.652
+2004;Pakistan;0.473
+2004;Poland;0.807
+2004;Paraguay;0.667
+2004;Qatar;0.832
+2004;Romania;0.753
+2004;Serbia;0.74
+2004;Russia;0.748
+2004;Rwanda;0.396
+2004;Saudi Arabia;0.764
+2004;Sudan;0.43
+2004;Sweden;0.901
+2004;Singapore;0.849
+2004;Slovenia;0.864
+2004;Slovakia;0.786
+2004;Sierra Leone;0.345
+2004;Senegal;0.426
+2004;Sao Tome and Principe;0.526
+2004;El Salvador;0.639
+2004;Syria;0.636
+2004;Eswatini;0.445
+2004;Togo;0.439
+2004;Thailand;0.686
+2004;Tajikistan;0.6
+2004;Tunisia;0.681
+2004;Tonga;0.682
+2004;Turkey;0.69
+2004;Trinidad and Tobago;0.75
+2004;Tanzania;0.426
+2004;Ukraine;0.732
+2004;Uganda;0.436
+2004;Uruguay;0.755
+2004;Venezuela;0.704
+2004;Vietnam;0.62
+2004;Samoa;0.673
+2004;Yemen;0.477
+2004;South Africa;0.619
+2004;Zambia;0.46
+2004;Zimbabwe;0.411
+2004;Azerbaijan;0.667
+2004;Belarus;0.717
+2004;Djibouti;0.393
+2004;Maldives;0.649
+2004;Angola;0.446
+2004;Liberia;0.427
+2004;Solomon Islands;0.5
+2004;Andorra;0.833
+2004;Bosnia and Herzegovina;0.701
+2004;Burkina Faso;0.32
+2004;Bahamas;0.8
+2004;Cape Verde;0.59
+2004;Dominica;0.714
+2004;Ethiopia;0.334
+2004;Micronesia (country);0.57
+2004;Georgia;0.715
+2004;Equatorial Guinea;0.554
+2004;Kiribati;0.572
+2004;Comoros;0.483
+2004;Saint Lucia;0.695
+2004;Liechtenstein;0.883
+2004;Madagascar;0.48
+2004;North Macedonia;0.702
+2004;Oman;0.731
+2004;Palau;0.758
+2004;Seychelles;0.716
+2004;Chad;0.324
+2004;Timor;0.518
+2004;Uzbekistan;0.626
+2004;Saint Vincent and the Grenadines;0.701
+2004;Grenada;0.731
+2004;Montenegro;0.748
+2004;Nigeria;0.46
+2004;Palestine;0.651
+2004;Suriname;0.682
+2004;Antigua and Barbuda;NA
+2004;Bhutan;NA
+2004;Eritrea;NA
+2004;Guinea-Bissau;NA
+2004;St. Kitts and Nevis;NA
+2004;Lebanon;NA
+2004;Vanuatu;NA
+2004;South Sudan;NA
+2004;Turkmenistan;NA
+2004;Marshall Islands;NA
+2005;Spain;0.851
+2005;Germany;0.908
+2005;United Kingdom;0.897
+2005;France;0.867
+2005;Italy;0.865
+2005;Portugal;0.813
+2005;United States;0.9
+2005;Japan;0.875
+2005;China;0.64
+2005;United Arab Emirates;0.809
+2005;Afghanistan;0.418
+2005;Albania;0.706
+2005;Armenia;0.712
+2005;Argentina;0.788
+2005;Austria;0.863
+2005;Australia;0.906
+2005;Barbados;0.787
+2005;Bangladesh;0.514
+2005;Belgium;0.897
+2005;Bulgaria;0.758
+2005;Bahrain;0.795
+2005;Burundi;0.337
+2005;Benin;0.459
+2005;Brunei;0.822
+2005;Bolivia;0.643
+2005;Brazil;0.7
+2005;Botswana;0.601
+2005;Belize;0.662
+2005;Canada;0.894
+2005;Democratic Republic of Congo;0.381
+2005;Central African Republic;0.336
+2005;Congo;0.469
+2005;Switzerland;0.914
+2005;Cote d'Ivoire;0.438
+2005;Chile;0.791
+2005;Cameroon;0.47
+2005;Colombia;0.689
+2005;Costa Rica;0.738
+2005;Cuba;0.734
+2005;Cyprus;0.836
+2005;Czechia;0.843
+2005;Denmark;0.91
+2005;Dominican Republic;0.681
+2005;Algeria;0.685
+2005;Ecuador;0.698
+2005;Estonia;0.832
+2005;Egypt;0.637
+2005;Finland;0.908
+2005;Fiji;0.705
+2005;Gabon;0.632
+2005;Ghana;0.52
+2005;Gambia;0.435
+2005;Guinea;0.383
+2005;Greece;0.853
+2005;Guatemala;0.574
+2005;Guyana;0.629
+2005;Hong Kong SAR China;0.874
+2005;Honduras;0.593
+2005;Croatia;0.792
+2005;Haiti;0.453
+2005;Hungary;0.805
+2005;Indonesia;0.632
+2005;Ireland;0.904
+2005;Israel;0.88
+2005;India;0.536
+2005;Iraq;0.617
+2005;Iran;0.683
+2005;Iceland;0.896
+2005;Jamaica;0.706
+2005;Jordan;0.738
+2005;Kenya;0.5
+2005;Kyrgyzstan;0.642
+2005;Cambodia;0.494
+2005;South Korea;0.86
+2005;Kuwait;0.783
+2005;Kazakhstan;0.747
+2005;Laos;0.512
+2005;Sri Lanka;0.725
+2005;Lesotho;0.436
+2005;Lithuania;0.817
+2005;Luxembourg;0.88
+2005;Latvia;0.809
+2005;Libya;0.8
+2005;Morocco;0.58
+2005;Moldova;0.692
+2005;Mali;0.367
+2005;Myanmar;0.461
+2005;Mongolia;0.649
+2005;Mauritania;0.486
+2005;Malta;0.834
+2005;Mauritius;0.717
+2005;Malawi;0.367
+2005;Mexico;0.737
+2005;Malaysia;0.73
+2005;Mozambique;0.36
+2005;Namibia;0.545
+2005;Niger;0.294
+2005;Nicaragua;0.601
+2005;Netherlands;0.897
+2005;Norway;0.931
+2005;Nepal;0.482
+2005;New Zealand;0.896
+2005;Panama;0.754
+2005;Peru;0.699
+2005;Papua New Guinea;0.48
+2005;Philippines;0.654
+2005;Pakistan;0.486
+2005;Poland;0.813
+2005;Paraguay;0.67
+2005;Qatar;0.838
+2005;Romania;0.762
+2005;Serbia;0.749
+2005;Russia;0.753
+2005;Rwanda;0.413
+2005;Saudi Arabia;0.77
+2005;Sudan;0.437
+2005;Sweden;0.904
+2005;Singapore;0.874
+2005;Slovenia;0.869
+2005;Slovakia;0.796
+2005;Sierra Leone;0.354
+2005;Senegal;0.434
+2005;Sao Tome and Principe;0.533
+2005;El Salvador;0.646
+2005;Syria;0.652
+2005;Eswatini;0.456
+2005;Togo;0.438
+2005;Thailand;0.696
+2005;Tajikistan;0.607
+2005;Tunisia;0.688
+2005;Tonga;0.682
+2005;Turkey;0.696
+2005;Trinidad and Tobago;0.748
+2005;Tanzania;0.437
+2005;Ukraine;0.738
+2005;Uganda;0.444
+2005;Uruguay;0.758
+2005;Venezuela;0.718
+2005;Vietnam;0.624
+2005;Samoa;0.677
+2005;Yemen;0.483
+2005;South Africa;0.622
+2005;Zambia;0.471
+2005;Zimbabwe;0.411
+2005;Azerbaijan;0.674
+2005;Belarus;0.727
+2005;Djibouti;0.402
+2005;Maldives;0.645
+2005;Angola;0.46
+2005;Liberia;0.432
+2005;Solomon Islands;0.509
+2005;Andorra;0.827
+2005;Bosnia and Herzegovina;0.706
+2005;Burkina Faso;0.332
+2005;Bahamas;0.801
+2005;Cape Verde;0.596
+2005;Dominica;0.715
+2005;Ethiopia;0.355
+2005;Micronesia (country);0.577
+2005;Georgia;0.725
+2005;Equatorial Guinea;0.565
+2005;Kiribati;0.589
+2005;Comoros;0.489
+2005;Saint Lucia;0.698
+2005;Liechtenstein;0.886
+2005;Madagascar;0.486
+2005;North Macedonia;0.71
+2005;Oman;0.736
+2005;Palau;0.77
+2005;Seychelles;0.732
+2005;Chad;0.327
+2005;Timor;0.537
+2005;Uzbekistan;0.633
+2005;Saint Vincent and the Grenadines;0.705
+2005;Grenada;0.744
+2005;Montenegro;0.753
+2005;Nigeria;0.465
+2005;Palestine;0.659
+2005;Suriname;0.686
+2005;Antigua and Barbuda;0.764
+2005;Bhutan;0.52
+2005;Eritrea;0.427
+2005;Guinea-Bissau;0.403
+2005;St. Kitts and Nevis;0.711
+2005;Lebanon;0.74
+2005;Vanuatu;0.574
+2005;South Sudan;NA
+2005;Turkmenistan;NA
+2005;Marshall Islands;NA
+2006;Spain;0.856
+2006;Germany;0.918
+2006;United Kingdom;0.896
+2006;France;0.871
+2006;Italy;0.87
+2006;Portugal;0.811
+2006;United States;0.903
+2006;Japan;0.879
+2006;China;0.653
+2006;United Arab Emirates;0.814
+2006;Afghanistan;0.429
+2006;Albania;0.713
+2006;Armenia;0.726
+2006;Argentina;0.812
+2006;Austria;0.87
+2006;Australia;0.909
+2006;Barbados;0.791
+2006;Bangladesh;0.521
+2006;Belgium;0.904
+2006;Bulgaria;0.765
+2006;Bahrain;0.797
+2006;Burundi;0.359
+2006;Benin;0.467
+2006;Brunei;0.825
+2006;Bolivia;0.649
+2006;Brazil;0.702
+2006;Botswana;0.615
+2006;Belize;0.672
+2006;Canada;0.898
+2006;Democratic Republic of Congo;0.389
+2006;Central African Republic;0.342
+2006;Congo;0.47
+2006;Switzerland;0.92
+2006;Cote d'Ivoire;0.443
+2006;Chile;0.791
+2006;Cameroon;0.471
+2006;Colombia;0.698
+2006;Costa Rica;0.745
+2006;Cuba;0.756
+2006;Cyprus;0.842
+2006;Czechia;0.852
+2006;Denmark;0.912
+2006;Dominican Republic;0.688
+2006;Algeria;0.69
+2006;Ecuador;0.701
+2006;Estonia;0.839
+2006;Egypt;0.645
+2006;Finland;0.912
+2006;Fiji;0.708
+2006;Gabon;0.632
+2006;Ghana;0.529
+2006;Gambia;0.44
+2006;Guinea;0.392
+2006;Greece;0.859
+2006;Guatemala;0.583
+2006;Guyana;0.63
+2006;Hong Kong SAR China;0.886
+2006;Honduras;0.599
+2006;Croatia;0.798
+2006;Haiti;0.458
+2006;Hungary;0.815
+2006;Indonesia;0.642
+2006;Ireland;0.906
+2006;Israel;0.88
+2006;India;0.546
+2006;Iraq;0.62
+2006;Iran;0.719
+2006;Iceland;0.899
+2006;Jamaica;0.711
+2006;Jordan;0.741
+2006;Kenya;0.515
+2006;Kyrgyzstan;0.647
+2006;Cambodia;0.506
+2006;South Korea;0.868
+2006;Kuwait;0.788
+2006;Kazakhstan;0.754
+2006;Laos;0.514
+2006;Sri Lanka;0.732
+2006;Lesotho;0.436
+2006;Lithuania;0.826
+2006;Luxembourg;0.884
+2006;Latvia;0.816
+2006;Libya;0.8
+2006;Morocco;0.586
+2006;Moldova;0.699
+2006;Mali;0.376
+2006;Myanmar;0.471
+2006;Mongolia;0.659
+2006;Mauritania;0.496
+2006;Malta;0.832
+2006;Mauritius;0.724
+2006;Malawi;0.377
+2006;Mexico;0.745
+2006;Malaysia;0.737
+2006;Mozambique;0.366
+2006;Namibia;0.551
+2006;Niger;0.3
+2006;Nicaragua;0.605
+2006;Netherlands;0.903
+2006;Norway;0.934
+2006;Nepal;0.493
+2006;New Zealand;0.898
+2006;Panama;0.759
+2006;Peru;0.697
+2006;Papua New Guinea;0.485
+2006;Philippines;0.656
+2006;Pakistan;0.492
+2006;Poland;0.819
+2006;Paraguay;0.67
+2006;Qatar;0.835
+2006;Romania;0.774
+2006;Serbia;0.754
+2006;Russia;0.76
+2006;Rwanda;0.434
+2006;Saudi Arabia;0.777
+2006;Sudan;0.443
+2006;Sweden;0.908
+2006;Singapore;0.881
+2006;Slovenia;0.876
+2006;Slovakia;0.805
+2006;Sierra Leone;0.362
+2006;Senegal;0.438
+2006;Sao Tome and Principe;0.543
+2006;El Salvador;0.653
+2006;Syria;0.662
+2006;Eswatini;0.469
+2006;Togo;0.444
+2006;Thailand;0.697
+2006;Tajikistan;0.617
+2006;Tunisia;0.694
+2006;Tonga;0.683
+2006;Turkey;0.704
+2006;Trinidad and Tobago;0.763
+2006;Tanzania;0.447
+2006;Ukraine;0.744
+2006;Uganda;0.456
+2006;Uruguay;0.763
+2006;Venezuela;0.731
+2006;Vietnam;0.632
+2006;Samoa;0.68
+2006;Yemen;0.488
+2006;South Africa;0.626
+2006;Zambia;0.482
+2006;Zimbabwe;0.414
+2006;Azerbaijan;0.701
+2006;Belarus;0.744
+2006;Djibouti;0.413
+2006;Maldives;0.659
+2006;Angola;0.473
+2006;Liberia;0.438
+2006;Solomon Islands;0.519
+2006;Andorra;0.837
+2006;Bosnia and Herzegovina;0.712
+2006;Burkina Faso;0.341
+2006;Bahamas;0.804
+2006;Cape Verde;0.611
+2006;Dominica;0.721
+2006;Ethiopia;0.371
+2006;Micronesia (country);0.583
+2006;Georgia;0.731
+2006;Equatorial Guinea;0.576
+2006;Kiribati;0.586
+2006;Comoros;0.495
+2006;Saint Lucia;0.712
+2006;Liechtenstein;0.89
+2006;Madagascar;0.49
+2006;North Macedonia;0.716
+2006;Oman;0.74
+2006;Palau;0.774
+2006;Seychelles;0.722
+2006;Chad;0.33
+2006;Timor;0.563
+2006;Uzbekistan;0.637
+2006;Saint Vincent and the Grenadines;0.711
+2006;Grenada;0.745
+2006;Montenegro;0.773
+2006;Nigeria;0.473
+2006;Palestine;0.659
+2006;Suriname;0.691
+2006;Antigua and Barbuda;0.771
+2006;Bhutan;0.526
+2006;Eritrea;0.428
+2006;Guinea-Bissau;0.411
+2006;St. Kitts and Nevis;0.718
+2006;Lebanon;0.739
+2006;Vanuatu;0.58
+2006;South Sudan;NA
+2006;Turkmenistan;NA
+2006;Marshall Islands;NA
+2007;Spain;0.86
+2007;Germany;0.921
+2007;United Kingdom;0.899
+2007;France;0.874
+2007;Italy;0.874
+2007;Portugal;0.814
+2007;United States;0.906
+2007;Japan;0.882
+2007;China;0.667
+2007;United Arab Emirates;0.819
+2007;Afghanistan;0.447
+2007;Albania;0.722
+2007;Armenia;0.741
+2007;Argentina;0.817
+2007;Austria;0.89
+2007;Australia;0.912
+2007;Barbados;0.796
+2007;Bangladesh;0.528
+2007;Belgium;0.907
+2007;Bulgaria;0.773
+2007;Bahrain;0.799
+2007;Burundi;0.371
+2007;Benin;0.475
+2007;Brunei;0.825
+2007;Bolivia;0.649
+2007;Brazil;0.706
+2007;Botswana;0.628
+2007;Belize;0.674
+2007;Canada;0.896
+2007;Democratic Republic of Congo;0.4
+2007;Central African Republic;0.347
+2007;Congo;0.486
+2007;Switzerland;0.923
+2007;Cote d'Ivoire;0.449
+2007;Chile;0.804
+2007;Cameroon;0.482
+2007;Colombia;0.711
+2007;Costa Rica;0.753
+2007;Cuba;0.772
+2007;Cyprus;0.849
+2007;Czechia;0.858
+2007;Denmark;0.911
+2007;Dominican Republic;0.694
+2007;Algeria;0.7
+2007;Ecuador;0.71
+2007;Estonia;0.846
+2007;Egypt;0.653
+2007;Finland;0.915
+2007;Fiji;0.711
+2007;Gabon;0.637
+2007;Ghana;0.541
+2007;Gambia;0.446
+2007;Guinea;0.4
+2007;Greece;0.857
+2007;Guatemala;0.592
+2007;Guyana;0.634
+2007;Hong Kong SAR China;0.89
+2007;Honduras;0.607
+2007;Croatia;0.808
+2007;Haiti;0.463
+2007;Hungary;0.818
+2007;Indonesia;0.643
+2007;Ireland;0.909
+2007;Israel;0.889
+2007;India;0.555
+2007;Iraq;0.623
+2007;Iran;0.723
+2007;Iceland;0.905
+2007;Jamaica;0.719
+2007;Jordan;0.744
+2007;Kenya;0.523
+2007;Kyrgyzstan;0.654
+2007;Cambodia;0.52
+2007;South Korea;0.875
+2007;Kuwait;0.788
+2007;Kazakhstan;0.758
+2007;Laos;0.527
+2007;Sri Lanka;0.738
+2007;Lesotho;0.441
+2007;Lithuania;0.833
+2007;Luxembourg;0.888
+2007;Latvia;0.825
+2007;Libya;0.8
+2007;Morocco;0.594
+2007;Moldova;0.704
+2007;Mali;0.371
+2007;Myanmar;0.482
+2007;Mongolia;0.671
+2007;Mauritania;0.495
+2007;Malta;0.837
+2007;Mauritius;0.731
+2007;Malawi;0.388
+2007;Mexico;0.746
+2007;Malaysia;0.75
+2007;Mozambique;0.378
+2007;Namibia;0.559
+2007;Niger;0.306
+2007;Nicaragua;0.611
+2007;Netherlands;0.91
+2007;Norway;0.936
+2007;Nepal;0.498
+2007;New Zealand;0.901
+2007;Panama;0.767
+2007;Peru;0.704
+2007;Papua New Guinea;0.498
+2007;Philippines;0.662
+2007;Pakistan;0.496
+2007;Poland;0.824
+2007;Paraguay;0.675
+2007;Qatar;0.838
+2007;Romania;0.788
+2007;Serbia;0.758
+2007;Russia;0.769
+2007;Rwanda;0.45
+2007;Saudi Arabia;0.783
+2007;Sudan;0.45
+2007;Sweden;0.91
+2007;Singapore;0.882
+2007;Slovenia;0.88
+2007;Slovakia;0.816
+2007;Sierra Leone;0.375
+2007;Senegal;0.447
+2007;Sao Tome and Principe;0.548
+2007;El Salvador;0.652
+2007;Syria;0.673
+2007;Eswatini;0.478
+2007;Togo;0.439
+2007;Thailand;0.714
+2007;Tajikistan;0.621
+2007;Tunisia;0.7
+2007;Tonga;0.686
+2007;Turkey;0.712
+2007;Trinidad and Tobago;0.771
+2007;Tanzania;0.456
+2007;Ukraine;0.751
+2007;Uganda;0.466
+2007;Uruguay;0.765
+2007;Venezuela;0.748
+2007;Vietnam;0.64
+2007;Samoa;0.686
+2007;Yemen;0.492
+2007;South Africa;0.632
+2007;Zambia;0.488
+2007;Zimbabwe;0.421
+2007;Azerbaijan;0.706
+2007;Belarus;0.76
+2007;Djibouti;0.423
+2007;Maldives;0.664
+2007;Angola;0.489
+2007;Liberia;0.445
+2007;Solomon Islands;0.526
+2007;Andorra;0.837
+2007;Bosnia and Herzegovina;0.719
+2007;Burkina Faso;0.352
+2007;Bahamas;0.804
+2007;Cape Verde;0.617
+2007;Dominica;0.725
+2007;Ethiopia;0.386
+2007;Micronesia (country);0.589
+2007;Georgia;0.743
+2007;Equatorial Guinea;0.582
+2007;Kiribati;0.587
+2007;Comoros;0.501
+2007;Saint Lucia;0.714
+2007;Liechtenstein;0.893
+2007;Madagascar;0.498
+2007;North Macedonia;0.721
+2007;Oman;0.752
+2007;Palau;0.78
+2007;Seychelles;0.745
+2007;Chad;0.34
+2007;Timor;0.585
+2007;Uzbekistan;0.649
+2007;Saint Vincent and the Grenadines;0.715
+2007;Grenada;0.75
+2007;Montenegro;0.784
+2007;Nigeria;0.478
+2007;Palestine;0.669
+2007;Suriname;0.697
+2007;Antigua and Barbuda;0.776
+2007;Bhutan;0.542
+2007;Eritrea;0.43
+2007;Guinea-Bissau;0.417
+2007;St. Kitts and Nevis;0.724
+2007;Lebanon;0.751
+2007;Vanuatu;0.583
+2007;South Sudan;NA
+2007;Turkmenistan;NA
+2007;Marshall Islands;NA
+2008;Spain;0.863
+2008;Germany;0.924
+2008;United Kingdom;0.903
+2008;France;0.875
+2008;Italy;0.876
+2008;Portugal;0.817
+2008;United States;0.911
+2008;Japan;0.883
+2008;China;0.678
+2008;United Arab Emirates;0.821
+2008;Afghanistan;0.447
+2008;Albania;0.728
+2008;Armenia;0.745
+2008;Argentina;0.821
+2008;Austria;0.893
+2008;Australia;0.926
+2008;Barbados;0.8
+2008;Bangladesh;0.531
+2008;Belgium;0.906
+2008;Bulgaria;0.78
+2008;Bahrain;0.8
+2008;Burundi;0.384
+2008;Benin;0.482
+2008;Brunei;0.825
+2008;Bolivia;0.658
+2008;Brazil;0.717
+2008;Botswana;0.641
+2008;Belize;0.679
+2008;Canada;0.898
+2008;Democratic Republic of Congo;0.412
+2008;Central African Republic;0.352
+2008;Congo;0.501
+2008;Switzerland;0.925
+2008;Cote d'Ivoire;0.455
+2008;Chile;0.814
+2008;Cameroon;0.49
+2008;Colombia;0.718
+2008;Costa Rica;0.761
+2008;Cuba;0.783
+2008;Cyprus;0.858
+2008;Czechia;0.863
+2008;Denmark;0.917
+2008;Dominican Republic;0.698
+2008;Algeria;0.702
+2008;Ecuador;0.717
+2008;Estonia;0.848
+2008;Egypt;0.66
+2008;Finland;0.917
+2008;Fiji;0.712
+2008;Gabon;0.639
+2008;Ghana;0.553
+2008;Gambia;0.453
+2008;Guinea;0.408
+2008;Greece;0.865
+2008;Guatemala;0.597
+2008;Guyana;0.638
+2008;Hong Kong SAR China;0.899
+2008;Honduras;0.603
+2008;Croatia;0.813
+2008;Haiti;0.466
+2008;Hungary;0.822
+2008;Indonesia;0.647
+2008;Ireland;0.911
+2008;Israel;0.889
+2008;India;0.563
+2008;Iraq;0.63
+2008;Iran;0.728
+2008;Iceland;0.899
+2008;Jamaica;0.737
+2008;Jordan;0.745
+2008;Kenya;0.532
+2008;Kyrgyzstan;0.656
+2008;Cambodia;0.525
+2008;South Korea;0.88
+2008;Kuwait;0.79
+2008;Kazakhstan;0.758
+2008;Laos;0.535
+2008;Sri Lanka;0.746
+2008;Lesotho;0.446
+2008;Lithuania;0.838
+2008;Luxembourg;0.89
+2008;Latvia;0.828
+2008;Libya;0.8
+2008;Morocco;0.602
+2008;Moldova;0.71
+2008;Mali;0.394
+2008;Myanmar;0.493
+2008;Mongolia;0.682
+2008;Mauritania;0.494
+2008;Malta;0.839
+2008;Mauritius;0.738
+2008;Malawi;0.405
+2008;Mexico;0.748
+2008;Malaysia;0.761
+2008;Mozambique;0.387
+2008;Namibia;0.567
+2008;Niger;0.314
+2008;Nicaragua;0.616
+2008;Netherlands;0.913
+2008;Norway;0.937
+2008;Nepal;0.509
+2008;New Zealand;0.902
+2008;Panama;0.771
+2008;Peru;0.715
+2008;Papua New Guinea;0.503
+2008;Philippines;0.666
+2008;Pakistan;0.503
+2008;Poland;0.829
+2008;Paraguay;0.684
+2008;Qatar;0.843
+2008;Romania;0.803
+2008;Serbia;0.764
+2008;Russia;0.775
+2008;Rwanda;0.461
+2008;Saudi Arabia;0.792
+2008;Sudan;0.461
+2008;Sweden;0.907
+2008;Singapore;0.888
+2008;Slovenia;0.886
+2008;Slovakia;0.823
+2008;Sierra Leone;0.386
+2008;Senegal;0.457
+2008;Sao Tome and Principe;0.546
+2008;El Salvador;0.655
+2008;Syria;0.676
+2008;Eswatini;0.487
+2008;Togo;0.447
+2008;Thailand;0.718
+2008;Tajikistan;0.639
+2008;Tunisia;0.707
+2008;Tonga;0.688
+2008;Turkey;0.714
+2008;Trinidad and Tobago;0.778
+2008;Tanzania;0.465
+2008;Ukraine;0.755
+2008;Uganda;0.479
+2008;Uruguay;0.769
+2008;Venezuela;0.757
+2008;Vietnam;0.647
+2008;Samoa;0.687
+2008;Yemen;0.495
+2008;South Africa;0.646
+2008;Zambia;0.503
+2008;Zimbabwe;0.422
+2008;Azerbaijan;0.716
+2008;Belarus;0.777
+2008;Djibouti;0.432
+2008;Maldives;0.673
+2008;Angola;0.501
+2008;Liberia;0.45
+2008;Solomon Islands;0.524
+2008;Andorra;0.84
+2008;Bosnia and Herzegovina;0.726
+2008;Burkina Faso;0.364
+2008;Bahamas;0.804
+2008;Cape Verde;0.625
+2008;Dominica;0.73
+2008;Ethiopia;0.403
+2008;Micronesia (country);0.593
+2008;Georgia;0.742
+2008;Equatorial Guinea;0.583
+2008;Kiribati;0.59
+2008;Comoros;0.508
+2008;Saint Lucia;0.725
+2008;Liechtenstein;0.899
+2008;Madagascar;0.506
+2008;North Macedonia;0.737
+2008;Oman;0.77
+2008;Palau;0.781
+2008;Seychelles;0.75
+2008;Chad;0.346
+2008;Timor;0.616
+2008;Uzbekistan;0.653
+2008;Saint Vincent and the Grenadines;0.721
+2008;Grenada;0.753
+2008;Montenegro;0.794
+2008;Nigeria;0.484
+2008;Palestine;0.674
+2008;Suriname;0.701
+2008;Antigua and Barbuda;0.774
+2008;Bhutan;0.551
+2008;Eritrea;0.426
+2008;Guinea-Bissau;0.424
+2008;St. Kitts and Nevis;0.739
+2008;Lebanon;0.757
+2008;Vanuatu;0.589
+2008;South Sudan;NA
+2008;Turkmenistan;NA
+2008;Marshall Islands;NA
+2009;Spain;0.865
+2009;Germany;0.924
+2009;United Kingdom;0.906
+2009;France;0.876
+2009;Italy;0.876
+2009;Portugal;0.823
+2009;United States;0.912
+2009;Japan;0.882
+2009;China;0.687
+2009;United Arab Emirates;0.819
+2009;Afghanistan;0.46
+2009;Albania;0.733
+2009;Armenia;0.742
+2009;Argentina;0.821
+2009;Austria;0.895
+2009;Australia;0.928
+2009;Barbados;0.8
+2009;Bangladesh;0.543
+2009;Belgium;0.907
+2009;Bulgaria;0.782
+2009;Bahrain;0.798
+2009;Burundi;0.401
+2009;Benin;0.488
+2009;Brunei;0.827
+2009;Bolivia;0.663
+2009;Brazil;0.719
+2009;Botswana;0.65
+2009;Belize;0.684
+2009;Canada;0.898
+2009;Democratic Republic of Congo;0.419
+2009;Central African Republic;0.356
+2009;Congo;0.514
+2009;Switzerland;0.935
+2009;Cote d'Ivoire;0.462
+2009;Chile;0.822
+2009;Cameroon;0.498
+2009;Colombia;0.72
+2009;Costa Rica;0.762
+2009;Cuba;0.785
+2009;Cyprus;0.862
+2009;Czechia;0.866
+2009;Denmark;0.914
+2009;Dominican Republic;0.7
+2009;Algeria;0.711
+2009;Ecuador;0.719
+2009;Estonia;0.846
+2009;Egypt;0.662
+2009;Finland;0.912
+2009;Fiji;0.715
+2009;Gabon;0.646
+2009;Ghana;0.558
+2009;Gambia;0.456
+2009;Guinea;0.408
+2009;Greece;0.867
+2009;Guatemala;0.601
+2009;Guyana;0.641
+2009;Hong Kong SAR China;0.901
+2009;Honduras;0.605
+2009;Croatia;0.812
+2009;Haiti;0.47
+2009;Hungary;0.828
+2009;Indonesia;0.658
+2009;Ireland;0.906
+2009;Israel;0.89
+2009;India;0.569
+2009;Iraq;0.632
+2009;Iran;0.734
+2009;Iceland;0.898
+2009;Jamaica;0.733
+2009;Jordan;0.743
+2009;Kenya;0.541
+2009;Kyrgyzstan;0.661
+2009;Cambodia;0.528
+2009;South Korea;0.877
+2009;Kuwait;0.789
+2009;Kazakhstan;0.762
+2009;Laos;0.545
+2009;Sri Lanka;0.749
+2009;Lesotho;0.455
+2009;Lithuania;0.828
+2009;Luxembourg;0.893
+2009;Latvia;0.826
+2009;Libya;0.799
+2009;Morocco;0.608
+2009;Moldova;0.706
+2009;Mali;0.401
+2009;Myanmar;0.504
+2009;Mongolia;0.687
+2009;Mauritania;0.502
+2009;Malta;0.84
+2009;Mauritius;0.745
+2009;Malawi;0.42
+2009;Mexico;0.748
+2009;Malaysia;0.765
+2009;Mozambique;0.394
+2009;Namibia;0.576
+2009;Niger;0.321
+2009;Nicaragua;0.617
+2009;Netherlands;0.912
+2009;Norway;0.937
+2009;Nepal;0.522
+2009;New Zealand;0.905
+2009;Panama;0.772
+2009;Peru;0.718
+2009;Papua New Guinea;0.512
+2009;Philippines;0.665
+2009;Pakistan;0.508
+2009;Poland;0.834
+2009;Paraguay;0.681
+2009;Qatar;0.841
+2009;Romania;0.806
+2009;Serbia;0.766
+2009;Russia;0.773
+2009;Rwanda;0.477
+2009;Saudi Arabia;0.796
+2009;Sudan;0.468
+2009;Sweden;0.905
+2009;Singapore;0.888
+2009;Slovenia;0.885
+2009;Slovakia;0.825
+2009;Sierra Leone;0.394
+2009;Senegal;0.461
+2009;Sao Tome and Principe;0.556
+2009;El Salvador;0.656
+2009;Syria;0.674
+2009;Eswatini;0.498
+2009;Togo;0.456
+2009;Thailand;0.722
+2009;Tajikistan;0.633
+2009;Tunisia;0.709
+2009;Tonga;0.693
+2009;Turkey;0.72
+2009;Trinidad and Tobago;0.782
+2009;Tanzania;0.474
+2009;Ukraine;0.749
+2009;Uganda;0.487
+2009;Uruguay;0.775
+2009;Venezuela;0.756
+2009;Vietnam;0.659
+2009;Samoa;0.691
+2009;Yemen;0.502
+2009;South Africa;0.655
+2009;Zambia;0.517
+2009;Zimbabwe;0.458
+2009;Azerbaijan;0.727
+2009;Belarus;0.787
+2009;Djibouti;0.442
+2009;Maldives;0.674
+2009;Angola;0.515
+2009;Liberia;0.452
+2009;Solomon Islands;0.517
+2009;Andorra;0.839
+2009;Bosnia and Herzegovina;0.727
+2009;Burkina Faso;0.373
+2009;Bahamas;0.803
+2009;Cape Verde;0.63
+2009;Dominica;0.731
+2009;Ethiopia;0.411
+2009;Micronesia (country);0.596
+2009;Georgia;0.746
+2009;Equatorial Guinea;0.585
+2009;Kiribati;0.588
+2009;Comoros;0.514
+2009;Saint Lucia;0.728
+2009;Liechtenstein;0.899
+2009;Madagascar;0.51
+2009;North Macedonia;0.739
+2009;Oman;0.777
+2009;Palau;0.782
+2009;Seychelles;0.754
+2009;Chad;0.361
+2009;Timor;0.611
+2009;Uzbekistan;0.66
+2009;Saint Vincent and the Grenadines;0.72
+2009;Grenada;0.75
+2009;Montenegro;0.797
+2009;Nigeria;0.49
+2009;Palestine;0.679
+2009;Suriname;0.707
+2009;Antigua and Barbuda;0.767
+2009;Bhutan;0.561
+2009;Eritrea;0.436
+2009;Guinea-Bissau;0.43
+2009;St. Kitts and Nevis;0.74
+2009;Lebanon;0.764
+2009;Vanuatu;0.589
+2009;South Sudan;NA
+2009;Turkmenistan;NA
+2009;Marshall Islands;NA
+2010;Spain;0.872
+2010;Germany;0.927
+2010;United Kingdom;0.912
+2010;France;0.879
+2010;Italy;0.879
+2010;Portugal;0.829
+2010;United States;0.916
+2010;Japan;0.887
+2010;China;0.699
+2010;United Arab Emirates;0.82
+2010;Afghanistan;0.472
+2010;Albania;0.745
+2010;Armenia;0.747
+2010;Argentina;0.829
+2010;Austria;0.904
+2010;Australia;0.93
+2010;Barbados;0.797
+2010;Bangladesh;0.557
+2010;Belgium;0.91
+2010;Bulgaria;0.788
+2010;Bahrain;0.8
+2010;Burundi;0.411
+2010;Benin;0.494
+2010;Brunei;0.827
+2010;Bolivia;0.667
+2010;Brazil;0.727
+2010;Botswana;0.663
+2010;Belize;0.695
+2010;Canada;0.901
+2010;Democratic Republic of Congo;0.435
+2010;Central African Republic;0.365
+2010;Congo;0.52
+2010;Switzerland;0.941
+2010;Cote d'Ivoire;0.468
+2010;Chile;0.803
+2010;Cameroon;0.505
+2010;Colombia;0.729
+2010;Costa Rica;0.765
+2010;Cuba;0.781
+2010;Cyprus;0.856
+2010;Czechia;0.87
+2010;Denmark;0.917
+2010;Dominican Republic;0.706
+2010;Algeria;0.721
+2010;Ecuador;0.726
+2010;Estonia;0.852
+2010;Egypt;0.668
+2010;Finland;0.916
+2010;Fiji;0.715
+2010;Gabon;0.652
+2010;Ghana;0.565
+2010;Gambia;0.459
+2010;Guinea;0.416
+2010;Greece;0.865
+2010;Guatemala;0.606
+2010;Guyana;0.649
+2010;Hong Kong SAR China;0.904
+2010;Honduras;0.61
+2010;Croatia;0.815
+2010;Haiti;0.471
+2010;Hungary;0.831
+2010;Indonesia;0.665
+2010;Ireland;0.901
+2010;Israel;0.895
+2010;India;0.579
+2010;Iraq;0.636
+2010;Iran;0.742
+2010;Iceland;0.898
+2010;Jamaica;0.732
+2010;Jordan;0.737
+2010;Kenya;0.551
+2010;Kyrgyzstan;0.662
+2010;Cambodia;0.539
+2010;South Korea;0.889
+2010;Kuwait;0.788
+2010;Kazakhstan;0.764
+2010;Laos;0.552
+2010;Sri Lanka;0.754
+2010;Lesotho;0.46
+2010;Lithuania;0.831
+2010;Luxembourg;0.898
+2010;Latvia;0.824
+2010;Libya;0.798
+2010;Morocco;0.616
+2010;Moldova;0.713
+2010;Mali;0.408
+2010;Myanmar;0.515
+2010;Mongolia;0.696
+2010;Mauritania;0.505
+2010;Malta;0.853
+2010;Mauritius;0.751
+2010;Malawi;0.431
+2010;Mexico;0.748
+2010;Malaysia;0.772
+2010;Mozambique;0.401
+2010;Namibia;0.589
+2010;Niger;0.331
+2010;Nicaragua;0.622
+2010;Netherlands;0.917
+2010;Norway;0.94
+2010;Nepal;0.537
+2010;New Zealand;0.906
+2010;Panama;0.774
+2010;Peru;0.721
+2010;Papua New Guinea;0.522
+2010;Philippines;0.671
+2010;Pakistan;0.512
+2010;Poland;0.84
+2010;Paraguay;0.696
+2010;Qatar;0.834
+2010;Romania;0.805
+2010;Serbia;0.766
+2010;Russia;0.781
+2010;Rwanda;0.492
+2010;Saudi Arabia;0.809
+2010;Sudan;0.469
+2010;Sweden;0.911
+2010;Singapore;0.909
+2010;Slovenia;0.889
+2010;Slovakia;0.831
+2010;Sierra Leone;0.399
+2010;Senegal;0.468
+2010;Sao Tome and Principe;0.561
+2010;El Salvador;0.668
+2010;Syria;0.672
+2010;Eswatini;0.51
+2010;Togo;0.466
+2010;Thailand;0.724
+2010;Tajikistan;0.638
+2010;Tunisia;0.716
+2010;Tonga;0.699
+2010;Turkey;0.739
+2010;Trinidad and Tobago;0.784
+2010;Tanzania;0.481
+2010;Ukraine;0.755
+2010;Uganda;0.498
+2010;Uruguay;0.782
+2010;Venezuela;0.757
+2010;Vietnam;0.661
+2010;Samoa;0.698
+2010;Yemen;0.506
+2010;South Africa;0.664
+2010;Zambia;0.527
+2010;Zimbabwe;0.482
+2010;Azerbaijan;0.726
+2010;Belarus;0.795
+2010;Djibouti;0.454
+2010;Maldives;0.685
+2010;Angola;0.517
+2010;Liberia;0.455
+2010;Solomon Islands;0.537
+2010;Andorra;0.837
+2010;Bosnia and Herzegovina;0.721
+2010;Burkina Faso;0.384
+2010;Bahamas;0.805
+2010;Cape Verde;0.632
+2010;Dominica;0.74
+2010;Ethiopia;0.421
+2010;Micronesia (country);0.601
+2010;Georgia;0.751
+2010;Equatorial Guinea;0.576
+2010;Kiribati;0.593
+2010;Comoros;0.521
+2010;Saint Lucia;0.73
+2010;Liechtenstein;0.904
+2010;Madagascar;0.511
+2010;North Macedonia;0.743
+2010;Oman;0.782
+2010;Palau;0.786
+2010;Seychelles;0.764
+2010;Chad;0.369
+2010;Timor;0.628
+2010;Uzbekistan;0.669
+2010;Saint Vincent and the Grenadines;0.718
+2010;Grenada;0.754
+2010;Montenegro;0.802
+2010;Nigeria;0.482
+2010;Palestine;0.684
+2010;Suriname;0.71
+2010;Antigua and Barbuda;0.763
+2010;Bhutan;0.574
+2010;Eritrea;0.436
+2010;Guinea-Bissau;0.436
+2010;St. Kitts and Nevis;0.746
+2010;Lebanon;0.766
+2010;Vanuatu;0.59
+2010;South Sudan;0.41
+2010;Turkmenistan;0.666
+2010;Marshall Islands;NA
+2011;Spain;0.878
+2011;Germany;0.933
+2011;United Kingdom;0.906
+2011;France;0.882
+2011;Italy;0.883
+2011;Portugal;0.833
+2011;United States;0.919
+2011;Japan;0.892
+2011;China;0.707
+2011;United Arab Emirates;0.826
+2011;Afghanistan;0.477
+2011;Albania;0.764
+2011;Armenia;0.751
+2011;Argentina;0.835
+2011;Austria;0.906
+2011;Australia;0.932
+2011;Barbados;0.799
+2011;Bangladesh;0.566
+2011;Belgium;0.911
+2011;Bulgaria;0.791
+2011;Bahrain;0.801
+2011;Burundi;0.419
+2011;Benin;0.5
+2011;Brunei;0.831
+2011;Bolivia;0.671
+2011;Brazil;0.731
+2011;Botswana;0.677
+2011;Belize;0.694
+2011;Canada;0.903
+2011;Democratic Republic of Congo;0.438
+2011;Central African Republic;0.374
+2011;Congo;0.522
+2011;Switzerland;0.941
+2011;Cote d'Ivoire;0.472
+2011;Chile;0.815
+2011;Cameroon;0.514
+2011;Colombia;0.734
+2011;Costa Rica;0.778
+2011;Cuba;0.78
+2011;Cyprus;0.86
+2011;Czechia;0.874
+2011;Denmark;0.93
+2011;Dominican Republic;0.71
+2011;Algeria;0.728
+2011;Ecuador;0.732
+2011;Estonia;0.86
+2011;Egypt;0.671
+2011;Finland;0.92
+2011;Fiji;0.719
+2011;Gabon;0.657
+2011;Ghana;0.574
+2011;Gambia;0.455
+2011;Guinea;0.429
+2011;Greece;0.862
+2011;Guatemala;0.612
+2011;Guyana;0.658
+2011;Hong Kong SAR China;0.907
+2011;Honduras;0.613
+2011;Croatia;0.823
+2011;Haiti;0.478
+2011;Hungary;0.828
+2011;Indonesia;0.673
+2011;Ireland;0.902
+2011;Israel;0.901
+2011;India;0.588
+2011;Iraq;0.642
+2011;Iran;0.753
+2011;Iceland;0.907
+2011;Jamaica;0.731
+2011;Jordan;0.734
+2011;Kenya;0.559
+2011;Kyrgyzstan;0.664
+2011;Cambodia;0.546
+2011;South Korea;0.895
+2011;Kuwait;0.792
+2011;Kazakhstan;0.772
+2011;Laos;0.565
+2011;Sri Lanka;0.76
+2011;Lesotho;0.469
+2011;Lithuania;0.838
+2011;Luxembourg;0.899
+2011;Latvia;0.829
+2011;Libya;0.764
+2011;Morocco;0.626
+2011;Moldova;0.719
+2011;Mali;0.413
+2011;Myanmar;0.526
+2011;Mongolia;0.71
+2011;Mauritania;0.509
+2011;Malta;0.853
+2011;Mauritius;0.76
+2011;Malawi;0.44
+2011;Mexico;0.755
+2011;Malaysia;0.778
+2011;Mozambique;0.397
+2011;Namibia;0.602
+2011;Niger;0.338
+2011;Nicaragua;0.628
+2011;Netherlands;0.928
+2011;Norway;0.942
+2011;Nepal;0.545
+2011;New Zealand;0.909
+2011;Panama;0.78
+2011;Peru;0.734
+2011;Papua New Guinea;0.53
+2011;Philippines;0.676
+2011;Pakistan;0.516
+2011;Poland;0.845
+2011;Paraguay;0.701
+2011;Qatar;0.84
+2011;Romania;0.806
+2011;Serbia;0.776
+2011;Russia;0.79
+2011;Rwanda;0.5
+2011;Saudi Arabia;0.823
+2011;Sudan;0.474
+2011;Sweden;0.912
+2011;Singapore;0.913
+2011;Slovenia;0.891
+2011;Slovakia;0.838
+2011;Sierra Leone;0.406
+2011;Senegal;0.471
+2011;Sao Tome and Principe;0.568
+2011;El Salvador;0.664
+2011;Syria;0.678
+2011;Eswatini;0.524
+2011;Togo;0.479
+2011;Thailand;0.733
+2011;Tajikistan;0.636
+2011;Tunisia;0.718
+2011;Tonga;0.704
+2011;Turkey;0.753
+2011;Trinidad and Tobago;0.782
+2011;Tanzania;0.487
+2011;Ukraine;0.76
+2011;Uganda;0.504
+2011;Uruguay;0.789
+2011;Venezuela;0.769
+2011;Vietnam;0.671
+2011;Samoa;0.701
+2011;Yemen;0.506
+2011;South Africa;0.665
+2011;Zambia;0.534
+2011;Zimbabwe;0.499
+2011;Azerbaijan;0.727
+2011;Belarus;0.801
+2011;Djibouti;0.463
+2011;Maldives;0.697
+2011;Angola;0.533
+2011;Liberia;0.472
+2011;Solomon Islands;0.541
+2011;Andorra;0.836
+2011;Bosnia and Herzegovina;0.729
+2011;Burkina Faso;0.394
+2011;Bahamas;0.805
+2011;Cape Verde;0.639
+2011;Dominica;0.741
+2011;Ethiopia;0.432
+2011;Micronesia (country);0.604
+2011;Georgia;0.757
+2011;Equatorial Guinea;0.58
+2011;Kiribati;0.591
+2011;Comoros;0.533
+2011;Saint Lucia;0.736
+2011;Liechtenstein;0.909
+2011;Madagascar;0.512
+2011;North Macedonia;0.747
+2011;Oman;0.782
+2011;Palau;0.793
+2011;Seychelles;0.767
+2011;Chad;0.38
+2011;Timor;0.644
+2011;Uzbekistan;0.676
+2011;Saint Vincent and the Grenadines;0.721
+2011;Grenada;0.756
+2011;Montenegro;0.806
+2011;Nigeria;0.492
+2011;Palestine;0.692
+2011;Suriname;0.717
+2011;Antigua and Barbuda;0.755
+2011;Bhutan;0.585
+2011;Eritrea;0.436
+2011;Guinea-Bissau;0.445
+2011;St. Kitts and Nevis;0.749
+2011;Lebanon;0.768
+2011;Vanuatu;0.591
+2011;South Sudan;0.43
+2011;Turkmenistan;0.673
+2011;Marshall Islands;NA
+2012;Spain;0.881
+2012;Germany;0.934
+2012;United Kingdom;0.904
+2012;France;0.885
+2012;Italy;0.882
+2012;Portugal;0.836
+2012;United States;0.92
+2012;Japan;0.897
+2012;China;0.716
+2012;United Arab Emirates;0.832
+2012;Afghanistan;0.489
+2012;Albania;0.775
+2012;Armenia;0.756
+2012;Argentina;0.834
+2012;Austria;0.908
+2012;Australia;0.937
+2012;Barbados;0.808
+2012;Bangladesh;0.575
+2012;Belgium;0.913
+2012;Bulgaria;0.795
+2012;Bahrain;0.808
+2012;Burundi;0.426
+2012;Benin;0.51
+2012;Brunei;0.839
+2012;Bolivia;0.675
+2012;Brazil;0.735
+2012;Botswana;0.689
+2012;Belize;0.701
+2012;Canada;0.906
+2012;Democratic Republic of Congo;0.442
+2012;Central African Republic;0.381
+2012;Congo;0.535
+2012;Switzerland;0.944
+2012;Cote d'Ivoire;0.482
+2012;Chile;0.821
+2012;Cameroon;0.525
+2012;Colombia;0.739
+2012;Costa Rica;0.783
+2012;Cuba;0.769
+2012;Cyprus;0.859
+2012;Czechia;0.874
+2012;Denmark;0.931
+2012;Dominican Republic;0.714
+2012;Algeria;0.728
+2012;Ecuador;0.751
+2012;Estonia;0.865
+2012;Egypt;0.677
+2012;Finland;0.921
+2012;Fiji;0.722
+2012;Gabon;0.666
+2012;Ghana;0.577
+2012;Gambia;0.461
+2012;Guinea;0.439
+2012;Greece;0.865
+2012;Guatemala;0.618
+2012;Guyana;0.662
+2012;Hong Kong SAR China;0.914
+2012;Honduras;0.612
+2012;Croatia;0.825
+2012;Haiti;0.482
+2012;Hungary;0.831
+2012;Indonesia;0.681
+2012;Ireland;0.908
+2012;Israel;0.903
+2012;India;0.597
+2012;Iraq;0.646
+2012;Iran;0.768
+2012;Iceland;0.915
+2012;Jamaica;0.731
+2012;Jordan;0.735
+2012;Kenya;0.566
+2012;Kyrgyzstan;0.674
+2012;Cambodia;0.552
+2012;South Korea;0.898
+2012;Kuwait;0.796
+2012;Kazakhstan;0.782
+2012;Laos;0.575
+2012;Sri Lanka;0.766
+2012;Lesotho;0.48
+2012;Lithuania;0.841
+2012;Luxembourg;0.9
+2012;Latvia;0.832
+2012;Libya;0.789
+2012;Morocco;0.635
+2012;Moldova;0.726
+2012;Mali;0.413
+2012;Myanmar;0.533
+2012;Mongolia;0.718
+2012;Mauritania;0.517
+2012;Malta;0.86
+2012;Mauritius;0.771
+2012;Malawi;0.446
+2012;Mexico;0.759
+2012;Malaysia;0.781
+2012;Mozambique;0.403
+2012;Namibia;0.613
+2012;Niger;0.35
+2012;Nicaragua;0.633
+2012;Netherlands;0.928
+2012;Norway;0.941
+2012;Nepal;0.559
+2012;New Zealand;0.911
+2012;Panama;0.786
+2012;Peru;0.742
+2012;Papua New Guinea;0.52
+2012;Philippines;0.684
+2012;Pakistan;0.519
+2012;Poland;0.842
+2012;Paraguay;0.701
+2012;Qatar;0.854
+2012;Romania;0.803
+2012;Serbia;0.775
+2012;Russia;0.798
+2012;Rwanda;0.508
+2012;Saudi Arabia;0.835
+2012;Sudan;0.486
+2012;Sweden;0.914
+2012;Singapore;0.918
+2012;Slovenia;0.884
+2012;Slovakia;0.843
+2012;Sierra Leone;0.421
+2012;Senegal;0.487
+2012;Sao Tome and Principe;0.573
+2012;El Salvador;0.669
+2012;Syria;0.664
+2012;Eswatini;0.539
+2012;Togo;0.482
+2012;Thailand;0.737
+2012;Tajikistan;0.643
+2012;Tunisia;0.72
+2012;Tonga;0.708
+2012;Turkey;0.765
+2012;Trinidad and Tobago;0.78
+2012;Tanzania;0.496
+2012;Ukraine;0.764
+2012;Uganda;0.507
+2012;Uruguay;0.793
+2012;Venezuela;0.772
+2012;Vietnam;0.676
+2012;Samoa;0.698
+2012;Yemen;0.504
+2012;South Africa;0.675
+2012;Zambia;0.549
+2012;Zimbabwe;0.525
+2012;Azerbaijan;0.73
+2012;Belarus;0.806
+2012;Djibouti;0.474
+2012;Maldives;0.704
+2012;Angola;0.544
+2012;Liberia;0.469
+2012;Solomon Islands;0.553
+2012;Andorra;0.858
+2012;Bosnia and Herzegovina;0.748
+2012;Burkina Faso;0.403
+2012;Bahamas;0.807
+2012;Cape Verde;0.644
+2012;Dominica;0.739
+2012;Ethiopia;0.438
+2012;Micronesia (country);0.605
+2012;Georgia;0.767
+2012;Equatorial Guinea;0.584
+2012;Kiribati;0.6
+2012;Comoros;0.538
+2012;Saint Lucia;0.73
+2012;Liechtenstein;0.908
+2012;Madagascar;0.514
+2012;North Macedonia;0.748
+2012;Oman;0.791
+2012;Palau;0.795
+2012;Seychelles;0.755
+2012;Chad;0.388
+2012;Timor;0.639
+2012;Uzbekistan;0.685
+2012;Saint Vincent and the Grenadines;0.72
+2012;Grenada;0.757
+2012;Montenegro;0.807
+2012;Nigeria;0.5
+2012;Palestine;0.698
+2012;Suriname;0.729
+2012;Antigua and Barbuda;0.759
+2012;Bhutan;0.597
+2012;Eritrea;0.441
+2012;Guinea-Bissau;0.448
+2012;St. Kitts and Nevis;0.745
+2012;Lebanon;0.759
+2012;Vanuatu;0.591
+2012;South Sudan;0.397
+2012;Turkmenistan;0.679
+2012;Marshall Islands;NA
+2013;Spain;0.882
+2013;Germany;0.935
+2013;United Kingdom;0.921
+2013;France;0.889
+2013;Italy;0.881
+2013;Portugal;0.84
+2013;United States;0.918
+2013;Japan;0.902
+2013;China;0.724
+2013;United Arab Emirates;0.838
+2013;Afghanistan;0.496
+2013;Albania;0.782
+2013;Armenia;0.762
+2013;Argentina;0.835
+2013;Austria;0.905
+2013;Australia;0.931
+2013;Barbados;0.807
+2013;Bangladesh;0.579
+2013;Belgium;0.916
+2013;Bulgaria;0.801
+2013;Bahrain;0.815
+2013;Burundi;0.432
+2013;Benin;0.522
+2013;Brunei;0.839
+2013;Bolivia;0.684
+2013;Brazil;0.753
+2013;Botswana;0.701
+2013;Belize;0.702
+2013;Canada;0.913
+2013;Democratic Republic of Congo;0.448
+2013;Central African Republic;0.363
+2013;Congo;0.545
+2013;Switzerland;0.946
+2013;Cote d'Ivoire;0.49
+2013;Chile;0.826
+2013;Cameroon;0.534
+2013;Colombia;0.742
+2013;Costa Rica;0.788
+2013;Cuba;0.766
+2013;Cyprus;0.86
+2013;Czechia;0.882
+2013;Denmark;0.933
+2013;Dominican Republic;0.718
+2013;Algeria;0.729
+2013;Ecuador;0.754
+2013;Estonia;0.869
+2013;Egypt;0.683
+2013;Finland;0.928
+2013;Fiji;0.728
+2013;Gabon;0.673
+2013;Ghana;0.586
+2013;Gambia;0.467
+2013;Guinea;0.445
+2013;Greece;0.867
+2013;Guatemala;0.621
+2013;Guyana;0.666
+2013;Hong Kong SAR China;0.918
+2013;Honduras;0.613
+2013;Croatia;0.83
+2013;Haiti;0.487
+2013;Hungary;0.839
+2013;Indonesia;0.687
+2013;Ireland;0.917
+2013;Israel;0.905
+2013;India;0.604
+2013;Iraq;0.646
+2013;Iran;0.771
+2013;Iceland;0.927
+2013;Jamaica;0.729
+2013;Jordan;0.729
+2013;Kenya;0.573
+2013;Kyrgyzstan;0.68
+2013;Cambodia;0.559
+2013;South Korea;0.901
+2013;Kuwait;0.793
+2013;Kazakhstan;0.791
+2013;Laos;0.582
+2013;Sri Lanka;0.769
+2013;Lesotho;0.489
+2013;Lithuania;0.847
+2013;Luxembourg;0.9
+2013;Latvia;0.839
+2013;Libya;0.761
+2013;Morocco;0.644
+2013;Moldova;0.735
+2013;Mali;0.413
+2013;Myanmar;0.543
+2013;Mongolia;0.727
+2013;Mauritania;0.525
+2013;Malta;0.867
+2013;Mauritius;0.779
+2013;Malawi;0.456
+2013;Mexico;0.756
+2013;Malaysia;0.785
+2013;Mozambique;0.417
+2013;Namibia;0.624
+2013;Niger;0.357
+2013;Nicaragua;0.639
+2013;Netherlands;0.93
+2013;Norway;0.944
+2013;Nepal;0.568
+2013;New Zealand;0.914
+2013;Panama;0.791
+2013;Peru;0.75
+2013;Papua New Guinea;0.537
+2013;Philippines;0.691
+2013;Pakistan;0.523
+2013;Poland;0.856
+2013;Paraguay;0.712
+2013;Qatar;0.842
+2013;Romania;0.808
+2013;Serbia;0.778
+2013;Russia;0.802
+2013;Rwanda;0.515
+2013;Saudi Arabia;0.845
+2013;Sudan;0.494
+2013;Sweden;0.933
+2013;Singapore;0.921
+2013;Slovenia;0.893
+2013;Slovakia;0.845
+2013;Sierra Leone;0.433
+2013;Senegal;0.494
+2013;Sao Tome and Principe;0.582
+2013;El Salvador;0.67
+2013;Syria;0.596
+2013;Eswatini;0.554
+2013;Togo;0.488
+2013;Thailand;0.734
+2013;Tajikistan;0.653
+2013;Tunisia;0.723
+2013;Tonga;0.708
+2013;Turkey;0.785
+2013;Trinidad and Tobago;0.783
+2013;Tanzania;0.497
+2013;Ukraine;0.767
+2013;Uganda;0.513
+2013;Uruguay;0.8
+2013;Venezuela;0.777
+2013;Vietnam;0.681
+2013;Samoa;0.7
+2013;Yemen;0.509
+2013;South Africa;0.685
+2013;Zambia;0.557
+2013;Zimbabwe;0.537
+2013;Azerbaijan;0.735
+2013;Belarus;0.811
+2013;Djibouti;0.484
+2013;Maldives;0.709
+2013;Angola;0.555
+2013;Liberia;0.477
+2013;Solomon Islands;0.558
+2013;Andorra;0.856
+2013;Bosnia and Herzegovina;0.755
+2013;Burkina Faso;0.41
+2013;Bahamas;0.806
+2013;Cape Verde;0.647
+2013;Dominica;0.739
+2013;Ethiopia;0.447
+2013;Micronesia (country);0.605
+2013;Georgia;0.775
+2013;Equatorial Guinea;0.585
+2013;Kiribati;0.608
+2013;Comoros;0.542
+2013;Saint Lucia;0.732
+2013;Liechtenstein;0.912
+2013;Madagascar;0.517
+2013;North Macedonia;0.751
+2013;Oman;0.799
+2013;Palau;0.821
+2013;Seychelles;0.775
+2013;Chad;0.394
+2013;Timor;0.63
+2013;Uzbekistan;0.692
+2013;Saint Vincent and the Grenadines;0.723
+2013;Grenada;0.76
+2013;Montenegro;0.811
+2013;Nigeria;0.519
+2013;Palestine;0.695
+2013;Suriname;0.734
+2013;Antigua and Barbuda;0.76
+2013;Bhutan;0.61
+2013;Eritrea;0.446
+2013;Guinea-Bissau;0.452
+2013;St. Kitts and Nevis;0.764
+2013;Lebanon;0.757
+2013;Vanuatu;0.593
+2013;South Sudan;0.428
+2013;Turkmenistan;0.685
+2013;Marshall Islands;NA
+2014;Spain;0.888
+2014;Germany;0.937
+2014;United Kingdom;0.925
+2014;France;0.893
+2014;Italy;0.882
+2014;Portugal;0.847
+2014;United States;0.92
+2014;Japan;0.906
+2014;China;0.731
+2014;United Arab Emirates;0.847
+2014;Afghanistan;0.5
+2014;Albania;0.787
+2014;Armenia;0.764
+2014;Argentina;0.836
+2014;Austria;0.913
+2014;Australia;0.933
+2014;Barbados;0.808
+2014;Bangladesh;0.579
+2014;Belgium;0.918
+2014;Bulgaria;0.806
+2014;Bahrain;0.82
+2014;Burundi;0.438
+2014;Benin;0.527
+2014;Brunei;0.838
+2014;Bolivia;0.69
+2014;Brazil;0.756
+2014;Botswana;0.711
+2014;Belize;0.705
+2014;Canada;0.918
+2014;Democratic Republic of Congo;0.46
+2014;Central African Republic;0.368
+2014;Congo;0.56
+2014;Switzerland;0.942
+2014;Cote d'Ivoire;0.492
+2014;Chile;0.837
+2014;Cameroon;0.54
+2014;Colombia;0.753
+2014;Costa Rica;0.796
+2014;Cuba;0.767
+2014;Cyprus;0.862
+2014;Czechia;0.888
+2014;Denmark;0.935
+2014;Dominican Republic;0.73
+2014;Algeria;0.736
+2014;Ecuador;0.756
+2014;Estonia;0.871
+2014;Egypt;0.685
+2014;Finland;0.928
+2014;Fiji;0.733
+2014;Gabon;0.682
+2014;Ghana;0.59
+2014;Gambia;0.468
+2014;Guinea;0.452
+2014;Greece;0.875
+2014;Guatemala;0.648
+2014;Guyana;0.671
+2014;Hong Kong SAR China;0.926
+2014;Honduras;0.616
+2014;Croatia;0.835
+2014;Haiti;0.492
+2014;Hungary;0.838
+2014;Indonesia;0.69
+2014;Ireland;0.928
+2014;Israel;0.909
+2014;India;0.616
+2014;Iraq;0.645
+2014;Iran;0.774
+2014;Iceland;0.931
+2014;Jamaica;0.729
+2014;Jordan;0.729
+2014;Kenya;0.58
+2014;Kyrgyzstan;0.686
+2014;Cambodia;0.565
+2014;South Korea;0.904
+2014;Kuwait;0.796
+2014;Kazakhstan;0.798
+2014;Laos;0.589
+2014;Sri Lanka;0.773
+2014;Lesotho;0.498
+2014;Lithuania;0.859
+2014;Luxembourg;0.903
+2014;Latvia;0.845
+2014;Libya;0.728
+2014;Morocco;0.652
+2014;Moldova;0.737
+2014;Mali;0.419
+2014;Myanmar;0.55
+2014;Mongolia;0.732
+2014;Mauritania;0.531
+2014;Malta;0.874
+2014;Mauritius;0.789
+2014;Malawi;0.465
+2014;Mexico;0.761
+2014;Malaysia;0.791
+2014;Mozambique;0.425
+2014;Namibia;0.631
+2014;Niger;0.365
+2014;Nicaragua;0.649
+2014;Netherlands;0.932
+2014;Norway;0.944
+2014;Nepal;0.576
+2014;New Zealand;0.916
+2014;Panama;0.795
+2014;Peru;0.76
+2014;Papua New Guinea;0.542
+2014;Philippines;0.696
+2014;Pakistan;0.53
+2014;Poland;0.858
+2014;Paraguay;0.715
+2014;Qatar;0.835
+2014;Romania;0.811
+2014;Serbia;0.784
+2014;Russia;0.807
+2014;Rwanda;0.521
+2014;Saudi Arabia;0.852
+2014;Sudan;0.499
+2014;Sweden;0.935
+2014;Singapore;0.926
+2014;Slovenia;0.894
+2014;Slovakia;0.847
+2014;Sierra Leone;0.438
+2014;Senegal;0.499
+2014;Sao Tome and Principe;0.591
+2014;El Salvador;0.668
+2014;Syria;0.556
+2014;Eswatini;0.568
+2014;Togo;0.493
+2014;Thailand;0.742
+2014;Tajikistan;0.652
+2014;Tunisia;0.726
+2014;Tonga;0.707
+2014;Turkey;0.796
+2014;Trinidad and Tobago;0.785
+2014;Tanzania;0.504
+2014;Ukraine;0.771
+2014;Uganda;0.519
+2014;Uruguay;0.803
+2014;Venezuela;0.775
+2014;Vietnam;0.683
+2014;Samoa;0.703
+2014;Yemen;0.502
+2014;South Africa;0.693
+2014;Zambia;0.561
+2014;Zimbabwe;0.547
+2014;Azerbaijan;0.74
+2014;Belarus;0.814
+2014;Djibouti;0.492
+2014;Maldives;0.718
+2014;Angola;0.565
+2014;Liberia;0.478
+2014;Solomon Islands;0.559
+2014;Andorra;0.863
+2014;Bosnia and Herzegovina;0.758
+2014;Burkina Faso;0.413
+2014;Bahamas;0.805
+2014;Cape Verde;0.654
+2014;Dominica;0.741
+2014;Ethiopia;0.455
+2014;Micronesia (country);0.604
+2014;Georgia;0.783
+2014;Equatorial Guinea;0.586
+2014;Kiribati;0.617
+2014;Comoros;0.543
+2014;Saint Lucia;0.735
+2014;Liechtenstein;0.911
+2014;Madagascar;0.52
+2014;North Macedonia;0.755
+2014;Oman;0.802
+2014;Palau;0.825
+2014;Seychelles;0.775
+2014;Chad;0.401
+2014;Timor;0.62
+2014;Uzbekistan;0.696
+2014;Saint Vincent and the Grenadines;0.733
+2014;Grenada;0.766
+2014;Montenegro;0.813
+2014;Nigeria;0.523
+2014;Palestine;0.697
+2014;Suriname;0.735
+2014;Antigua and Barbuda;0.76
+2014;Bhutan;0.618
+2014;Eritrea;0.457
+2014;Guinea-Bissau;0.459
+2014;St. Kitts and Nevis;0.768
+2014;Lebanon;0.748
+2014;Vanuatu;0.594
+2014;South Sudan;0.428
+2014;Turkmenistan;0.689
+2014;Marshall Islands;NA
+2015;Spain;0.895
+2015;Germany;0.938
+2015;United Kingdom;0.923
+2015;France;0.895
+2015;Italy;0.882
+2015;Portugal;0.854
+2015;United States;0.921
+2015;Japan;0.908
+2015;China;0.739
+2015;United Arab Emirates;0.859
+2015;Afghanistan;0.5
+2015;Albania;0.788
+2015;Armenia;0.768
+2015;Argentina;0.84
+2015;Austria;0.915
+2015;Australia;0.938
+2015;Barbados;0.809
+2015;Bangladesh;0.595
+2015;Belgium;0.922
+2015;Bulgaria;0.809
+2015;Bahrain;0.848
+2015;Burundi;0.437
+2015;Benin;0.532
+2015;Brunei;0.838
+2015;Bolivia;0.697
+2015;Brazil;0.756
+2015;Botswana;0.717
+2015;Belize;0.71
+2015;Canada;0.921
+2015;Democratic Republic of Congo;0.464
+2015;Central African Republic;0.375
+2015;Congo;0.58
+2015;Switzerland;0.947
+2015;Cote d'Ivoire;0.503
+2015;Chile;0.842
+2015;Cameroon;0.549
+2015;Colombia;0.756
+2015;Costa Rica;0.797
+2015;Cuba;0.772
+2015;Cyprus;0.865
+2015;Czechia;0.891
+2015;Denmark;0.933
+2015;Dominican Republic;0.738
+2015;Algeria;0.74
+2015;Ecuador;0.764
+2015;Estonia;0.877
+2015;Egypt;0.691
+2015;Finland;0.93
+2015;Fiji;0.737
+2015;Gabon;0.685
+2015;Ghana;0.59
+2015;Gambia;0.471
+2015;Guinea;0.457
+2015;Greece;0.877
+2015;Guatemala;0.652
+2015;Guyana;0.674
+2015;Hong Kong SAR China;0.93
+2015;Honduras;0.618
+2015;Croatia;0.84
+2015;Haiti;0.496
+2015;Hungary;0.842
+2015;Indonesia;0.695
+2015;Ireland;0.935
+2015;Israel;0.91
+2015;India;0.624
+2015;Iraq;0.649
+2015;Iran;0.774
+2015;Iceland;0.934
+2015;Jamaica;0.731
+2015;Jordan;0.73
+2015;Kenya;0.587
+2015;Kyrgyzstan;0.69
+2015;Cambodia;0.57
+2015;South Korea;0.907
+2015;Kuwait;0.801
+2015;Kazakhstan;0.806
+2015;Laos;0.598
+2015;Sri Lanka;0.776
+2015;Lesotho;0.503
+2015;Lithuania;0.862
+2015;Luxembourg;0.906
+2015;Latvia;0.849
+2015;Libya;0.697
+2015;Morocco;0.658
+2015;Moldova;0.736
+2015;Mali;0.417
+2015;Myanmar;0.557
+2015;Mongolia;0.735
+2015;Mauritania;0.536
+2015;Malta;0.88
+2015;Mauritius;0.789
+2015;Malawi;0.468
+2015;Mexico;0.766
+2015;Malaysia;0.796
+2015;Mozambique;0.433
+2015;Namibia;0.638
+2015;Niger;0.372
+2015;Nicaragua;0.652
+2015;Netherlands;0.934
+2015;Norway;0.947
+2015;Nepal;0.583
+2015;New Zealand;0.921
+2015;Panama;0.799
+2015;Peru;0.759
+2015;Papua New Guinea;0.548
+2015;Philippines;0.701
+2015;Pakistan;0.536
+2015;Poland;0.863
+2015;Paraguay;0.721
+2015;Qatar;0.839
+2015;Romania;0.815
+2015;Serbia;0.789
+2015;Russia;0.809
+2015;Rwanda;0.526
+2015;Saudi Arabia;0.859
+2015;Sudan;0.504
+2015;Sweden;0.938
+2015;Singapore;0.931
+2015;Slovenia;0.894
+2015;Slovakia;0.85
+2015;Sierra Leone;0.431
+2015;Senegal;0.506
+2015;Sao Tome and Principe;0.604
+2015;El Salvador;0.668
+2015;Syria;0.537
+2015;Eswatini;0.581
+2015;Togo;0.499
+2015;Thailand;0.749
+2015;Tajikistan;0.652
+2015;Tunisia;0.729
+2015;Tonga;0.72
+2015;Turkey;0.801
+2015;Trinidad and Tobago;0.792
+2015;Tanzania;0.514
+2015;Ukraine;0.765
+2015;Uganda;0.525
+2015;Uruguay;0.806
+2015;Venezuela;0.769
+2015;Vietnam;0.688
+2015;Samoa;0.707
+2015;Yemen;0.483
+2015;South Africa;0.701
+2015;Zambia;0.569
+2015;Zimbabwe;0.553
+2015;Azerbaijan;0.744
+2015;Belarus;0.814
+2015;Djibouti;0.499
+2015;Maldives;0.724
+2015;Angola;0.572
+2015;Liberia;0.477
+2015;Solomon Islands;0.563
+2015;Andorra;0.862
+2015;Bosnia and Herzegovina;0.761
+2015;Burkina Faso;0.422
+2015;Bahamas;0.808
+2015;Cape Verde;0.656
+2015;Dominica;0.739
+2015;Ethiopia;0.462
+2015;Micronesia (country);0.612
+2015;Georgia;0.79
+2015;Equatorial Guinea;0.589
+2015;Kiribati;0.625
+2015;Comoros;0.545
+2015;Saint Lucia;0.747
+2015;Liechtenstein;0.911
+2015;Madagascar;0.522
+2015;North Macedonia;0.761
+2015;Oman;0.814
+2015;Palau;0.82
+2015;Seychelles;0.786
+2015;Chad;0.398
+2015;Timor;0.61
+2015;Uzbekistan;0.701
+2015;Saint Vincent and the Grenadines;0.733
+2015;Grenada;0.77
+2015;Montenegro;0.816
+2015;Nigeria;0.526
+2015;Palestine;0.701
+2015;Suriname;0.74
+2015;Antigua and Barbuda;0.762
+2015;Bhutan;0.628
+2015;Eritrea;0.454
+2015;Guinea-Bissau;0.464
+2015;St. Kitts and Nevis;0.768
+2015;Lebanon;0.744
+2015;Vanuatu;0.598
+2015;South Sudan;0.425
+2015;Turkmenistan;0.694
+2015;Marshall Islands;NA
+2016;Spain;0.899
+2016;Germany;0.941
+2016;United Kingdom;0.924
+2016;France;0.894
+2016;Italy;0.884
+2016;Portugal;0.855
+2016;United States;0.922
+2016;Japan;0.912
+2016;China;0.746
+2016;United Arab Emirates;0.864
+2016;Afghanistan;0.502
+2016;Albania;0.788
+2016;Armenia;0.766
+2016;Argentina;0.839
+2016;Austria;0.917
+2016;Australia;0.939
+2016;Barbados;0.811
+2016;Bangladesh;0.606
+2016;Belgium;0.924
+2016;Bulgaria;0.811
+2016;Bahrain;0.853
+2016;Burundi;0.438
+2016;Benin;0.533
+2016;Brunei;0.839
+2016;Bolivia;0.702
+2016;Brazil;0.758
+2016;Botswana;0.72
+2016;Belize;0.717
+2016;Canada;0.923
+2016;Democratic Republic of Congo;0.471
+2016;Central African Republic;0.382
+2016;Congo;0.578
+2016;Switzerland;0.947
+2016;Cote d'Ivoire;0.513
+2016;Chile;0.845
+2016;Cameroon;0.553
+2016;Colombia;0.76
+2016;Costa Rica;0.801
+2016;Cuba;0.773
+2016;Cyprus;0.873
+2016;Czechia;0.893
+2016;Denmark;0.935
+2016;Dominican Republic;0.743
+2016;Algeria;0.743
+2016;Ecuador;0.758
+2016;Estonia;0.881
+2016;Egypt;0.696
+2016;Finland;0.932
+2016;Fiji;0.738
+2016;Gabon;0.69
+2016;Ghana;0.598
+2016;Gambia;0.475
+2016;Guinea;0.465
+2016;Greece;0.874
+2016;Guatemala;0.653
+2016;Guyana;0.676
+2016;Hong Kong SAR China;0.936
+2016;Honduras;0.626
+2016;Croatia;0.841
+2016;Haiti;0.5
+2016;Hungary;0.844
+2016;Indonesia;0.703
+2016;Ireland;0.943
+2016;Israel;0.913
+2016;India;0.63
+2016;Iraq;0.656
+2016;Iran;0.784
+2016;Iceland;0.941
+2016;Jamaica;0.731
+2016;Jordan;0.729
+2016;Kenya;0.591
+2016;Kyrgyzstan;0.691
+2016;Cambodia;0.576
+2016;South Korea;0.91
+2016;Kuwait;0.804
+2016;Kazakhstan;0.808
+2016;Laos;0.605
+2016;Sri Lanka;0.773
+2016;Lesotho;0.512
+2016;Lithuania;0.867
+2016;Luxembourg;0.91
+2016;Latvia;0.854
+2016;Libya;0.687
+2016;Morocco;0.667
+2016;Moldova;0.738
+2016;Mali;0.422
+2016;Myanmar;0.563
+2016;Mongolia;0.729
+2016;Mauritania;0.542
+2016;Malta;0.885
+2016;Mauritius;0.794
+2016;Malawi;0.472
+2016;Mexico;0.768
+2016;Malaysia;0.8
+2016;Mozambique;0.441
+2016;Namibia;0.639
+2016;Niger;0.378
+2016;Nicaragua;0.657
+2016;Netherlands;0.936
+2016;Norway;0.95
+2016;Nepal;0.586
+2016;New Zealand;0.924
+2016;Panama;0.805
+2016;Peru;0.765
+2016;Papua New Guinea;0.549
+2016;Philippines;0.704
+2016;Pakistan;0.542
+2016;Poland;0.869
+2016;Paraguay;0.722
+2016;Qatar;0.845
+2016;Romania;0.82
+2016;Serbia;0.795
+2016;Russia;0.815
+2016;Rwanda;0.527
+2016;Saudi Arabia;0.859
+2016;Sudan;0.507
+2016;Sweden;0.94
+2016;Singapore;0.935
+2016;Slovenia;0.9
+2016;Slovakia;0.853
+2016;Sierra Leone;0.431
+2016;Senegal;0.509
+2016;Sao Tome and Principe;0.608
+2016;El Salvador;0.671
+2016;Syria;0.528
+2016;Eswatini;0.588
+2016;Togo;0.502
+2016;Thailand;0.756
+2016;Tajikistan;0.653
+2016;Tunisia;0.731
+2016;Tonga;0.722
+2016;Turkey;0.808
+2016;Trinidad and Tobago;0.792
+2016;Tanzania;0.52
+2016;Ukraine;0.768
+2016;Uganda;0.529
+2016;Uruguay;0.81
+2016;Venezuela;0.759
+2016;Vietnam;0.693
+2016;Samoa;0.71
+2016;Yemen;0.474
+2016;South Africa;0.703
+2016;Zambia;0.571
+2016;Zimbabwe;0.558
+2016;Azerbaijan;0.751
+2016;Belarus;0.815
+2016;Djibouti;0.505
+2016;Maldives;0.728
+2016;Angola;0.578
+2016;Liberia;0.478
+2016;Solomon Islands;0.561
+2016;Andorra;0.866
+2016;Bosnia and Herzegovina;0.772
+2016;Burkina Faso;0.428
+2016;Bahamas;0.81
+2016;Cape Verde;0.657
+2016;Dominica;0.74
+2016;Ethiopia;0.467
+2016;Micronesia (country);0.614
+2016;Georgia;0.792
+2016;Equatorial Guinea;0.588
+2016;Kiribati;0.622
+2016;Comoros;0.547
+2016;Saint Lucia;0.752
+2016;Liechtenstein;0.915
+2016;Madagascar;0.523
+2016;North Macedonia;0.765
+2016;Oman;0.815
+2016;Palau;0.822
+2016;Seychelles;0.787
+2016;Chad;0.393
+2016;Timor;0.598
+2016;Uzbekistan;0.705
+2016;Saint Vincent and the Grenadines;0.734
+2016;Grenada;0.771
+2016;Montenegro;0.818
+2016;Nigeria;0.526
+2016;Palestine;0.704
+2016;Suriname;0.735
+2016;Antigua and Barbuda;0.765
+2016;Bhutan;0.637
+2016;Eritrea;0.456
+2016;Guinea-Bissau;0.468
+2016;St. Kitts and Nevis;0.771
+2016;Lebanon;0.741
+2016;Vanuatu;0.598
+2016;South Sudan;0.421
+2016;Turkmenistan;0.699
+2016;Marshall Islands;NA
+2017;Spain;0.903
+2017;Germany;0.943
+2017;United Kingdom;0.926
+2017;France;0.897
+2017;Italy;0.886
+2017;Portugal;0.858
+2017;United States;0.924
+2017;Japan;0.915
+2017;China;0.75
+2017;United Arab Emirates;0.881
+2017;Afghanistan;0.506
+2017;Albania;0.79
+2017;Armenia;0.769
+2017;Argentina;0.843
+2017;Austria;0.919
+2017;Australia;0.941
+2017;Barbados;0.81
+2017;Bangladesh;0.616
+2017;Belgium;0.929
+2017;Bulgaria;0.811
+2017;Bahrain;0.854
+2017;Burundi;0.434
+2017;Benin;0.536
+2017;Brunei;0.838
+2017;Bolivia;0.71
+2017;Brazil;0.761
+2017;Botswana;0.726
+2017;Belize;0.714
+2017;Canada;0.926
+2017;Democratic Republic of Congo;0.475
+2017;Central African Republic;0.391
+2017;Congo;0.574
+2017;Switzerland;0.949
+2017;Cote d'Ivoire;0.525
+2017;Chile;0.847
+2017;Cameroon;0.557
+2017;Colombia;0.763
+2017;Costa Rica;0.804
+2017;Cuba;0.777
+2017;Cyprus;0.878
+2017;Czechia;0.896
+2017;Denmark;0.936
+2017;Dominican Republic;0.746
+2017;Algeria;0.745
+2017;Ecuador;0.76
+2017;Estonia;0.885
+2017;Egypt;0.698
+2017;Finland;0.935
+2017;Fiji;0.74
+2017;Gabon;0.694
+2017;Ghana;0.602
+2017;Gambia;0.48
+2017;Guinea;0.471
+2017;Greece;0.879
+2017;Guatemala;0.655
+2017;Guyana;0.677
+2017;Hong Kong SAR China;0.941
+2017;Honduras;0.63
+2017;Croatia;0.845
+2017;Haiti;0.505
+2017;Hungary;0.846
+2017;Indonesia;0.707
+2017;Ireland;0.947
+2017;Israel;0.913
+2017;India;0.64
+2017;Iraq;0.667
+2017;Iran;0.787
+2017;Iceland;0.943
+2017;Jamaica;0.734
+2017;Jordan;0.726
+2017;Kenya;0.595
+2017;Kyrgyzstan;0.694
+2017;Cambodia;0.582
+2017;South Korea;0.912
+2017;Kuwait;0.805
+2017;Kazakhstan;0.815
+2017;Laos;0.608
+2017;Sri Lanka;0.775
+2017;Lesotho;0.517
+2017;Lithuania;0.873
+2017;Luxembourg;0.913
+2017;Latvia;0.859
+2017;Libya;0.714
+2017;Morocco;0.673
+2017;Moldova;0.743
+2017;Mali;0.427
+2017;Myanmar;0.572
+2017;Mongolia;0.728
+2017;Mauritania;0.54
+2017;Malta;0.888
+2017;Mauritius;0.797
+2017;Malawi;0.473
+2017;Mexico;0.771
+2017;Malaysia;0.805
+2017;Mozambique;0.446
+2017;Namibia;0.644
+2017;Niger;0.386
+2017;Nicaragua;0.661
+2017;Netherlands;0.939
+2017;Norway;0.954
+2017;Nepal;0.588
+2017;New Zealand;0.926
+2017;Panama;0.811
+2017;Peru;0.767
+2017;Papua New Guinea;0.549
+2017;Philippines;0.708
+2017;Pakistan;0.55
+2017;Poland;0.873
+2017;Paraguay;0.726
+2017;Qatar;0.848
+2017;Romania;0.821
+2017;Serbia;0.798
+2017;Russia;0.82
+2017;Rwanda;0.535
+2017;Saudi Arabia;0.852
+2017;Sudan;0.509
+2017;Sweden;0.942
+2017;Singapore;0.933
+2017;Slovenia;0.907
+2017;Slovakia;0.855
+2017;Sierra Leone;0.443
+2017;Senegal;0.512
+2017;Sao Tome and Principe;0.619
+2017;El Salvador;0.671
+2017;Syria;0.564
+2017;Eswatini;0.597
+2017;Togo;0.506
+2017;Thailand;0.765
+2017;Tajikistan;0.657
+2017;Tunisia;0.734
+2017;Tonga;0.723
+2017;Turkey;0.814
+2017;Trinidad and Tobago;0.795
+2017;Tanzania;0.523
+2017;Ukraine;0.771
+2017;Uganda;0.532
+2017;Uruguay;0.814
+2017;Venezuela;0.743
+2017;Vietnam;0.696
+2017;Samoa;0.71
+2017;Yemen;0.467
+2017;South Africa;0.705
+2017;Zambia;0.578
+2017;Zimbabwe;0.563
+2017;Azerbaijan;0.754
+2017;Belarus;0.819
+2017;Djibouti;0.51
+2017;Maldives;0.731
+2017;Angola;0.582
+2017;Liberia;0.481
+2017;Solomon Islands;0.562
+2017;Andorra;0.863
+2017;Bosnia and Herzegovina;0.774
+2017;Burkina Faso;0.439
+2017;Bahamas;0.812
+2017;Cape Verde;0.66
+2017;Dominica;0.736
+2017;Ethiopia;0.474
+2017;Micronesia (country);0.616
+2017;Georgia;0.799
+2017;Equatorial Guinea;0.584
+2017;Kiribati;0.627
+2017;Comoros;0.55
+2017;Saint Lucia;0.759
+2017;Liechtenstein;0.916
+2017;Madagascar;0.526
+2017;North Macedonia;0.767
+2017;Oman;0.819
+2017;Palau;0.822
+2017;Seychelles;0.789
+2017;Chad;0.396
+2017;Timor;0.599
+2017;Uzbekistan;0.713
+2017;Saint Vincent and the Grenadines;0.734
+2017;Grenada;0.77
+2017;Montenegro;0.822
+2017;Nigeria;0.531
+2017;Palestine;0.706
+2017;Suriname;0.732
+2017;Antigua and Barbuda;0.768
+2017;Bhutan;0.646
+2017;Eritrea;0.454
+2017;Guinea-Bissau;0.47
+2017;St. Kitts and Nevis;0.77
+2017;Lebanon;0.748
+2017;Vanuatu;0.601
+2017;South Sudan;0.426
+2017;Turkmenistan;0.701
+2017;Marshall Islands;0.699
+2018;Spain;0.905
+2018;Germany;0.946
+2018;United Kingdom;0.928
+2018;France;0.898
+2018;Italy;0.89
+2018;Portugal;0.86
+2018;United States;0.925
+2018;Japan;0.917
+2018;China;0.755
+2018;United Arab Emirates;0.889
+2018;Afghanistan;0.509
+2018;Albania;0.792
+2018;Armenia;0.771
+2018;Argentina;0.842
+2018;Austria;0.921
+2018;Australia;0.943
+2018;Barbados;0.81
+2018;Bangladesh;0.625
+2018;Belgium;0.93
+2018;Bulgaria;0.813
+2018;Bahrain;0.852
+2018;Burundi;0.431
+2018;Benin;0.541
+2018;Brunei;0.836
+2018;Bolivia;0.714
+2018;Brazil;0.762
+2018;Botswana;0.73
+2018;Belize;0.714
+2018;Canada;0.928
+2018;Democratic Republic of Congo;0.478
+2018;Central African Republic;0.395
+2018;Congo;0.573
+2018;Switzerland;0.955
+2018;Cote d'Ivoire;0.534
+2018;Chile;0.849
+2018;Cameroon;0.56
+2018;Colombia;0.764
+2018;Costa Rica;0.808
+2018;Cuba;0.781
+2018;Cyprus;0.885
+2018;Czechia;0.898
+2018;Denmark;0.939
+2018;Dominican Republic;0.751
+2018;Algeria;0.746
+2018;Ecuador;0.762
+2018;Estonia;0.889
+2018;Egypt;0.701
+2018;Finland;0.937
+2018;Fiji;0.742
+2018;Gabon;0.697
+2018;Ghana;0.606
+2018;Gambia;0.487
+2018;Guinea;0.473
+2018;Greece;0.881
+2018;Guatemala;0.657
+2018;Guyana;0.68
+2018;Hong Kong SAR China;0.946
+2018;Honduras;0.633
+2018;Croatia;0.848
+2018;Haiti;0.508
+2018;Hungary;0.85
+2018;Indonesia;0.712
+2018;Ireland;0.951
+2018;Israel;0.916
+2018;India;0.642
+2018;Iraq;0.671
+2018;Iran;0.785
+2018;Iceland;0.946
+2018;Jamaica;0.734
+2018;Jordan;0.728
+2018;Kenya;0.599
+2018;Kyrgyzstan;0.696
+2018;Cambodia;0.585
+2018;South Korea;0.914
+2018;Kuwait;0.807
+2018;Kazakhstan;0.819
+2018;Laos;0.609
+2018;Sri Lanka;0.779
+2018;Lesotho;0.522
+2018;Lithuania;0.876
+2018;Luxembourg;0.913
+2018;Latvia;0.863
+2018;Libya;0.721
+2018;Morocco;0.68
+2018;Moldova;0.746
+2018;Mali;0.431
+2018;Myanmar;0.579
+2018;Mongolia;0.735
+2018;Mauritania;0.542
+2018;Malta;0.894
+2018;Mauritius;0.801
+2018;Malawi;0.478
+2018;Mexico;0.776
+2018;Malaysia;0.805
+2018;Mozambique;0.452
+2018;Namibia;0.645
+2018;Niger;0.391
+2018;Nicaragua;0.659
+2018;Netherlands;0.942
+2018;Norway;0.956
+2018;Nepal;0.596
+2018;New Zealand;0.928
+2018;Panama;0.812
+2018;Peru;0.771
+2018;Papua New Guinea;0.549
+2018;Philippines;0.711
+2018;Pakistan;0.552
+2018;Poland;0.877
+2018;Paraguay;0.727
+2018;Qatar;0.845
+2018;Romania;0.823
+2018;Serbia;0.803
+2018;Russia;0.823
+2018;Rwanda;0.54
+2018;Saudi Arabia;0.854
+2018;Sudan;0.506
+2018;Sweden;0.943
+2018;Singapore;0.936
+2018;Slovenia;0.912
+2018;Slovakia;0.858
+2018;Sierra Leone;0.447
+2018;Senegal;0.516
+2018;Sao Tome and Principe;0.624
+2018;El Salvador;0.67
+2018;Syria;0.563
+2018;Eswatini;0.605
+2018;Togo;0.51
+2018;Thailand;0.772
+2018;Tajikistan;0.661
+2018;Tunisia;0.738
+2018;Tonga;0.723
+2018;Turkey;0.817
+2018;Trinidad and Tobago;0.795
+2018;Tanzania;0.524
+2018;Ukraine;0.774
+2018;Uganda;0.538
+2018;Uruguay;0.816
+2018;Venezuela;0.733
+2018;Vietnam;0.7
+2018;Samoa;0.709
+2018;Yemen;0.468
+2018;South Africa;0.707
+2018;Zambia;0.582
+2018;Zimbabwe;0.569
+2018;Azerbaijan;0.754
+2018;Belarus;0.823
+2018;Djibouti;0.518
+2018;Maldives;0.734
+2018;Angola;0.582
+2018;Liberia;0.48
+2018;Solomon Islands;0.564
+2018;Andorra;0.867
+2018;Bosnia and Herzegovina;0.777
+2018;Burkina Faso;0.443
+2018;Bahamas;0.812
+2018;Cape Verde;0.663
+2018;Dominica;0.738
+2018;Ethiopia;0.478
+2018;Micronesia (country);0.618
+2018;Georgia;0.805
+2018;Equatorial Guinea;0.582
+2018;Kiribati;0.628
+2018;Comoros;0.552
+2018;Saint Lucia;0.758
+2018;Liechtenstein;0.919
+2018;Madagascar;0.527
+2018;North Macedonia;0.77
+2018;Oman;0.813
+2018;Palau;0.822
+2018;Seychelles;0.79
+2018;Chad;0.397
+2018;Timor;0.599
+2018;Uzbekistan;0.717
+2018;Saint Vincent and the Grenadines;0.736
+2018;Grenada;0.773
+2018;Montenegro;0.826
+2018;Nigeria;0.534
+2018;Palestine;0.708
+2018;Suriname;0.734
+2018;Antigua and Barbuda;0.772
+2018;Bhutan;0.649
+2018;Eritrea;0.456
+2018;Guinea-Bissau;0.472
+2018;St. Kitts and Nevis;0.773
+2018;Lebanon;0.747
+2018;Vanuatu;0.603
+2018;South Sudan;0.429
+2018;Turkmenistan;0.71
+2018;Marshall Islands;0.702
+2019;Spain;0.904
+2019;Germany;0.947
+2019;United Kingdom;0.932
+2019;France;0.901
+2019;Italy;0.892
+2019;Portugal;0.864
+2019;United States;0.926
+2019;Japan;0.919
+2019;China;0.761
+2019;United Arab Emirates;0.89
+2019;Afghanistan;0.511
+2019;Albania;0.795
+2019;Armenia;0.776
+2019;Argentina;0.845
+2019;Austria;0.922
+2019;Australia;0.944
+2019;Barbados;0.814
+2019;Bangladesh;0.632
+2019;Belgium;0.931
+2019;Bulgaria;0.816
+2019;Bahrain;0.852
+2019;Burundi;0.433
+2019;Benin;0.545
+2019;Brunei;0.838
+2019;Bolivia;0.718
+2019;Brazil;0.765
+2019;Botswana;0.735
+2019;Belize;0.716
+2019;Canada;0.929
+2019;Democratic Republic of Congo;0.48
+2019;Central African Republic;0.397
+2019;Congo;0.574
+2019;Switzerland;0.955
+2019;Cote d'Ivoire;0.538
+2019;Chile;0.851
+2019;Cameroon;0.563
+2019;Colombia;0.767
+2019;Costa Rica;0.81
+2019;Cuba;0.783
+2019;Cyprus;0.887
+2019;Czechia;0.9
+2019;Denmark;0.94
+2019;Dominican Republic;0.756
+2019;Algeria;0.748
+2019;Ecuador;0.759
+2019;Estonia;0.892
+2019;Egypt;0.707
+2019;Finland;0.938
+2019;Fiji;0.743
+2019;Gabon;0.703
+2019;Ghana;0.611
+2019;Gambia;0.496
+2019;Guinea;0.477
+2019;Greece;0.888
+2019;Guatemala;0.663
+2019;Guyana;0.682
+2019;Hong Kong SAR China;0.949
+2019;Honduras;0.634
+2019;Croatia;0.851
+2019;Haiti;0.51
+2019;Hungary;0.854
+2019;Indonesia;0.718
+2019;Ireland;0.955
+2019;Israel;0.919
+2019;India;0.645
+2019;Iraq;0.674
+2019;Iran;0.783
+2019;Iceland;0.949
+2019;Jamaica;0.734
+2019;Jordan;0.729
+2019;Kenya;0.601
+2019;Kyrgyzstan;0.697
+2019;Cambodia;0.594
+2019;South Korea;0.916
+2019;Kuwait;0.806
+2019;Kazakhstan;0.825
+2019;Laos;0.613
+2019;Sri Lanka;0.782
+2019;Lesotho;0.527
+2019;Lithuania;0.882
+2019;Luxembourg;0.916
+2019;Latvia;0.866
+2019;Libya;0.724
+2019;Morocco;0.686
+2019;Moldova;0.75
+2019;Mali;0.434
+2019;Myanmar;0.583
+2019;Mongolia;0.737
+2019;Mauritania;0.546
+2019;Malta;0.895
+2019;Mauritius;0.804
+2019;Malawi;0.483
+2019;Mexico;0.779
+2019;Malaysia;0.81
+2019;Mozambique;0.456
+2019;Namibia;0.646
+2019;Niger;0.394
+2019;Nicaragua;0.66
+2019;Netherlands;0.944
+2019;Norway;0.957
+2019;Nepal;0.602
+2019;New Zealand;0.931
+2019;Panama;0.815
+2019;Peru;0.777
+2019;Papua New Guinea;0.555
+2019;Philippines;0.718
+2019;Pakistan;0.557
+2019;Poland;0.88
+2019;Paraguay;0.728
+2019;Qatar;0.848
+2019;Romania;0.828
+2019;Serbia;0.806
+2019;Russia;0.824
+2019;Rwanda;0.543
+2019;Saudi Arabia;0.854
+2019;Sudan;0.51
+2019;Sweden;0.945
+2019;Singapore;0.938
+2019;Slovenia;0.917
+2019;Slovakia;0.86
+2019;Sierra Leone;0.452
+2019;Senegal;0.512
+2019;Sao Tome and Principe;0.625
+2019;El Salvador;0.673
+2019;Syria;0.567
+2019;Eswatini;0.611
+2019;Togo;0.515
+2019;Thailand;0.777
+2019;Tajikistan;0.668
+2019;Tunisia;0.74
+2019;Tonga;0.725
+2019;Turkey;0.82
+2019;Trinidad and Tobago;0.796
+2019;Tanzania;0.529
+2019;Ukraine;0.779
+2019;Uganda;0.544
+2019;Uruguay;0.817
+2019;Venezuela;0.711
+2019;Vietnam;0.704
+2019;Samoa;0.715
+2019;Yemen;0.47
+2019;South Africa;0.709
+2019;Zambia;0.584
+2019;Zimbabwe;0.571
+2019;Azerbaijan;0.756
+2019;Belarus;0.823
+2019;Djibouti;0.524
+2019;Maldives;0.74
+2019;Angola;0.581
+2019;Liberia;0.48
+2019;Solomon Islands;0.567
+2019;Andorra;0.868
+2019;Bosnia and Herzegovina;0.78
+2019;Burkina Faso;0.452
+2019;Bahamas;0.814
+2019;Cape Verde;0.665
+2019;Dominica;0.742
+2019;Ethiopia;0.485
+2019;Micronesia (country);0.62
+2019;Georgia;0.812
+2019;Equatorial Guinea;0.592
+2019;Kiribati;0.63
+2019;Comoros;0.554
+2019;Saint Lucia;0.759
+2019;Liechtenstein;0.919
+2019;Madagascar;0.528
+2019;North Macedonia;0.774
+2019;Oman;0.813
+2019;Palau;0.826
+2019;Seychelles;0.796
+2019;Chad;0.398
+2019;Timor;0.606
+2019;Uzbekistan;0.72
+2019;Saint Vincent and the Grenadines;0.738
+2019;Grenada;0.779
+2019;Montenegro;0.829
+2019;Nigeria;0.539
+2019;Palestine;0.708
+2019;Suriname;0.738
+2019;Antigua and Barbuda;0.778
+2019;Bhutan;0.654
+2019;Eritrea;0.459
+2019;Guinea-Bissau;0.48
+2019;St. Kitts and Nevis;0.779
+2019;Lebanon;0.744
+2019;Vanuatu;0.609
+2019;South Sudan;0.433
+2019;Turkmenistan;0.715
+2019;Marshall Islands;0.704

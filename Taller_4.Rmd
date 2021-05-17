@@ -26,6 +26,10 @@ IHSM <- read_delim("Datos/IHSM.csv", delim = ";")
 regresion_1 <- read_delim("Datos/Regresion_1.csv", delim = ";")
 regresion_2 <- read_delim("Datos/Regresion_2.csv", delim = ";")
 Paises <- read_excel("Datos/PAISES.xlsx")
+IDH <- read_delim("Datos/IDH.csv",";")
+IDH <- IDH %>% 
+  mutate(IDH = IDH*100)
+
 ```
 
 ## Punto 3
@@ -34,6 +38,7 @@ Paises <- read_excel("Datos/PAISES.xlsx")
 IHSM <- left_join(IHSM, regresion_1, by = c("paises_P","ano"))
 IHSM <- left_join(IHSM, regresion_2, by = c("paises_P","ano"))
 IHSM <- left_join(IHSM, Paises,by = "paises_P")
+IHSM <- left_join(IHSM, IDH,by = c("paises_P","ano"))
 ```
 
 ## Punto 4
@@ -152,7 +157,7 @@ base_completa <- base_completa %>%
 
 ```{r}
 resumen_paises <- base_completa %>%
-    summarize(across(.cols = c("IHSM","GINId","IC","IDH","GPS","GPE","GPD"), list(Media=~mean(.x,na.rm = T), DesviacionEstandar=~sd(.x,na.rm = T), Maximo=~max(.x,na.rm = T), Minimo=~min(.x,na.rm = T), Mediana=~median(.x,na.rm = T))))
+    summarize(across(.cols = c("IHSM_ajustado","GINId","IC","IDH","GPS","GPE","GPD"), list(Media=~mean(.x,na.rm = T), DesviacionEstandar=~sd(.x,na.rm = T), Maximo=~max(.x,na.rm = T), Minimo=~min(.x,na.rm = T), Mediana=~median(.x,na.rm = T))))
 
 
 ```
@@ -167,7 +172,7 @@ base_completa <- base_completa %>%
 
 ## IHSM
 ggplot(data = base_completa, 
-       mapping = aes(x= IHSM,color = IncomeGroup)) + 
+       mapping = aes(x= IHSM_ajustado,color = IncomeGroup)) + 
     geom_histogram( fill = "lightseagreen",bins = 100)+
     labs(title = "Histograma de IHSM", subtitle = "Índice Humano de Salud Mental",y = "Frecuencia" , caption = "Produccion Propia")+
     theme_classic()
@@ -228,9 +233,11 @@ ggplot(data = base_completa,
 ```{r}
 base_completa<- tibble(base_completa)
 
-class(base_completa)
+base_completa1 <- drop_na(base_completa,IncomeGroup)
 
-variables_cor <- base_completa %>% select(IHSM,GINId,IC,IDH,GPS,GPE,GPD)
+class(base_completa1)
+
+variables_cor <- base_completa1 %>% select(IHSM_ajustado,GINId,IC,IDH,GPS,GPE,GPD)
 
 cor(variables_cor,  use = "complete.obs")
 ```
@@ -239,33 +246,61 @@ cor(variables_cor,  use = "complete.obs")
 
 ```{r}
 # GINId
-ggplot(data = base_completa, 
-       mapping = aes(x = IHSM,
+ggplot(data = base_completa1, 
+       mapping = aes(x = IHSM_ajustado,
                      y = GINId)) +
   geom_point(aes(color= IncomeGroup))+
      geom_smooth(method = "lm")+
-  labs(title = "Entre menor es el GINI", subtitle = "mayor es el Indice Humano de Salud Mental", x = "Indice Humano de Salud Mental", y = "GINI despues de impuestos", caption = "Produccion Propia", color= "Grupo de Ingreso")+
+  labs(title = "Entre mayor es el GINI", subtitle = "mayor es el Indice Humano de Salud Mental", x = "Indice Humano de Salud Mental", y = "GINI despues de impuestos", caption = "Produccion Propia", color= "Grupo de Ingreso")+
   theme_classic()
 
 # IC
-ggplot(data = base_completa, 
+ggplot(data = base_completa1, 
        mapping = aes(x = IHSM_ajustado,
                      y = IC)) +
   geom_point(aes(color= IncomeGroup))+
-     geom_smooth(method = "lm",aes(color= IncomeGroup))+
+     geom_smooth(method = "lm")+
   labs(title = "Entre mayor es el Índice de Percepcion de la Corrupcion", subtitle = "mayor es el Indice Humano de Salud Mental", x = "Indice Humano de Salud Mental", y = "Índice de Percepcion de la Corrupcion", caption = "Produccion Propia", color= "Grupo de Ingreso")+
   theme_classic()
 
 # IDH
 
-ggplot(data = base_completa, 
-       mapping = aes(x = IHSM,
+ggplot(data = base_completa1, 
+       mapping = aes(x = IHSM_ajustado,
                      y = IDH)) +
   geom_point(aes(color= IncomeGroup))+
      geom_smooth(method = "lm")+
   labs(title = "Entre mayor es el Índice de Desarrollo Humano", subtitle = "mayor es el Indice Humano de Salud Mental", x = "Indice Humano de Salud Mental", y = "Índice de Desarrollo Humano", caption = "Produccion Propia", color= "Grupo de Ingreso")+
   theme_classic()
 
+# GPS
 
+ggplot(data = base_completa1, 
+       mapping = aes(x = IHSM_ajustado,
+                     y = GPS)) +
+  geom_point(aes(color= IncomeGroup))+
+     geom_smooth(method = "lm")+
+  labs(title = "Entre mayor es Gasto Publico en Salud", subtitle = "mayor es el Indice Humano de Salud Mental", x = "Indice Humano de Salud Mental", y = "Gasto Publico en Salud", caption = "Produccion Propia", color= "Grupo de Ingreso")+
+  theme_classic()
+
+# GPE
+
+ggplot(data = base_completa1, 
+       mapping = aes(x = IHSM_ajustado,
+                     y = GPE)) +
+  geom_point(aes(color= IncomeGroup))+
+     geom_smooth(method = "lm")+
+  labs(title = "Entre mayor es Gasto Publico en Educacion", subtitle = "mayor es el Indice Humano de Salud Mental", x = "Indice Humano de Salud Mental", y = "Gasto Publico en Educacion", caption = "Produccion Propia", color= "Grupo de Ingreso")+
+  theme_classic()
+
+# GPD
+
+ggplot(data = base_completa1, 
+       mapping = aes(x = IHSM_ajustado,
+                     y = GPD)) +
+  geom_point(aes(color= IncomeGroup))+
+     geom_smooth(method = "lm")+
+  labs(title = "Entre mayor es Gasto Publico en Defensa", subtitle = "mayor es el Indice Humano de Salud Mental", x = "Indice Humano de Salud Mental", y = "Gasto Publico en Defensa", caption = "Produccion Propia", color= "Grupo de Ingreso")+
+  theme_classic()
 ```
 
