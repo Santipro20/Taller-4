@@ -253,7 +253,7 @@ ggplot(data = base_completa1,
                      y = GINId)) +
   geom_point(aes(color= IncomeGroup))+
      geom_smooth(method = "lm")+
-  labs(title = "Entre mayor es el GINI", subtitle = "mayor es el Indice Humano de Salud Mental", x = "Indice Humano de Salud Mental", y = "GINI despues de impuestos", caption = "Produccion Propia", color= "Grupo de Ingreso")+
+  labs(title = "Entre mayor es el GINI", subtitle = "debilmente mayor es el Indice Humano de Salud Mental", x = "Indice Humano de Salud Mental", y = "GINI despues de impuestos", caption = "Produccion Propia", color= "Grupo de Ingreso")+
   theme_classic()
 
 # IC
@@ -302,7 +302,7 @@ ggplot(data = base_completa1,
                      y = GPD)) +
   geom_point(aes(color= IncomeGroup))+
      geom_smooth(method = "lm")+
-  labs(title = "Entre mayor es Gasto Publico en Defensa", subtitle = "mayor es el Indice Humano de Salud Mental", x = "Indice Humano de Salud Mental", y = "Gasto Publico en Defensa", caption = "Produccion Propia", color= "Grupo de Ingreso")+
+  labs(title = "Entre mayor es Gasto Publico en Defensa", subtitle = "debilmente mayor es el Indice Humano de Salud Mental", x = "Indice Humano de Salud Mental", y = "Gasto Publico en Defensa", caption = "Produccion Propia", color= "Grupo de Ingreso")+
   theme_classic()
 ```
 
