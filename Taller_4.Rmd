@@ -24,6 +24,7 @@ library("dplyr")
 IHSM <- read_delim("Datos/IHSM.csv", delim = ";")
 regresion_1 <- read_delim("Datos/Regresion_1.csv", delim = ";")
 regresion_2 <- read_delim("Datos/Regresion_2.csv", delim = ";")
+Paises <- read_excel("Datos/PAISES.xlsx")
 ```
 
 ## Punto 3
@@ -31,13 +32,14 @@ regresion_2 <- read_delim("Datos/Regresion_2.csv", delim = ";")
 ```{r}
 IHSM <- left_join(IHSM, regresion_1, by = c("paises_P","ano"))
 IHSM <- left_join(IHSM, regresion_2, by = c("paises_P","ano"))
+IHSM <- left_join(IHSM, Paises,by = "paises_P")
 ```
 
 ## Punto 4
 
 ```{r}
 IHSM <- IHSM %>% 
-  mutate(across(.cols = c("paises_P","codigo"),~as.factor(.x)))
+  mutate(across(.cols = c("paises_P","codigo","IncomeGroup"),~as.factor(.x)))
 ```
 
 ## Punto 5
@@ -48,16 +50,187 @@ IHSM <- IHSM %>%
   # Consideramos la fiabilidad de las variables, con un indicador de suma 
 
   IHSM <- IHSM %>% 
-  mutate(suma = ANS+DP+ESQ+BI+DA+AH+DR+SU)
+  mutate(suma = ANS+DP+ESQ+BI+DA+AH+DR)
 
   # Alfa de Cronbach
 
-  for (i in 4:11) {
+  for (i in 4:10) {
   dato <- var(IHSM[i],na.rm = TRUE)
   print(dato)
   }
+
+  # Prueba
+
+  varianza_variables <-1.363118+0.4301509+0.00195831+0.02944265+0.02500865+0.8292454+3.417732
     
-  varianza_variables <- 1.363118+0.4301509+0.00195831+0.02944265+0.8292454+0.8292454
+  varianza_indicador <- var(IHSM$suma,na.rm = TRUE)
+  v <- 7
+    
+  cronbach <- function(v,v1,v2){
+    cosa <- v/(v-1)
+    resto <- (v2-v1)/v2
+    print(cosa*resto)
+  }
+  
+  # Fiabilidad
+  cronbach(v,varianza_variables,varianza_indicador)
+
+  ## la fiabilida superior a 0.70 es lo preferible, como sale 0.6959472, se plantea como aceptable
+  
+rm(list= c("dato","regresion_1","regresion_2","i","v","varianza_variables","varianza_indicador"))
+
+base_completa <- IHSM %>% select(-suma)
+
+  # Remplazamos valores faltantes en las variables del indicador
+
+# Solo AH contiene valores faltantes
+vis_miss(base_completa)
+
+# Remplazo
+base_completa <- base_completa %>% 
+  group_by(paises_P)
+
+base_completa <- fill(base_completa, AH)
+
+base_completa <- drop_na(base_completa, AH)
+
+base_completa <- select(base_completa,-codigo)
 
 ```
 
+### Damos valores de normalizacion
+
+```{r}
+for (i in 3:9) {
+  minimo<-min(base_completa[i])
+  print(minimo)
+}
+
+for (i in 3:9) {
+  maximo<-max(base_completa[i])
+  print(maximo)
+}
+```
+
+| Indicador | Valor Maximo | Valor minimo |
+|-----------|--------------|--------------|
+| ANS       | 8.96733      | 2.023393     |
+| DP        | 6.602754     | 2.139903     |
+| ESQ       | 0.3751096    | 0.1469018    |
+| BI        | 1.206597     | 0.3145345    |
+| DA        | 0.9439906    | 0.07390753   |
+| AH        | 6.933015     | 1.196984     |
+| DR        | 19.11546     | 9.715255     |
+
+```{r}
+#Calculamos los sub-indices
+
+base_completa <- base_completa %>%
+     mutate(ANS_a = (ANS-2.023393)/(8.96733-2.023393),
+           DP_a = (DP-2.139903)/(6.602754-2.139903),
+           ESQ_a = (ESQ-0.1469018)/(0.3751096-0.1469018),
+           BI_a = (BI-0.3145345)/(1.206597-0.3145345),
+           DA_a = (DA-0.07390753)/(0.9439906-0.07390753),
+           AH_a = (AH-1.196984)/(6.933015-1.196984),
+           DR_a = (DR-9.715255)/(19.11546-9.715255))
+base_completa <- base_completa %>%
+  mutate(IHSM = ANS_a*1/7+DP_a*1/7+ESQ_a*1/7+BI_a*1/7+DA_a*1/7+AH_a*1/7+DR_a*1/7)
+
+arrange(base_completa,desc(IHSM))
+
+base_completa<- base_completa %>%
+    mutate(IHSM = IHSM*100)
+```
+
+### Estadistica Descritiva
+
+```{r}
+resumen_paises <- base_completa %>%
+    summarize(across(.cols = c("IHSM","GINId","IC","IDH","GPS","GPE","GPD"), list(Media=~mean(.x,na.rm = T), DesviacionEstandar=~sd(.x,na.rm = T), Maximo=~max(.x,na.rm = T), Minimo=~min(.x,na.rm = T), Mediana=~median(.x,na.rm = T))))
+
+
+```
+
+## Punto 6
+
+```{r}
+# Histogramas de la variable dependiente, e independientes principales
+base_completa <- base_completa %>%
+  mutate(IncomeGroup = recode(IncomeGroup,"High income"= "Alto","Upper middle income" = "Medio_Alto","Lower middle income" = "Medio_Bajo","Low income" = "Bajo"))
+
+ungroup(base_completa)
+
+## IHSM
+ggplot(data = base_completa, 
+       mapping = aes(x= IHSM)) + 
+    geom_histogram(color = "green", fill = "lightseagreen",bins = 100)+
+    labs(title = "Histograma de IHSM", subtitle = "Índice Humano de Salud Mental",y = "Frecuencia" , caption = "Produccion Propia")+
+  geom_freqpoly(bins = 100, color = "red")+
+    theme_classic()
+
+##GINId
+ggplot(data = base_completa, 
+       mapping = aes(x= GINId)) + 
+    geom_histogram(color = "lightcyan1", fill = "lightcyan3",bins = 100)+
+    labs(title = "Histograma de GINI", subtitle = "Despues de impuestos",y = "Frecuencia" , caption = "Banco Mundial")+
+  geom_freqpoly(bins = 100, color = "mediumblue")+
+    theme_classic()
+
+## IC
+ggplot(data = base_completa, 
+       mapping = aes(x= IC)) + 
+    geom_histogram(color = "lightcyan1", fill = "lightcyan3",bins = 100)+
+    labs(title = "Histograma de Índice de Percepcion de la Corrupcion",y = "Frecuencia" , caption = "DatosMacro")+
+  geom_freqpoly(bins = 100, color = "mediumblue")+
+    theme_classic()
+
+## IDH
+ggplot(data = base_completa, 
+       mapping = aes(x= IDH)) + 
+    geom_histogram(color = "lightcyan1", fill = "lightcyan3",bins = 100)+
+    labs(title = "Histograma de Índice de Desarrollo Humano",y = "Frecuencia", caption = "DatosMacro")+
+  geom_freqpoly(bins = 100, color = "mediumblue")+
+    theme_classic()
+
+## GPS
+ggplot(data = base_completa, 
+       mapping = aes(x= GPS)) + 
+    geom_histogram(color = "lightcyan1", fill = "lightcyan3",bins = 100)+
+    labs(title = "Histograma de Gasto Publico en Salud",y = "Frecuencia", caption = "DatosMacro")+
+  geom_freqpoly(bins = 100, color = "mediumblue")+
+    theme_classic()
+
+## GPE
+ggplot(data = base_completa, 
+       mapping = aes(x= GPE)) + 
+    geom_histogram(color = "lightcyan1", fill = "lightcyan3",bins = 100)+
+    labs(title = "Histograma de Gasto Publico en Educacion",y = "Frecuencia", caption = "DatosMacro")+
+  geom_freqpoly(bins = 100, color = "mediumblue")+
+    theme_classic()
+
+## GPD
+ggplot(data = base_completa, 
+       mapping = aes(x= GPD)) + 
+    geom_histogram(color = "lightcyan1", fill = "lightcyan3",bins = 75)+
+    labs(title = "Histograma de Gasto Publico en Defensa",y = "Frecuencia", caption = "DatosMacro")+
+  geom_freqpoly(bins = 75, color = "mediumblue")+
+    theme_classic()
+
+## IncomeGroup
+ggplot(data = base_completa,
+       mapping = aes(x = IncomeGroup)) +
+  geom_bar(color = "mediumblue", fill = "white")+
+  labs(title = "Histograma de Gasto Publico en Defensa",y = "Frecuencia",x= "Niveles de ingreso", caption = "DatosMacro")+
+    theme_classic()
+  
+```
+
+## Punto 7
+
+```{r}
+
+variables_cor <- base_completa %>% select(IHSM,GINId,IC,IDH,GPS,GPE,GPD)
+class(base_completa)
+variables_cor <- base_completa %>% select(-paises_P)
+cor(variables_cor,  use = "complete.obs")
+```
