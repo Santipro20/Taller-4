@@ -3,9 +3,9 @@ title: "Taller 4"
 author: Santiago López Rodríguez, Manuel Alejandro Noriega Lizarazo y Xara Lucia Chamorro
   Aristizabal
 output:
-  pdf_document: default
   html_document:
     df_print: paged
+  pdf_document: default
 ---
 
 ## Librerias
@@ -151,14 +151,21 @@ base_completa <- base_completa %>%
   ungroup() %>%
   group_by(IncomeGroup)%>%
   mutate(IHSM_ajustado = ((IHSM- min(IHSM))/(max(IHSM)-min(IHSM))*100))
+
+base_completa<- tibble(base_completa)
+
+base_completa1 <- drop_na(base_completa,IncomeGroup)
+
+class(base_completa1)
 ```
 
 ### Estadistica Descritiva
 
 ```{r}
-resumen_paises <- base_completa %>%
-    summarize(across(.cols = c("IHSM_ajustado","GINId","IC","IDH","GPS","GPE","GPD"), list(Media=~mean(.x,na.rm = T), DesviacionEstandar=~sd(.x,na.rm = T), Maximo=~max(.x,na.rm = T), Minimo=~min(.x,na.rm = T), Mediana=~median(.x,na.rm = T))))
-
+resumen_paises <- base_completa1 %>%
+    group_by(paises_P)%>%  
+    summarize(across(.cols = c("IHSM_ajustado","GINId","IC","IDH","GPS","GPE","GPD"), list(Media=~mean(.x,na.rm = T), DesviacionEstandar=~sd(.x,na.rm = T), Maximo=~max(.x,na.rm = T), Minimo=~min(.x,na.rm = T), Mediana=~median(.x,na.rm = T)))) %>%
+      ungroup()
 
 ```
 
@@ -166,64 +173,64 @@ resumen_paises <- base_completa %>%
 
 ```{r}
 # Histogramas de la variable dependiente, e independientes principales
-base_completa <- base_completa %>%
-  mutate(IncomeGroup = recode(IncomeGroup,"High income"= "Alto","Upper middle income" = "Medio_Alto","Lower middle income" = "Medio_Bajo","Low income" = "Bajo"))
+base_completa1 <- base_completa1 %>%
+  mutate(IncomeGroup = recode(IncomeGroup,"High income"= "Alto","Upper middle income" = "Medio Alto","Lower middle income" = "Medio Bajo","Low income" = "Bajo"))
 
 
 ## IHSM
-ggplot(data = base_completa, 
+ggplot(data = base_completa1, 
        mapping = aes(x= IHSM_ajustado,color = IncomeGroup)) + 
     geom_histogram( fill = "lightseagreen",bins = 100)+
     labs(title = "Histograma de IHSM", subtitle = "Índice Humano de Salud Mental",y = "Frecuencia" , caption = "Produccion Propia")+
     theme_classic()
 
 ##GINId
-ggplot(data = base_completa, 
+ggplot(data = base_completa1, 
        mapping = aes(x= GINId,color = IncomeGroup)) + 
     geom_histogram(fill = "lightcyan3",bins = 100)+
     labs(title = "Histograma de GINI", subtitle = "Despues de impuestos",y = "Frecuencia" , caption = "Banco Mundial")+
     theme_classic()
 
 ## IC
-ggplot(data = base_completa, 
+ggplot(data = base_completa1, 
        mapping = aes(x= IC,color = IncomeGroup)) + 
     geom_histogram(fill = "lightcyan3",bins = 100)+
     labs(title = "Histograma de Índice de Percepcion de la Corrupcion",y = "Frecuencia" , caption = "DatosMacro")+
     theme_classic()
 
 ## IDH
-ggplot(data = base_completa, 
+ggplot(data = base_completa1, 
        mapping = aes(x= IDH,color = IncomeGroup)) + 
     geom_histogram(fill = "lightcyan3",bins = 100)+
     labs(title = "Histograma de Índice de Desarrollo Humano",y = "Frecuencia", caption = "DatosMacro")+
     theme_classic()
 
 ## GPS
-ggplot(data = base_completa, 
+ggplot(data = base_completa1, 
        mapping = aes(x= GPS,color = IncomeGroup)) + 
     geom_histogram(fill = "lightcyan3",bins = 100)+
     labs(title = "Histograma de Gasto Publico en Salud",y = "Frecuencia", caption = "DatosMacro")+
     theme_classic()
 
 ## GPE
-ggplot(data = base_completa, 
+ggplot(data = base_completa1, 
        mapping = aes(x= GPE,color = IncomeGroup)) + 
     geom_histogram( fill = "lightcyan3",bins = 100)+
     labs(title = "Histograma de Gasto Publico en Educacion",y = "Frecuencia", caption = "DatosMacro")+
     theme_classic()
 
 ## GPD
-ggplot(data = base_completa, 
+ggplot(data = base_completa1, 
        mapping = aes(x= GPD,color = IncomeGroup)) + 
     geom_histogram(fill = "lightcyan3",bins = 75)+
     labs(title = "Histograma de Gasto Publico en Defensa",y = "Frecuencia", caption = "DatosMacro")+
     theme_classic()
 
 ## IncomeGroup
-ggplot(data = base_completa,
+ggplot(data = base_completa1,
        mapping = aes(x = IncomeGroup)) +
   geom_bar(color = "mediumblue", fill = "white")+
-  labs(title = "Histograma de Gasto Publico en Defensa",y = "Frecuencia",x= "Niveles de ingreso", caption = "DatosMacro")+
+  labs(title = "Diagrama de Barras de Grupo de Ingreso",y = "Frecuencia",x= "Niveles de ingreso", caption = "DatosMacro")+
     theme_classic()
   
 ```
@@ -231,11 +238,6 @@ ggplot(data = base_completa,
 ## Punto 7
 
 ```{r}
-base_completa<- tibble(base_completa)
-
-base_completa1 <- drop_na(base_completa,IncomeGroup)
-
-class(base_completa1)
 
 variables_cor <- base_completa1 %>% select(IHSM_ajustado,GINId,IC,IDH,GPS,GPE,GPD)
 
