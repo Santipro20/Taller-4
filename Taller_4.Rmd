@@ -3,6 +3,7 @@ title: "Taller 4"
 author: Santiago López Rodríguez, Manuel Alejandro Noriega Lizarazo y Xara Lucia Chamorro
   Aristizabal
 output:
+  pdf_document: default
   html_document:
     df_print: paged
 ---
@@ -140,6 +141,11 @@ arrange(base_completa,desc(IHSM))
 
 base_completa<- base_completa %>%
     mutate(IHSM = IHSM*100)
+
+base_completa <- base_completa %>%
+  ungroup() %>%
+  group_by(IncomeGroup)%>%
+  mutate(IHSM_ajustado = ((IHSM- min(IHSM))/(max(IHSM)-min(IHSM))*100))
 ```
 
 ### Estadistica Descritiva
@@ -158,62 +164,54 @@ resumen_paises <- base_completa %>%
 base_completa <- base_completa %>%
   mutate(IncomeGroup = recode(IncomeGroup,"High income"= "Alto","Upper middle income" = "Medio_Alto","Lower middle income" = "Medio_Bajo","Low income" = "Bajo"))
 
-ungroup(base_completa)
 
 ## IHSM
 ggplot(data = base_completa, 
-       mapping = aes(x= IHSM)) + 
-    geom_histogram(color = "green", fill = "lightseagreen",bins = 100)+
+       mapping = aes(x= IHSM,color = IncomeGroup)) + 
+    geom_histogram( fill = "lightseagreen",bins = 100)+
     labs(title = "Histograma de IHSM", subtitle = "Índice Humano de Salud Mental",y = "Frecuencia" , caption = "Produccion Propia")+
-  geom_freqpoly(bins = 100, color = "red")+
     theme_classic()
 
 ##GINId
 ggplot(data = base_completa, 
-       mapping = aes(x= GINId)) + 
-    geom_histogram(color = "lightcyan1", fill = "lightcyan3",bins = 100)+
+       mapping = aes(x= GINId,color = IncomeGroup)) + 
+    geom_histogram(fill = "lightcyan3",bins = 100)+
     labs(title = "Histograma de GINI", subtitle = "Despues de impuestos",y = "Frecuencia" , caption = "Banco Mundial")+
-  geom_freqpoly(bins = 100, color = "mediumblue")+
     theme_classic()
 
 ## IC
 ggplot(data = base_completa, 
-       mapping = aes(x= IC)) + 
-    geom_histogram(color = "lightcyan1", fill = "lightcyan3",bins = 100)+
+       mapping = aes(x= IC,color = IncomeGroup)) + 
+    geom_histogram(fill = "lightcyan3",bins = 100)+
     labs(title = "Histograma de Índice de Percepcion de la Corrupcion",y = "Frecuencia" , caption = "DatosMacro")+
-  geom_freqpoly(bins = 100, color = "mediumblue")+
     theme_classic()
 
 ## IDH
 ggplot(data = base_completa, 
-       mapping = aes(x= IDH)) + 
-    geom_histogram(color = "lightcyan1", fill = "lightcyan3",bins = 100)+
+       mapping = aes(x= IDH,color = IncomeGroup)) + 
+    geom_histogram(fill = "lightcyan3",bins = 100)+
     labs(title = "Histograma de Índice de Desarrollo Humano",y = "Frecuencia", caption = "DatosMacro")+
-  geom_freqpoly(bins = 100, color = "mediumblue")+
     theme_classic()
 
 ## GPS
 ggplot(data = base_completa, 
-       mapping = aes(x= GPS)) + 
-    geom_histogram(color = "lightcyan1", fill = "lightcyan3",bins = 100)+
+       mapping = aes(x= GPS,color = IncomeGroup)) + 
+    geom_histogram(fill = "lightcyan3",bins = 100)+
     labs(title = "Histograma de Gasto Publico en Salud",y = "Frecuencia", caption = "DatosMacro")+
-  geom_freqpoly(bins = 100, color = "mediumblue")+
     theme_classic()
 
 ## GPE
 ggplot(data = base_completa, 
-       mapping = aes(x= GPE)) + 
-    geom_histogram(color = "lightcyan1", fill = "lightcyan3",bins = 100)+
+       mapping = aes(x= GPE,color = IncomeGroup)) + 
+    geom_histogram( fill = "lightcyan3",bins = 100)+
     labs(title = "Histograma de Gasto Publico en Educacion",y = "Frecuencia", caption = "DatosMacro")+
-  geom_freqpoly(bins = 100, color = "mediumblue")+
     theme_classic()
 
 ## GPD
 ggplot(data = base_completa, 
-       mapping = aes(x= GPD)) + 
-    geom_histogram(color = "lightcyan1", fill = "lightcyan3",bins = 75)+
+       mapping = aes(x= GPD,color = IncomeGroup)) + 
+    geom_histogram(fill = "lightcyan3",bins = 75)+
     labs(title = "Histograma de Gasto Publico en Defensa",y = "Frecuencia", caption = "DatosMacro")+
-  geom_freqpoly(bins = 75, color = "mediumblue")+
     theme_classic()
 
 ## IncomeGroup
@@ -228,9 +226,46 @@ ggplot(data = base_completa,
 ## Punto 7
 
 ```{r}
+base_completa<- tibble(base_completa)
+
+class(base_completa)
 
 variables_cor <- base_completa %>% select(IHSM,GINId,IC,IDH,GPS,GPE,GPD)
-class(base_completa)
-variables_cor <- base_completa %>% select(-paises_P)
+
 cor(variables_cor,  use = "complete.obs")
 ```
+
+## Punto 8
+
+```{r}
+# GINId
+ggplot(data = base_completa, 
+       mapping = aes(x = IHSM,
+                     y = GINId)) +
+  geom_point(aes(color= IncomeGroup))+
+     geom_smooth(method = "lm")+
+  labs(title = "Entre menor es el GINI", subtitle = "mayor es el Indice Humano de Salud Mental", x = "Indice Humano de Salud Mental", y = "GINI despues de impuestos", caption = "Produccion Propia", color= "Grupo de Ingreso")+
+  theme_classic()
+
+# IC
+ggplot(data = base_completa, 
+       mapping = aes(x = IHSM_ajustado,
+                     y = IC)) +
+  geom_point(aes(color= IncomeGroup))+
+     geom_smooth(method = "lm",aes(color= IncomeGroup))+
+  labs(title = "Entre mayor es el Índice de Percepcion de la Corrupcion", subtitle = "mayor es el Indice Humano de Salud Mental", x = "Indice Humano de Salud Mental", y = "Índice de Percepcion de la Corrupcion", caption = "Produccion Propia", color= "Grupo de Ingreso")+
+  theme_classic()
+
+# IDH
+
+ggplot(data = base_completa, 
+       mapping = aes(x = IHSM,
+                     y = IDH)) +
+  geom_point(aes(color= IncomeGroup))+
+     geom_smooth(method = "lm")+
+  labs(title = "Entre mayor es el Índice de Desarrollo Humano", subtitle = "mayor es el Indice Humano de Salud Mental", x = "Indice Humano de Salud Mental", y = "Índice de Desarrollo Humano", caption = "Produccion Propia", color= "Grupo de Ingreso")+
+  theme_classic()
+
+
+```
+
