@@ -3,9 +3,9 @@ title: "Taller 4"
 author: Santiago López Rodríguez, Manuel Alejandro Noriega Lizarazo y Xara Lucia Chamorro
   Aristizabal
 output:
+  pdf_document: default
   html_document:
     df_print: paged
-  pdf_document: default
 ---
 
 ## Librerias
@@ -313,3 +313,12 @@ ggplot(data = base_completa1,
   theme_classic()
 ```
 
+## Punto 9
+
+Observamos que en la distribución de las variables todas a excepción del GINI, comparten distribuciones iguales para cada grupo de nivel de ingreso. En el caso del GINI ocurre que los países de ingreso alto, se caracterizan por tener un sesgo hacia la derecha, evidenciando que en los países de ingresos altos la distribución de la riqueza es menos desigual. Por otro lado, el histograma IHSM presenta una distribución sesgada hacia la derecha, denotando que a pesar de la diferencia del nivel de riqueza de los países tienen un comportamiento similar en el reporte de enfermedades mentales. Y son muy pocos los países con indices criticos de salud mental. Con respecto a la corrupción, se observa que los países que se perciben menos corruptos son los de ingreso alto, y el comportamiento de los datos destaca un sesgo hacía la derecha. Resaltando, que los datos se concentran en 25 una percepción corrupta de la gestión del país.
+
+En terminos de calidad de vida, se observa que a medida el nivel de ingreso aumenta la distribución de los datos se concentra más hacia un IDH más alto. Por ejemplo, el IDH de los paises de ingreso bajo se concentra aproximadamente en 40 mientras que la de los ingresos alto se concentra en 75. En lo concerniente de los gastos publicos de salud, educación y defensa las distribuciones son similares sesgadas a la derecha y sin cambios relevantes entre los grupos de ingreso. Por ultimo en la distribución del GINI se encuentra que la desigualdad no tiene mayor efecto en el IHSM. Pero extraordinariamente a medida hay menos percepción de corrupción, el IHSM es mayor, relación que puede explicarse porque la mayor confianza en las instituciones da un ambiente propicio para el reporte de enfermedades mentales.
+
+En las relaciones de las variables, los datos muestran que a medida aumenta el IDH, es decir la calidad de vida en los países el reporte de enfermedades también aumenta de gran manera. Relación que sugiere que los países con menor calidad de vida parecen tener mejores puntajes de salud mental. Sin embargo, esta relación puede ser explicada por muchos factores uno de ellos es que en estos países con menor calidad de vida (IDH) los ciudadanos no tienen la capacidad para reportar las enfermedades mentales. Tambien se observa que el gasto publico en salud aumenta el IHSM, esta relación puede fundamentarse en que el aumento de mayor rubro en salud incrementa la capacidad y acceso de servicios para las personas los que incrementa el reporte de enfermedades mentales.
+
+Finalmente, para el gasto en defensa no se destaca ninguna relación importante con el IHSM. Pero se encuentra que al aumentar el gasto publico en Educación aumentan el IHSM, es decir empeora la salud mental. Lo que sugiere que la actividad educativa propicia condiciones favorables para que surjan enfermedades mentales. Esta relación se puede fundamentar en la generación de estres y ansiedad que fomenta el **método** educativo actual.
